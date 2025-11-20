@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65367360-112F-4F92-9D92-4958C4E92B66}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SpecPro</RootNamespace>
+    <AssemblyName>SpecPro</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Spec.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http">
+      <HintPath>..\..\Program Files (x86)\Microsoft Visual Studio\Shared\Packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+      <HintPath>..\..\Program Files (x86)\Microsoft Visual Studio\Shared\Packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.WebRequest.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DS_bru.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_bru.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_buy.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_buy.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_cust.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_cust.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_info.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_info.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_kod.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_kod.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_log.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_log.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_pdf.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_pdf.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_prep.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_prep.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_rep.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_rep.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_repr.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_repr.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_spec.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_spec.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_stat.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_stat.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_usr.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_usr.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms.Designer.cs">
+      <DependentUpon>Forms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Dial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Dial.Designer.cs">
+      <DependentUpon>Form_Dial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Spec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Spec.Designer.cs">
+      <DependentUpon>Form_Spec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sproDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sproDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="turnoverDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>turnoverDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms.resx">
+      <DependentUpon>Forms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Dial.resx">
+      <DependentUpon>Form_Dial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Spec.resx">
+      <DependentUpon>Form_Spec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_bru.xsc">
+      <DependentUpon>DS_bru.xsd</DependentUpon>
+    </None>
+    <None Include="DS_bru.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_bru.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_bru.xss">
+      <DependentUpon>DS_bru.xsd</DependentUpon>
+    </None>
+    <None Include="DS_buy.xsc">
+      <DependentUpon>DS_buy.xsd</DependentUpon>
+    </None>
+    <None Include="DS_buy.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_buy.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_buy.xss">
+      <DependentUpon>DS_buy.xsd</DependentUpon>
+    </None>
+    <None Include="DS_cust.xsc">
+      <DependentUpon>DS_cust.xsd</DependentUpon>
+    </None>
+    <None Include="DS_cust.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_cust.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_cust.xss">
+      <DependentUpon>DS_cust.xsd</DependentUpon>
+    </None>
+    <None Include="DS_info.xsc">
+      <DependentUpon>DS_info.xsd</DependentUpon>
+    </None>
+    <None Include="DS_info.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_info.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_info.xss">
+      <DependentUpon>DS_info.xsd</DependentUpon>
+    </None>
+    <None Include="DS_kod.xsc">
+      <DependentUpon>DS_kod.xsd</DependentUpon>
+    </None>
+    <None Include="DS_kod.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_kod.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_kod.xss">
+      <DependentUpon>DS_kod.xsd</DependentUpon>
+    </None>
+    <None Include="DS_log.xsc">
+      <DependentUpon>DS_log.xsd</DependentUpon>
+    </None>
+    <None Include="DS_log.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_log.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_log.xss">
+      <DependentUpon>DS_log.xsd</DependentUpon>
+    </None>
+    <None Include="DS_pdf.xsc">
+      <DependentUpon>DS_pdf.xsd</DependentUpon>
+    </None>
+    <None Include="DS_pdf.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_pdf.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_pdf.xss">
+      <DependentUpon>DS_pdf.xsd</DependentUpon>
+    </None>
+    <None Include="DS_prep.xsc">
+      <DependentUpon>DS_prep.xsd</DependentUpon>
+    </None>
+    <None Include="DS_prep.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_prep.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_prep.xss">
+      <DependentUpon>DS_prep.xsd</DependentUpon>
+    </None>
+    <None Include="DS_rep.xsc">
+      <DependentUpon>DS_rep.xsd</DependentUpon>
+    </None>
+    <None Include="DS_rep.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_rep.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_rep.xss">
+      <DependentUpon>DS_rep.xsd</DependentUpon>
+    </None>
+    <None Include="DS_repr.xsc">
+      <DependentUpon>DS_repr.xsd</DependentUpon>
+    </None>
+    <None Include="DS_repr.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_repr.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_repr.xss">
+      <DependentUpon>DS_repr.xsd</DependentUpon>
+    </None>
+    <None Include="DS_spec.xsc">
+      <DependentUpon>DS_spec.xsd</DependentUpon>
+    </None>
+    <None Include="DS_spec.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_spec.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_spec.xss">
+      <DependentUpon>DS_spec.xsd</DependentUpon>
+    </None>
+    <None Include="DS_stat.xsc">
+      <DependentUpon>DS_stat.xsd</DependentUpon>
+    </None>
+    <None Include="DS_stat.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_stat.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_stat.xss">
+      <DependentUpon>DS_stat.xsd</DependentUpon>
+    </None>
+    <None Include="DS_usr.xsc">
+      <DependentUpon>DS_usr.xsd</DependentUpon>
+    </None>
+    <None Include="DS_usr.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_usr.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_usr.xss">
+      <DependentUpon>DS_usr.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="sproDataSet.xsc">
+      <DependentUpon>sproDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sproDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sproDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sproDataSet.xss">
+      <DependentUpon>sproDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="turnoverDataSet.xsc">
+      <DependentUpon>turnoverDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="turnoverDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>turnoverDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="turnoverDataSet.xss">
+      <DependentUpon>turnoverDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Spec.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

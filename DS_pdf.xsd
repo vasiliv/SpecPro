@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_pdf" targetNamespace="http://tempuri.org/DS_pdf.xsd" xmlns:mstns="http://tempuri.org/DS_pdf.xsd" xmlns="http://tempuri.org/DS_pdf.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=SERVER;Initial Catalog=spro;Persist Security Info=True;User ID=sa;Password=Iigi1234" IsAppSettingsProperty="false" Modifier="Assembly" Name="server.spro.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="files1TableAdapter" GeneratorDataComponentClassName="files1TableAdapter" Name="files1" UserDataComponentName="files1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="server.spro.dbo" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select top 1 files1_name,info1_id,files1_id from outsp.dbo.files1 order by files1_name</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="files1_id" DataSetColumn="files1_id" />
+              <Mapping SourceColumn="info1_id" DataSetColumn="info1_id" />
+              <Mapping SourceColumn="files1_name" DataSetColumn="files1_name" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_pdf" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DS_pdf" msprop:Generator_UserDSName="DS_pdf">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="files1" msprop:Generator_TableClassName="files1DataTable" msprop:Generator_TableVarName="tablefiles1" msprop:Generator_TablePropName="files1" msprop:Generator_RowDeletingName="files1RowDeleting" msprop:Generator_RowChangingName="files1RowChanging" msprop:Generator_RowEvHandlerName="files1RowChangeEventHandler" msprop:Generator_RowDeletedName="files1RowDeleted" msprop:Generator_UserTableName="files1" msprop:Generator_RowChangedName="files1RowChanged" msprop:Generator_RowEvArgName="files1RowChangeEvent" msprop:Generator_RowClassName="files1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="files1_id" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnfiles1_id" msprop:Generator_ColumnPropNameInRow="files1_id" msprop:Generator_ColumnPropNameInTable="files1_idColumn" msprop:Generator_UserColumnName="files1_id" type="xs:int" />
+              <xs:element name="info1_id" msprop:Generator_ColumnVarNameInTable="columninfo1_id" msprop:Generator_ColumnPropNameInRow="info1_id" msprop:Generator_ColumnPropNameInTable="info1_idColumn" msprop:Generator_UserColumnName="info1_id" type="xs:int" minOccurs="0" />
+              <xs:element name="files1_name" msprop:Generator_ColumnVarNameInTable="columnfiles1_name" msprop:Generator_ColumnPropNameInRow="files1_name" msprop:Generator_ColumnPropNameInTable="files1_nameColumn" msprop:Generator_UserColumnName="files1_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:files1" />
+      <xs:field xpath="mstns:files1_id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
