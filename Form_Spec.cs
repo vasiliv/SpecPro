@@ -3499,6 +3499,11 @@ namespace SpecPro
                 }
             }
 
+            //If customer is ემბისი“ 404967078, then spec% must be 4.38
+            if (cust0 == 13)
+            {
+                TB_specpr.Text = "4.38";
+            }
             if ((av == 0) && ((cust0 == 2) || (cust0 == 4)))
             {
                 TB_specpr.Text = "3.20";
