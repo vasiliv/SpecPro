@@ -15,7 +15,7 @@ namespace SpecPro
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_Dial());
+            Application.Run(new Form_Dial()); //initial form with password            
         }
     }
 }
