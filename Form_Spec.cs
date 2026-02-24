@@ -3499,11 +3499,8 @@ namespace SpecPro
                 }
             }
 
-            //If customer is ემბისი“ 404967078, then spec% must be 4.38
-            if (cust0 == 13)
-            {
-                TB_specpr.Text = "4.38";
-            }
+            
+
             if ((av == 0) && ((cust0 == 2) || (cust0 == 4)))
             {
                 TB_specpr.Text = "3.20";
@@ -3541,14 +3538,14 @@ namespace SpecPro
                     TB_auqpr.Text = "0.00";
                 }
             }
-
+            //igoris dacerili
             if (cust0 == 5)
             {
 
                 if (auqt0 == "RS.ge")
                 {
                     TB_specpr.Text = "3.98";
-                    TB_auqpr.Text = "1.18";
+                    TB_auqpr.Text = "1.00";
                 }
             }
 
@@ -3759,6 +3756,26 @@ namespace SpecPro
                 {
                     TB_auqpr.Text = "0.00";
                 }
+            }
+            //Task 5
+
+            //If customer is "ემბისი" 404967078
+            if (cust0 == 13)
+            {
+                //Task 5.1                
+                TB_auqt.Text = "RS.ge";
+                CB_prepaid.Text = "590.00";
+                TB_specpr.Text = "4.38";
+                TB_auqpr.Text = "1.00";
+            }
+            //If customer is "კრედო ბანკი"
+            if (cust0 == 5)
+            {
+                //Task 5.2                
+                TB_auqt.Text = "RS.ge";
+                CB_prepaid.Text = "590.00";
+                TB_specpr.Text = "3.98";
+                TB_auqpr.Text = "1.00";
             }
 
             try
@@ -4000,7 +4017,8 @@ namespace SpecPro
                         if (auqt0 == "RS.ge")
                         {
                             TB_specpr.Text = "3.98";
-                            TB_auqpr.Text = "1.18";
+                            //igoris dacerili
+                            TB_auqpr.Text = "1.00";
                         }
                     }
 
