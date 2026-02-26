@@ -83,12 +83,12 @@ namespace SpecPro
         public int rowwg = 0;
         public int mx;
         public int my;
-        
+
         /*public struct useridliq
         {
             public string user;
             public int user_id;
-        };*/  
+        };*/
 
         public Form_Spec()
         {
@@ -1193,7 +1193,7 @@ namespace SpecPro
                             }
                         }
                     }
-                    
+
                     string dg = DGV_info.Rows[rowwgi].Cells["dgg"].Value.ToString();
 
                     if (dg == "YES")
@@ -1824,7 +1824,7 @@ namespace SpecPro
                 /*filter_base = "((stat = 'SOLD') or (stat = 'Canceld') or (stat = 'SOLD (2)') or (stat = 'SOLD (3)') or (stat = 'SOLD (Stationar)') or (stat = 'BROCKED'))";*/
 
                 Sql.CommandText = "SELECT nom, dbo.spec_info(inf_i) AS spec, dbo.stat_info(inf_i) AS stat, dbo.cust_info(inf_i) AS cust, representative, ad_date, n_mortgage, dt_mortgage, credit_treaty, credit_id, debt_usd, debt_gel, property_addr, property_code, property, rights, owner, owner_num, owner_addr1, owner_addr2, owner_addr3, owner_addr4, debtor, debtor_num, debtor_addr, debtor1, debtor1_num, debtor1_addr, dbo.doc_info(inf_i) AS doc_orig, dbo.foto_info(inf_i) AS foto, prepaid, sales_usd, price_usd, price_gel, dbo.post_send(inf_i) AS post_send, post_reg, dbo.tnt_send(inf_i) AS tnt_send, tnt_reg, dbo.cur_send(inf_i) AS courier, dbo.tel_send(inf_i) AS tel, dbo.rez_send(inf_i) AS rez, dbo.mac_send(inf_i) AS macne, dbo.start1(inf_i) AS auc_start, dbo.end1(inf_i) AS auc_end, lot_num, price1_usd, price1_gel, dbo.post1_send(inf_i) AS post1_send, post1_reg, dbo.tnt1_send(inf_i) AS tnt1_send, tnt1_reg, dbo.cur1_send(inf_i) AS courier1, dbo.tel1_send(inf_i) AS tel1, dbo.rez1_send(inf_i) AS rez1, dbo.mac1_send(inf_i) AS macne1, dbo.start2(inf_i) AS auc1_start, dbo.end2(inf_i) AS auc1_end, lot1_num, price2_usd, price2_gel, dbo.post2_send(inf_i) AS post2_send, post2_reg, dbo.tnt2_send(inf_i) AS tnt2_send, tnt2_reg, dbo.cur2_send(inf_i) AS courier2, dbo.tel2_send(inf_i) AS tel2, dbo.rez2_send(inf_i) AS rez2, dbo.mac2_send(inf_i) AS macne2, dbo.start3(inf_i) AS auc2_start, dbo.end3(inf_i) AS auc2_end, lot2_num, buyer, sum_gel, dbo.dgg_info(inf_i) AS dgg, inf_i, dbo.prep(ltrim(rtrim(nom))) AS prepaid_dt, repres_mail, owner_tel, gazrez, harmacne, dbo.spec(inf_i) as harspec, dbo.dgg_dat(inf_i) AS dgg0, dbo.eacut(inf_i) as eacution,dbo.eacut(inf_i) as eacution1,dbo.dgg_dat(inf_i) AS dgg1,dbo.bank_info(inf_i) AS bank,dbo.fee(inf_i) AS fee,isnull(freeze,0) as freeze,isnull(freeze_1,0) as freeze_1,end_date,auc2,auc2_dt,auc3,auc3_dt,gaz,gaz_dt,mac,mac_dt,specpr,kor,isnull(pdfo,0) as  pdfo,isnull(sales_eur,0) as sales_eur,dbo.fee(inf_i) * 0.0059 -  dbo.prep(ltrim(rtrim(nom)))  AS coms,auqpr,auqt,liquid_price,comment,dbo.chstg(inf_i) as chsg  FROM info where end_date is not null and end_date >= " + "'" + DateTime.Today.AddYears(-1).Date.ToString("yyyyMMdd") + "' ORDER BY dbo.nom(inf_i)";
-                
+
                 filter_base = "end_date is not null and end_date >= " + "'" + DateTime.Today.AddYears(-1).Date.ToString() + "'";
                 B_clon.Enabled = true;
             }
@@ -3322,7 +3322,7 @@ namespace SpecPro
                     {
                         dt22 = "null";
                     }
-                    
+
                     if (TB_auc2_start.Text.Trim() != "")
                     {
                         d0 = TB_auc2_start.Value.Date;
@@ -3335,7 +3335,7 @@ namespace SpecPro
                     {
                         dt23 = "null";
                     }
-                    
+
                     if (TB_auc2_end.Text.Trim() != "")
                     {
                         d0 = TB_auc2_end.Value.Date;
@@ -3499,7 +3499,7 @@ namespace SpecPro
                 }
             }
 
-            
+
 
             if ((av == 0) && ((cust0 == 2) || (cust0 == 4)))
             {
@@ -3659,7 +3659,7 @@ namespace SpecPro
             {
                 if (aqp == 1)
                 {
-                    TB_auqpr.Text = "1.18";
+                    //TB_auqpr.Text = "1.18";
                 }
             }
             else
@@ -3756,26 +3756,6 @@ namespace SpecPro
                 {
                     TB_auqpr.Text = "0.00";
                 }
-            }
-            //Task 5
-
-            //If customer is "ემბისი" 404967078
-            if (cust0 == 13)
-            {
-                //Task 5.1                
-                TB_auqt.Text = "RS.ge";
-                CB_prepaid.Text = "590.00";
-                TB_specpr.Text = "4.38";
-                TB_auqpr.Text = "1.00";
-            }
-            //If customer is "კრედო ბანკი"
-            if (cust0 == 5)
-            {
-                //Task 5.2                
-                TB_auqt.Text = "RS.ge";
-                CB_prepaid.Text = "590.00";
-                TB_specpr.Text = "3.98";
-                TB_auqpr.Text = "1.00";
             }
 
             try
@@ -5025,7 +5005,7 @@ namespace SpecPro
                         goto l1;
                     }
                 }
-            l1: ;
+            l1:;
             }
             else
             {
@@ -5041,7 +5021,7 @@ namespace SpecPro
                             goto l2;
                         }
                     }
-                l2: ;
+                l2:;
                 }
                 else
                 {
@@ -5057,7 +5037,7 @@ namespace SpecPro
                                 goto l3;
                             }
                         }
-                    l3: ;
+                    l3:;
                     }
                 }
             }
@@ -6436,7 +6416,7 @@ namespace SpecPro
 
                 }
 
-            l1: ;
+            l1:;
 
                 LB_resp.AppendText("ტრანზაქციის # " + count.ToString() + (char)13);
 
@@ -7523,7 +7503,7 @@ namespace SpecPro
             infi = DGV_info.Rows[rowwgi].Cells["inf_i"].Value.ToString();
 
             Sql.CommandText = "insert into info (nom,spec,stat,cust,representative,ad_date,n_mortgage,dt_mortgage,credit_treaty,credit_id,debt_usd,debt_gel,property_addr,property_code,property,rights,owner,owner_num,owner_addr1,	owner_addr2,owner_addr3,owner_addr4,debtor,debtor_num,debtor_addr,debtor1,debtor1_num,debtor1_addr,doc_orig,foto,prepaid,sales_usd,price_usd,price_gel,lot_num,price1_usd,price1_gel,lot1_num,price2_usd,price2_gel,lot2_num,buyer,sum_gel,dgg,repres_mail,owner_tel,gazrez,harmacne,post_send_0,tnt_send_0,courier_0,tel_0,rez_0,macne_0,auc_start_0,auc_end_0,post_send_1,tnt_send_1,courier_1,tel_1,rez_1,macne_1,auc_start_1,auc_end_1,post_send_2,tnt_send_2,courier_2,tel_2,rez_2,macne_2,auc_start_2,auc_end_2,post_reg,tnt_reg,post1_reg,post2_reg,tnt1_reg,tnt2_reg,freeze,freeze_1,end_date,auc2,auc2_dt,auc3,auc3_dt,gaz,gaz_dt,mac,mac_dt,prepaid_dt,specpr,kor,pdfo,sales_eur,uin,auqpr,auqt,liquid_price,comment)";
-	
+
             Sql.CommandText = Sql.CommandText + " select 0,spec,stat,cust,representative,ad_date,n_mortgage,dt_mortgage,credit_treaty,credit_id,debt_usd,debt_gel,property_addr,property_code,property,rights,owner,owner_num,owner_addr1,owner_addr2,owner_addr3,owner_addr4,debtor,debtor_num,debtor_addr,debtor1,debtor1_num,debtor1_addr,doc_orig,foto,prepaid,sales_usd,price_usd,price_gel,lot_num,price1_usd,price1_gel,lot1_num,price2_usd,price2_gel,lot2_num,buyer,sum_gel,dgg,repres_mail,owner_tel,gazrez,harmacne,post_send_0,tnt_send_0,courier_0,tel_0,rez_0,macne_0,auc_start_0,auc_end_0,post_send_1,tnt_send_1,courier_1,tel_1,rez_1,macne_1,auc_start_1,auc_end_1,post_send_2,tnt_send_2,courier_2,tel_2,rez_2,macne_2,auc_start_2,auc_end_2,post_reg,tnt_reg,post1_reg,post2_reg,tnt1_reg,tnt2_reg,freeze,freeze_1,end_date,auc2,auc2_dt,auc3,auc3_dt,gaz,gaz_dt,mac,mac_dt,prepaid_dt,specpr,kor,pdfo,sales_eur,uin,auqpr,auqt,liquid_price,comment from info where inf_i = " + infi;
 
             try
@@ -7764,7 +7744,28 @@ namespace SpecPro
 
             pr_refrep(sender, e);
         }
-
+        private void TB_cust_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //Task 5.1
+            //If customer is მიკრობანკი "ემბისი" 404967078            
+            //if (TB_cust.SelectedValue.ToString() == "სს მიკრობანკი „ემბისი“ 404967078")
+            if (TB_cust.Text == "სს მიკრობანკი „ემბისი“ 404967078")
+            {
+                TB_auqt.SelectedValue = "RS.ge";
+                CB_prepaid.Text = "590.00";
+                TB_specpr.Text = "4.38";
+                TB_auqpr.Text = "1.00";
+            }
+            //Task 5.2
+            //If customer is "კრედო ბანკი"            
+            //if (TB_cust.SelectedValue.ToString() == "სს კრედო ბანკი")
+            if (TB_cust.Text == "სს კრედო ბანკი")
+            {
+                TB_auqt.SelectedValue = "RS.ge";
+                CB_prepaid.Text = "590.00";
+                TB_specpr.Text = "3.98";
+                TB_auqpr.Text = "1.00";
+            }
+        }
     }
-
 }

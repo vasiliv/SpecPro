@@ -30,147 +30,147 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_Spec));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle283 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle284 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle285 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle286 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle287 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle288 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle289 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle290 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle291 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle292 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle293 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle294 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle295 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle296 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle297 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle298 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle299 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle300 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle301 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle302 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle303 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle304 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle305 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle306 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle307 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle308 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle309 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle310 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle311 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle312 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle313 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle314 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle315 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle316 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle317 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle318 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle319 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle320 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle321 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle322 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle323 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle324 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle325 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle326 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle327 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle328 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle329 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle330 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle331 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle332 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle333 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle334 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle335 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle336 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle337 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle338 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle339 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle340 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle341 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle342 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle343 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle344 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle345 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle346 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle347 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle348 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle349 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle350 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle351 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle352 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle353 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle354 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle355 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle356 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle357 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle358 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle359 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle360 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle361 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle362 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle363 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle364 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle365 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle366 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle367 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle368 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle369 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle370 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle371 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle372 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle373 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle374 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle375 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle376 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle377 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle378 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle379 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle380 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle381 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle382 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle383 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle384 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle385 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle386 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle387 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle388 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle389 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle390 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle391 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle392 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle393 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle394 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle395 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle396 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle397 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle398 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle399 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle400 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle401 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle402 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle403 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle404 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle405 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle406 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle407 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle408 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle409 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle410 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle411 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle412 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle413 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle414 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle415 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle416 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle417 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle418 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle419 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle420 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle421 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle422 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle423 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle26 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle27 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle28 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle29 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle30 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle31 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle32 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle33 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle34 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle35 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle36 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle37 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle38 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle39 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle40 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle41 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle42 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle43 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle44 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle45 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle46 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle47 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle48 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle49 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle50 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle51 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle52 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle53 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle54 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle55 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle56 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle57 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle58 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle59 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle60 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle61 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle62 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle63 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle64 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle65 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle66 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle67 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle68 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle69 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle70 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle71 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle72 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle73 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle74 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle75 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle76 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle77 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle78 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle79 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle80 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle81 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle82 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle83 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle84 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle85 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle86 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle87 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle88 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle89 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle90 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle91 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle92 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle93 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle94 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle95 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle96 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle97 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle98 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle99 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle100 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle101 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle102 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle103 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle104 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle105 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle106 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle107 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle108 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle109 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle110 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle111 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle112 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle113 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle114 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle115 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle116 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle117 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle118 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle119 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle120 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle121 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle122 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle123 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle124 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle125 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle126 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle127 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle128 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle129 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle130 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle131 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle132 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle133 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle134 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle135 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle136 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle137 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle138 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle139 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle140 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle141 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle25 = new System.Windows.Forms.DataGridViewCellStyle();
             this.Menu1 = new System.Windows.Forms.MenuStrip();
             this.Mitem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.Mitem2 = new System.Windows.Forms.ToolStripMenuItem();
@@ -774,6 +774,12 @@
             this.TA_bru = new SpecPro.DS_bruTableAdapters.receiptsTableAdapter();
             this.OFD = new System.Windows.Forms.OpenFileDialog();
             this.Pa_rep = new System.Windows.Forms.Panel();
+            this.Pa_prc = new System.Windows.Forms.Panel();
+            this.label158 = new System.Windows.Forms.Label();
+            this.TB_prc = new System.Windows.Forms.TextBox();
+            this.B_save_prc = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.B_cl_prc = new System.Windows.Forms.Button();
             this.DGV_rep = new System.Windows.Forms.DataGridView();
             this.nom_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.stdt = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -860,12 +866,6 @@
             this.dS_kur = new SpecPro.turnoverDataSet();
             this.B_cl_kur = new System.Windows.Forms.Button();
             this.TA_kur = new SpecPro.turnoverDataSetTableAdapters.isoTableAdapter();
-            this.Pa_prc = new System.Windows.Forms.Panel();
-            this.B_save_prc = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.B_cl_prc = new System.Windows.Forms.Button();
-            this.TB_prc = new System.Windows.Forms.TextBox();
-            this.label158 = new System.Windows.Forms.Label();
             this.Menu1.SuspendLayout();
             this.Pa_psw.SuspendLayout();
             this.Pa_chusr.SuspendLayout();
@@ -931,6 +931,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.BS_bru)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_bru)).BeginInit();
             this.Pa_rep.SuspendLayout();
+            this.Pa_prc.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_rep)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_rep)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_rep)).BeginInit();
@@ -941,11 +942,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGV_kur)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_kur)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_kur)).BeginInit();
-            this.Pa_prc.SuspendLayout();
             this.SuspendLayout();
             // 
             // Menu1
             // 
+            this.Menu1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.Menu1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.Mitem1,
             this.Mitem2,
@@ -953,21 +954,21 @@
             this.Mitem4});
             this.Menu1.Location = new System.Drawing.Point(0, 0);
             this.Menu1.Name = "Menu1";
-            this.Menu1.Size = new System.Drawing.Size(1242, 24);
+            this.Menu1.Size = new System.Drawing.Size(1242, 29);
             this.Menu1.TabIndex = 1;
             this.Menu1.Text = "menuStrip1";
             // 
             // Mitem1
             // 
             this.Mitem1.Name = "Mitem1";
-            this.Mitem1.Size = new System.Drawing.Size(96, 20);
+            this.Mitem1.Size = new System.Drawing.Size(168, 25);
             this.Mitem1.Text = "პაროლის შეცვლა";
             this.Mitem1.Click += new System.EventHandler(this.pr_step1);
             // 
             // Mitem2
             // 
             this.Mitem2.Name = "Mitem2";
-            this.Mitem2.Size = new System.Drawing.Size(198, 20);
+            this.Mitem2.Size = new System.Drawing.Size(346, 25);
             this.Mitem2.Text = "მომხმარებლის დამატემა/რედაქტირება";
             this.Mitem2.Click += new System.EventHandler(this.pr_step2);
             // 
@@ -981,55 +982,55 @@
             this.Mitem10,
             this.Mitem11});
             this.Mitem3.Name = "Mitem3";
-            this.Mitem3.Size = new System.Drawing.Size(139, 20);
+            this.Mitem3.Size = new System.Drawing.Size(239, 25);
             this.Mitem3.Text = "მუშაობა ინფორმაციასთან";
             // 
             // Mitem5
             // 
             this.Mitem5.Name = "Mitem5";
-            this.Mitem5.Size = new System.Drawing.Size(166, 22);
+            this.Mitem5.Size = new System.Drawing.Size(268, 26);
             this.Mitem5.Text = "კლიენტთა ბაზა";
             this.Mitem5.Click += new System.EventHandler(this.pr_info);
             // 
             // Mitem7
             // 
             this.Mitem7.Name = "Mitem7";
-            this.Mitem7.Size = new System.Drawing.Size(166, 22);
+            this.Mitem7.Size = new System.Drawing.Size(268, 26);
             this.Mitem7.Text = "Log";
             this.Mitem7.Click += new System.EventHandler(this.pr_log);
             // 
             // Mitem8
             // 
             this.Mitem8.Name = "Mitem8";
-            this.Mitem8.Size = new System.Drawing.Size(166, 22);
+            this.Mitem8.Size = new System.Drawing.Size(268, 26);
             this.Mitem8.Text = "ოპერაციების კოდები";
             this.Mitem8.Click += new System.EventHandler(this.pr_kod);
             // 
             // Mitem9
             // 
             this.Mitem9.Name = "Mitem9";
-            this.Mitem9.Size = new System.Drawing.Size(166, 22);
+            this.Mitem9.Size = new System.Drawing.Size(268, 26);
             this.Mitem9.Text = "ბრუნვები";
             this.Mitem9.Click += new System.EventHandler(this.pr_bru);
             // 
             // Mitem10
             // 
             this.Mitem10.Name = "Mitem10";
-            this.Mitem10.Size = new System.Drawing.Size(166, 22);
+            this.Mitem10.Size = new System.Drawing.Size(268, 26);
             this.Mitem10.Text = "ACC";
             this.Mitem10.Click += new System.EventHandler(this.pr_rep);
             // 
             // Mitem11
             // 
             this.Mitem11.Name = "Mitem11";
-            this.Mitem11.Size = new System.Drawing.Size(166, 22);
+            this.Mitem11.Size = new System.Drawing.Size(268, 26);
             this.Mitem11.Text = "New User_Outdoor";
             this.Mitem11.Click += new System.EventHandler(this.pr_usrout);
             // 
             // Mitem4
             // 
             this.Mitem4.Name = "Mitem4";
-            this.Mitem4.Size = new System.Drawing.Size(101, 20);
+            this.Mitem4.Size = new System.Drawing.Size(177, 25);
             this.Mitem4.Text = "ვალუტის კურსები";
             this.Mitem4.Click += new System.EventHandler(this.pr_kur);
             // 
@@ -1056,7 +1057,7 @@
             this.TB_aha.Location = new System.Drawing.Point(143, 54);
             this.TB_aha.Name = "TB_aha";
             this.TB_aha.PasswordChar = '*';
-            this.TB_aha.Size = new System.Drawing.Size(180, 22);
+            this.TB_aha.Size = new System.Drawing.Size(180, 26);
             this.TB_aha.TabIndex = 49;
             // 
             // TB_dzve
@@ -1064,7 +1065,7 @@
             this.TB_dzve.Location = new System.Drawing.Point(143, 11);
             this.TB_dzve.Name = "TB_dzve";
             this.TB_dzve.PasswordChar = '*';
-            this.TB_dzve.Size = new System.Drawing.Size(180, 22);
+            this.TB_dzve.Size = new System.Drawing.Size(180, 26);
             this.TB_dzve.TabIndex = 48;
             this.TB_dzve.KeyDown += new System.Windows.Forms.KeyEventHandler(this.pr_entdzve);
             // 
@@ -1074,7 +1075,7 @@
             this.label27.BackColor = System.Drawing.Color.Gainsboro;
             this.label27.Location = new System.Drawing.Point(48, 60);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(88, 14);
+            this.label27.Size = new System.Drawing.Size(105, 18);
             this.label27.TabIndex = 42;
             this.label27.Text = "ახალი პაროლი";
             // 
@@ -1084,7 +1085,7 @@
             this.label25.BackColor = System.Drawing.Color.Gainsboro;
             this.label25.Location = new System.Drawing.Point(36, 17);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(100, 14);
+            this.label25.Size = new System.Drawing.Size(120, 18);
             this.label25.TabIndex = 38;
             this.label25.Text = "ძველი პაროლი - ";
             // 
@@ -1153,7 +1154,7 @@
             this.TB_newusr.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_newusr.Location = new System.Drawing.Point(139, 30);
             this.TB_newusr.Name = "TB_newusr";
-            this.TB_newusr.Size = new System.Drawing.Size(205, 23);
+            this.TB_newusr.Size = new System.Drawing.Size(205, 27);
             this.TB_newusr.TabIndex = 48;
             // 
             // label3
@@ -1162,7 +1163,7 @@
             this.label3.BackColor = System.Drawing.Color.Gainsboro;
             this.label3.Location = new System.Drawing.Point(5, 35);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(135, 14);
+            this.label3.Size = new System.Drawing.Size(160, 18);
             this.label3.TabIndex = 38;
             this.label3.Text = "ახალი მომხმარებელი - ";
             // 
@@ -1203,7 +1204,7 @@
             this.RB_pas.AutoSize = true;
             this.RB_pas.Location = new System.Drawing.Point(90, 7);
             this.RB_pas.Name = "RB_pas";
-            this.RB_pas.Size = new System.Drawing.Size(100, 18);
+            this.RB_pas.Size = new System.Drawing.Size(117, 22);
             this.RB_pas.TabIndex = 1;
             this.RB_pas.TabStop = true;
             this.RB_pas.Text = "შეჩერებულია";
@@ -1214,7 +1215,7 @@
             this.RB_act.AutoSize = true;
             this.RB_act.Location = new System.Drawing.Point(9, 7);
             this.RB_act.Name = "RB_act";
-            this.RB_act.Size = new System.Drawing.Size(77, 18);
+            this.RB_act.Size = new System.Drawing.Size(92, 22);
             this.RB_act.TabIndex = 0;
             this.RB_act.TabStop = true;
             this.RB_act.Text = "აქტიურია";
@@ -1226,7 +1227,7 @@
             this.label1.BackColor = System.Drawing.Color.Gainsboro;
             this.label1.Location = new System.Drawing.Point(50, 183);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 14);
+            this.label1.Size = new System.Drawing.Size(79, 18);
             this.label1.TabIndex = 58;
             this.label1.Text = "სტატუსი - ";
             // 
@@ -1275,7 +1276,7 @@
             this.RB_op.AutoSize = true;
             this.RB_op.Location = new System.Drawing.Point(138, 7);
             this.RB_op.Name = "RB_op";
-            this.RB_op.Size = new System.Drawing.Size(91, 18);
+            this.RB_op.Size = new System.Drawing.Size(105, 22);
             this.RB_op.TabIndex = 1;
             this.RB_op.TabStop = true;
             this.RB_op.Text = "ოპერატორი";
@@ -1286,7 +1287,7 @@
             this.RB_adm.AutoSize = true;
             this.RB_adm.Location = new System.Drawing.Point(9, 7);
             this.RB_adm.Name = "RB_adm";
-            this.RB_adm.Size = new System.Drawing.Size(123, 18);
+            this.RB_adm.Size = new System.Drawing.Size(146, 22);
             this.RB_adm.TabIndex = 0;
             this.RB_adm.TabStop = true;
             this.RB_adm.Text = "ადმინისტრატორი";
@@ -1301,7 +1302,7 @@
             this.CB_mom.FormattingEnabled = true;
             this.CB_mom.Location = new System.Drawing.Point(120, 38);
             this.CB_mom.Name = "CB_mom";
-            this.CB_mom.Size = new System.Drawing.Size(216, 24);
+            this.CB_mom.Size = new System.Drawing.Size(216, 27);
             this.CB_mom.TabIndex = 54;
             this.CB_mom.ValueMember = "user_id";
             // 
@@ -1322,7 +1323,7 @@
             this.label13.BackColor = System.Drawing.Color.Gainsboro;
             this.label13.Location = new System.Drawing.Point(13, 42);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(105, 14);
+            this.label13.Size = new System.Drawing.Size(123, 18);
             this.label13.TabIndex = 53;
             this.label13.Text = "მომხმარებლები - ";
             // 
@@ -1332,7 +1333,7 @@
             this.label11.BackColor = System.Drawing.Color.Gainsboro;
             this.label11.Location = new System.Drawing.Point(90, 100);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(62, 14);
+            this.label11.Size = new System.Drawing.Size(74, 18);
             this.label11.TabIndex = 52;
             this.label11.Text = "პაროლი - ";
             // 
@@ -1342,7 +1343,7 @@
             this.TB_chupsw.Location = new System.Drawing.Point(154, 94);
             this.TB_chupsw.Name = "TB_chupsw";
             this.TB_chupsw.PasswordChar = '*';
-            this.TB_chupsw.Size = new System.Drawing.Size(180, 23);
+            this.TB_chupsw.Size = new System.Drawing.Size(180, 27);
             this.TB_chupsw.TabIndex = 49;
             // 
             // TB_chusr
@@ -1350,7 +1351,7 @@
             this.TB_chusr.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_chusr.Location = new System.Drawing.Point(154, 72);
             this.TB_chusr.Name = "TB_chusr";
-            this.TB_chusr.Size = new System.Drawing.Size(180, 23);
+            this.TB_chusr.Size = new System.Drawing.Size(180, 27);
             this.TB_chusr.TabIndex = 48;
             // 
             // label14
@@ -1359,7 +1360,7 @@
             this.label14.BackColor = System.Drawing.Color.Gainsboro;
             this.label14.Location = new System.Drawing.Point(13, 78);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(142, 14);
+            this.label14.Size = new System.Drawing.Size(168, 18);
             this.label14.TabIndex = 38;
             this.label14.Text = "მომხმარებლის სახელი - ";
             // 
@@ -1385,6 +1386,7 @@
             this.Pa_info.BackColor = System.Drawing.Color.Silver;
             this.Pa_info.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Pa_info.Controls.Add(this.Pa_inf);
+            this.Pa_info.Controls.Add(this.Pa_rep);
             this.Pa_info.Controls.Add(this.Pa_pdf);
             this.Pa_info.Controls.Add(this.DGV_info);
             this.Pa_info.Controls.Add(this.B_cl_info);
@@ -1446,6 +1448,7 @@
             // TP_inf1
             // 
             this.TP_inf1.Controls.Add(this.Pa_newauqt);
+            this.TP_inf1.Controls.Add(this.Pa_kur);
             this.TP_inf1.Controls.Add(this.TB_auqt);
             this.TP_inf1.Controls.Add(this.B_addauqt);
             this.TP_inf1.Controls.Add(this.label9);
@@ -1526,10 +1529,10 @@
             this.TP_inf1.Controls.Add(this.Pa_newstat);
             this.TP_inf1.Controls.Add(this.Pa_newcust);
             this.TP_inf1.Controls.Add(this.Pa_newrepr);
-            this.TP_inf1.Location = new System.Drawing.Point(4, 23);
+            this.TP_inf1.Location = new System.Drawing.Point(4, 27);
             this.TP_inf1.Name = "TP_inf1";
             this.TP_inf1.Padding = new System.Windows.Forms.Padding(3);
-            this.TP_inf1.Size = new System.Drawing.Size(1101, 746);
+            this.TP_inf1.Size = new System.Drawing.Size(1101, 742);
             this.TP_inf1.TabIndex = 0;
             this.TP_inf1.Text = "Page 1";
             this.TP_inf1.UseVisualStyleBackColor = true;
@@ -1552,7 +1555,7 @@
             // 
             this.TB_newauqt.Location = new System.Drawing.Point(130, 13);
             this.TB_newauqt.Name = "TB_newauqt";
-            this.TB_newauqt.Size = new System.Drawing.Size(148, 22);
+            this.TB_newauqt.Size = new System.Drawing.Size(148, 26);
             this.TB_newauqt.TabIndex = 48;
             // 
             // label113
@@ -1561,7 +1564,7 @@
             this.label113.BackColor = System.Drawing.Color.Gainsboro;
             this.label113.Location = new System.Drawing.Point(12, 18);
             this.label113.Name = "label113";
-            this.label113.Size = new System.Drawing.Size(120, 14);
+            this.label113.Size = new System.Drawing.Size(149, 18);
             this.label113.TabIndex = 38;
             this.label113.Text = "ახ. აუქციონის ტიპი - ";
             // 
@@ -1595,7 +1598,7 @@
             this.TB_auqt.FormattingEnabled = true;
             this.TB_auqt.Location = new System.Drawing.Point(493, 56);
             this.TB_auqt.Name = "TB_auqt";
-            this.TB_auqt.Size = new System.Drawing.Size(162, 22);
+            this.TB_auqt.Size = new System.Drawing.Size(162, 26);
             this.TB_auqt.TabIndex = 286;
             this.TB_auqt.ValueMember = "auqtp";
             this.TB_auqt.TextChanged += new System.EventHandler(this.pr_chno06);
@@ -1627,7 +1630,7 @@
             this.label9.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(495, 34);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(115, 16);
+            this.label9.Size = new System.Drawing.Size(137, 19);
             this.label9.TabIndex = 284;
             this.label9.Text = "აუქციონის ტიპი";
             // 
@@ -1813,7 +1816,7 @@
             this.TB_repr.FormattingEnabled = true;
             this.TB_repr.Location = new System.Drawing.Point(899, 56);
             this.TB_repr.Name = "TB_repr";
-            this.TB_repr.Size = new System.Drawing.Size(185, 22);
+            this.TB_repr.Size = new System.Drawing.Size(185, 26);
             this.TB_repr.TabIndex = 265;
             this.TB_repr.ValueMember = "reps";
             this.TB_repr.TextChanged += new System.EventHandler(this.pr_chno05);
@@ -1846,7 +1849,7 @@
             this.label19.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.Location = new System.Drawing.Point(912, 410);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(107, 16);
+            this.label19.Size = new System.Drawing.Size(129, 19);
             this.label19.TabIndex = 258;
             this.label19.Text = "მესაკუთრე TEL";
             // 
@@ -1856,7 +1859,7 @@
             this.TB_dt_mort.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_dt_mort.Location = new System.Drawing.Point(318, 149);
             this.TB_dt_mort.Name = "TB_dt_mort";
-            this.TB_dt_mort.Size = new System.Drawing.Size(95, 25);
+            this.TB_dt_mort.Size = new System.Drawing.Size(95, 29);
             this.TB_dt_mort.TabIndex = 257;
             this.TB_dt_mort.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_dt_mort.ValueChanged += new System.EventHandler(this.pr_ch_dt1);
@@ -1868,7 +1871,7 @@
             this.TB_ad_date.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_ad_date.Location = new System.Drawing.Point(27, 149);
             this.TB_ad_date.Name = "TB_ad_date";
-            this.TB_ad_date.Size = new System.Drawing.Size(95, 25);
+            this.TB_ad_date.Size = new System.Drawing.Size(95, 29);
             this.TB_ad_date.TabIndex = 256;
             this.TB_ad_date.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_ad_date.ValueChanged += new System.EventHandler(this.pr_ch_dt0);
@@ -1882,9 +1885,10 @@
             this.TB_cust.FormattingEnabled = true;
             this.TB_cust.Location = new System.Drawing.Point(667, 56);
             this.TB_cust.Name = "TB_cust";
-            this.TB_cust.Size = new System.Drawing.Size(219, 22);
+            this.TB_cust.Size = new System.Drawing.Size(219, 26);
             this.TB_cust.TabIndex = 224;
             this.TB_cust.ValueMember = "customer";
+            this.TB_cust.SelectedIndexChanged += new System.EventHandler(this.TB_cust_SelectedIndexChanged);
             this.TB_cust.TextChanged += new System.EventHandler(this.pr_chno04);
             // 
             // BS_cust
@@ -1906,7 +1910,7 @@
             this.TB_stat.FormattingEnabled = true;
             this.TB_stat.Location = new System.Drawing.Point(337, 56);
             this.TB_stat.Name = "TB_stat";
-            this.TB_stat.Size = new System.Drawing.Size(144, 22);
+            this.TB_stat.Size = new System.Drawing.Size(144, 26);
             this.TB_stat.TabIndex = 222;
             this.TB_stat.ValueMember = "stat";
             this.TB_stat.TextChanged += new System.EventHandler(this.pr_chno03);
@@ -1930,7 +1934,7 @@
             this.TB_spec.FormattingEnabled = true;
             this.TB_spec.Location = new System.Drawing.Point(134, 56);
             this.TB_spec.Name = "TB_spec";
-            this.TB_spec.Size = new System.Drawing.Size(190, 22);
+            this.TB_spec.Size = new System.Drawing.Size(190, 26);
             this.TB_spec.TabIndex = 221;
             this.TB_spec.ValueMember = "specialist";
             this.TB_spec.TextChanged += new System.EventHandler(this.pr_chno02);
@@ -1983,7 +1987,7 @@
             this.label39.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label39.Location = new System.Drawing.Point(692, 681);
             this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(150, 16);
+            this.label39.Size = new System.Drawing.Size(180, 19);
             this.label39.TabIndex = 215;
             this.label39.Text = "სხვა პირი მისამართი ";
             // 
@@ -1994,7 +1998,7 @@
             this.label40.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label40.Location = new System.Drawing.Point(335, 681);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(139, 16);
+            this.label40.Size = new System.Drawing.Size(166, 19);
             this.label40.TabIndex = 213;
             this.label40.Text = "სხვა პირი პირადი N";
             // 
@@ -2005,7 +2009,7 @@
             this.label41.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label41.Location = new System.Drawing.Point(126, 681);
             this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(72, 16);
+            this.label41.Size = new System.Drawing.Size(85, 19);
             this.label41.TabIndex = 211;
             this.label41.Text = "სხვა პირი";
             // 
@@ -2016,7 +2020,7 @@
             this.label38.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label38.Location = new System.Drawing.Point(686, 620);
             this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(162, 16);
+            this.label38.Size = new System.Drawing.Size(197, 19);
             this.label38.TabIndex = 209;
             this.label38.Text = "მსესხებელი მისამართი ";
             // 
@@ -2027,7 +2031,7 @@
             this.label37.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label37.Location = new System.Drawing.Point(330, 620);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(151, 16);
+            this.label37.Size = new System.Drawing.Size(183, 19);
             this.label37.TabIndex = 207;
             this.label37.Text = "მსესხებელი პირადი N";
             // 
@@ -2038,7 +2042,7 @@
             this.label36.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label36.Location = new System.Drawing.Point(126, 620);
             this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(84, 16);
+            this.label36.Size = new System.Drawing.Size(102, 19);
             this.label36.TabIndex = 205;
             this.label36.Text = "მსესხებელი";
             // 
@@ -2049,7 +2053,7 @@
             this.label35.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label35.Location = new System.Drawing.Point(6, 601);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(116, 16);
+            this.label35.Size = new System.Drawing.Size(140, 19);
             this.label35.TabIndex = 204;
             this.label35.Text = "სხვა სუბიექტები";
             // 
@@ -2069,7 +2073,7 @@
             this.label33.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label33.Location = new System.Drawing.Point(738, 529);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(164, 16);
+            this.label33.Size = new System.Drawing.Size(199, 19);
             this.label33.TabIndex = 202;
             this.label33.Text = "მესაკუთრე მისამართი 4";
             // 
@@ -2079,7 +2083,7 @@
             this.TB_ow_addr4.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_ow_addr4.Location = new System.Drawing.Point(559, 548);
             this.TB_ow_addr4.Name = "TB_ow_addr4";
-            this.TB_ow_addr4.Size = new System.Drawing.Size(534, 22);
+            this.TB_ow_addr4.Size = new System.Drawing.Size(534, 26);
             this.TB_ow_addr4.TabIndex = 201;
             this.TB_ow_addr4.TextChanged += new System.EventHandler(this.pr_chno19);
             // 
@@ -2089,7 +2093,7 @@
             this.TB_ow_addr3.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_ow_addr3.Location = new System.Drawing.Point(9, 548);
             this.TB_ow_addr3.Name = "TB_ow_addr3";
-            this.TB_ow_addr3.Size = new System.Drawing.Size(534, 22);
+            this.TB_ow_addr3.Size = new System.Drawing.Size(534, 26);
             this.TB_ow_addr3.TabIndex = 200;
             this.TB_ow_addr3.TextChanged += new System.EventHandler(this.pr_chno18);
             // 
@@ -2100,7 +2104,7 @@
             this.label34.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label34.Location = new System.Drawing.Point(207, 529);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(164, 16);
+            this.label34.Size = new System.Drawing.Size(199, 19);
             this.label34.TabIndex = 199;
             this.label34.Text = "მესაკუთრე მისამართი 3";
             // 
@@ -2111,7 +2115,7 @@
             this.label32.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label32.Location = new System.Drawing.Point(738, 478);
             this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(164, 16);
+            this.label32.Size = new System.Drawing.Size(199, 19);
             this.label32.TabIndex = 198;
             this.label32.Text = "მესაკუთრე მისამართი 2";
             // 
@@ -2121,7 +2125,7 @@
             this.TB_ow_addr2.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_ow_addr2.Location = new System.Drawing.Point(559, 497);
             this.TB_ow_addr2.Name = "TB_ow_addr2";
-            this.TB_ow_addr2.Size = new System.Drawing.Size(534, 22);
+            this.TB_ow_addr2.Size = new System.Drawing.Size(534, 26);
             this.TB_ow_addr2.TabIndex = 197;
             this.TB_ow_addr2.TextChanged += new System.EventHandler(this.pr_chno17);
             // 
@@ -2131,7 +2135,7 @@
             this.TB_ow_addr1.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_ow_addr1.Location = new System.Drawing.Point(9, 497);
             this.TB_ow_addr1.Name = "TB_ow_addr1";
-            this.TB_ow_addr1.Size = new System.Drawing.Size(534, 22);
+            this.TB_ow_addr1.Size = new System.Drawing.Size(534, 26);
             this.TB_ow_addr1.TabIndex = 196;
             this.TB_ow_addr1.TextChanged += new System.EventHandler(this.pr_chno16);
             // 
@@ -2142,7 +2146,7 @@
             this.label31.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.Location = new System.Drawing.Point(207, 478);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(164, 16);
+            this.label31.Size = new System.Drawing.Size(199, 19);
             this.label31.TabIndex = 195;
             this.label31.Text = "მესაკუთრე მისამართი 1";
             // 
@@ -2153,7 +2157,7 @@
             this.label30.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label30.Location = new System.Drawing.Point(633, 410);
             this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(146, 16);
+            this.label30.Size = new System.Drawing.Size(176, 19);
             this.label30.TabIndex = 193;
             this.label30.Text = "მესაკუთრე პირადი N";
             // 
@@ -2164,7 +2168,7 @@
             this.label29.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.Location = new System.Drawing.Point(250, 410);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(79, 16);
+            this.label29.Size = new System.Drawing.Size(95, 19);
             this.label29.TabIndex = 191;
             this.label29.Text = "მესაკუთრე";
             // 
@@ -2175,7 +2179,7 @@
             this.label28.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label28.Location = new System.Drawing.Point(9, 392);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(79, 16);
+            this.label28.Size = new System.Drawing.Size(95, 19);
             this.label28.TabIndex = 190;
             this.label28.Text = "მესაკუთრე";
             // 
@@ -2195,7 +2199,7 @@
             this.label26.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.Location = new System.Drawing.Point(119, 323);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(166, 16);
+            this.label26.Size = new System.Drawing.Size(200, 19);
             this.label26.TabIndex = 187;
             this.label26.Text = "გარდამავალი უფლებები";
             // 
@@ -2206,7 +2210,7 @@
             this.label24.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label24.Location = new System.Drawing.Point(407, 260);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(110, 16);
+            this.label24.Size = new System.Drawing.Size(133, 19);
             this.label24.TabIndex = 185;
             this.label24.Text = "ქონების აღწერა";
             // 
@@ -2216,7 +2220,7 @@
             this.TB_prop_code.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_prop_code.Location = new System.Drawing.Point(916, 233);
             this.TB_prop_code.Name = "TB_prop_code";
-            this.TB_prop_code.Size = new System.Drawing.Size(151, 22);
+            this.TB_prop_code.Size = new System.Drawing.Size(151, 26);
             this.TB_prop_code.TabIndex = 184;
             this.TB_prop_code.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_prop_code.TextChanged += new System.EventHandler(this.pr_ch);
@@ -2228,7 +2232,7 @@
             this.label23.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.Location = new System.Drawing.Point(896, 214);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(182, 16);
+            this.label23.Size = new System.Drawing.Size(221, 19);
             this.label23.TabIndex = 183;
             this.label23.Text = "ქონების საკადასტრო კოდი";
             // 
@@ -2238,7 +2242,7 @@
             this.TB_prop_addr.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_prop_addr.Location = new System.Drawing.Point(11, 234);
             this.TB_prop_addr.Name = "TB_prop_addr";
-            this.TB_prop_addr.Size = new System.Drawing.Size(875, 22);
+            this.TB_prop_addr.Size = new System.Drawing.Size(875, 26);
             this.TB_prop_addr.TabIndex = 182;
             this.TB_prop_addr.TextChanged += new System.EventHandler(this.pr_chno11);
             // 
@@ -2249,7 +2253,7 @@
             this.label22.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.Location = new System.Drawing.Point(407, 214);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(134, 16);
+            this.label22.Size = new System.Drawing.Size(163, 19);
             this.label22.TabIndex = 181;
             this.label22.Text = "ქონების მისამართი";
             // 
@@ -2260,7 +2264,7 @@
             this.label21.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.Location = new System.Drawing.Point(8, 200);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(51, 16);
+            this.label21.Size = new System.Drawing.Size(62, 19);
             this.label21.TabIndex = 180;
             this.label21.Text = "ქონება";
             // 
@@ -2280,7 +2284,7 @@
             this.label20.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label20.Location = new System.Drawing.Point(852, 128);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(142, 16);
+            this.label20.Size = new System.Drawing.Size(172, 19);
             this.label20.TabIndex = 177;
             this.label20.Text = "სესხის დავალიანება ";
             // 
@@ -2290,7 +2294,7 @@
             this.TB_credit_id.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_credit_id.Location = new System.Drawing.Point(655, 150);
             this.TB_credit_id.Name = "TB_credit_id";
-            this.TB_credit_id.Size = new System.Drawing.Size(114, 22);
+            this.TB_credit_id.Size = new System.Drawing.Size(114, 26);
             this.TB_credit_id.TabIndex = 174;
             this.TB_credit_id.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_credit_id.TextChanged += new System.EventHandler(this.pr_chno09);
@@ -2303,7 +2307,7 @@
             this.label18.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.Location = new System.Drawing.Point(678, 128);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(69, 16);
+            this.label18.Size = new System.Drawing.Size(85, 19);
             this.label18.TabIndex = 173;
             this.label18.Text = "სესხის ID";
             // 
@@ -2314,7 +2318,7 @@
             this.label17.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.Location = new System.Drawing.Point(455, 128);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(153, 16);
+            this.label17.Size = new System.Drawing.Size(186, 19);
             this.label17.TabIndex = 171;
             this.label17.Text = "სესხის ხელშეკრულება";
             // 
@@ -2325,7 +2329,7 @@
             this.label16.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.Location = new System.Drawing.Point(301, 128);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(129, 16);
+            this.label16.Size = new System.Drawing.Size(153, 19);
             this.label16.TabIndex = 169;
             this.label16.Text = "იპოთეკის თარიღი";
             // 
@@ -2335,7 +2339,7 @@
             this.TB_n_mort.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_n_mort.Location = new System.Drawing.Point(152, 149);
             this.TB_n_mort.Name = "TB_n_mort";
-            this.TB_n_mort.Size = new System.Drawing.Size(133, 22);
+            this.TB_n_mort.Size = new System.Drawing.Size(133, 26);
             this.TB_n_mort.TabIndex = 168;
             this.TB_n_mort.TextChanged += new System.EventHandler(this.pr_chno07);
             // 
@@ -2346,7 +2350,7 @@
             this.label15.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.Location = new System.Drawing.Point(174, 128);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(85, 16);
+            this.label15.Size = new System.Drawing.Size(102, 19);
             this.label15.TabIndex = 167;
             this.label15.Text = "იპოთეკის N";
             // 
@@ -2357,7 +2361,7 @@
             this.label12.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(8, 128);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(138, 16);
+            this.label12.Size = new System.Drawing.Size(167, 19);
             this.label12.TabIndex = 165;
             this.label12.Text = "განაცხადის თარიღი";
             // 
@@ -2368,7 +2372,7 @@
             this.label10.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(6, 103);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(54, 16);
+            this.label10.Size = new System.Drawing.Size(65, 19);
             this.label10.TabIndex = 164;
             this.label10.Text = "ORDER";
             // 
@@ -2387,7 +2391,7 @@
             this.TB_nom.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_nom.Location = new System.Drawing.Point(11, 55);
             this.TB_nom.Name = "TB_nom";
-            this.TB_nom.Size = new System.Drawing.Size(113, 22);
+            this.TB_nom.Size = new System.Drawing.Size(113, 26);
             this.TB_nom.TabIndex = 156;
             this.TB_nom.TextChanged += new System.EventHandler(this.pr_chno01);
             // 
@@ -2398,7 +2402,7 @@
             this.label8.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(924, 35);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(120, 16);
+            this.label8.Size = new System.Drawing.Size(146, 19);
             this.label8.TabIndex = 44;
             this.label8.Text = "წარმომადგენელი";
             // 
@@ -2409,7 +2413,7 @@
             this.label7.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(739, 34);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(71, 16);
+            this.label7.Size = new System.Drawing.Size(85, 19);
             this.label7.TabIndex = 43;
             this.label7.Text = "დამკვეთი";
             // 
@@ -2420,7 +2424,7 @@
             this.label6.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(377, 34);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(57, 16);
+            this.label6.Size = new System.Drawing.Size(69, 19);
             this.label6.TabIndex = 42;
             this.label6.Text = "STATUS";
             // 
@@ -2431,7 +2435,7 @@
             this.label5.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(183, 34);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(96, 16);
+            this.label5.Size = new System.Drawing.Size(114, 19);
             this.label5.TabIndex = 41;
             this.label5.Text = "სპეციალისტი";
             // 
@@ -2442,7 +2446,7 @@
             this.label4.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(59, 34);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(17, 16);
+            this.label4.Size = new System.Drawing.Size(21, 19);
             this.label4.TabIndex = 40;
             this.label4.Text = "N";
             // 
@@ -2453,7 +2457,7 @@
             this.label2.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(6, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(42, 16);
+            this.label2.Size = new System.Drawing.Size(50, 19);
             this.label2.TabIndex = 39;
             this.label2.Text = "TASK";
             // 
@@ -2475,7 +2479,7 @@
             // 
             this.TB_newspec.Location = new System.Drawing.Point(145, 12);
             this.TB_newspec.Name = "TB_newspec";
-            this.TB_newspec.Size = new System.Drawing.Size(192, 22);
+            this.TB_newspec.Size = new System.Drawing.Size(192, 26);
             this.TB_newspec.TabIndex = 48;
             // 
             // label94
@@ -2484,7 +2488,7 @@
             this.label94.BackColor = System.Drawing.Color.Gainsboro;
             this.label94.Location = new System.Drawing.Point(12, 18);
             this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(138, 14);
+            this.label94.Size = new System.Drawing.Size(169, 18);
             this.label94.TabIndex = 38;
             this.label94.Text = "სპეციალისტის სახელი - ";
             // 
@@ -2528,7 +2532,7 @@
             // 
             this.TB_newstat.Location = new System.Drawing.Point(110, 13);
             this.TB_newstat.Name = "TB_newstat";
-            this.TB_newstat.Size = new System.Drawing.Size(144, 22);
+            this.TB_newstat.Size = new System.Drawing.Size(144, 26);
             this.TB_newstat.TabIndex = 48;
             // 
             // label93
@@ -2537,7 +2541,7 @@
             this.label93.BackColor = System.Drawing.Color.Gainsboro;
             this.label93.Location = new System.Drawing.Point(12, 18);
             this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(100, 14);
+            this.label93.Size = new System.Drawing.Size(123, 18);
             this.label93.TabIndex = 38;
             this.label93.Text = "ახალი სტატუსი - ";
             // 
@@ -2581,7 +2585,7 @@
             // 
             this.TB_newcust.Location = new System.Drawing.Point(114, 13);
             this.TB_newcust.Name = "TB_newcust";
-            this.TB_newcust.Size = new System.Drawing.Size(192, 22);
+            this.TB_newcust.Size = new System.Drawing.Size(192, 26);
             this.TB_newcust.TabIndex = 48;
             // 
             // label95
@@ -2590,7 +2594,7 @@
             this.label95.BackColor = System.Drawing.Color.Gainsboro;
             this.label95.Location = new System.Drawing.Point(12, 18);
             this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(105, 14);
+            this.label95.Size = new System.Drawing.Size(130, 18);
             this.label95.TabIndex = 38;
             this.label95.Text = "ახალი დამკვეთი - ";
             // 
@@ -2646,7 +2650,7 @@
             // 
             this.TB_newrepr.Location = new System.Drawing.Point(120, 13);
             this.TB_newrepr.Name = "TB_newrepr";
-            this.TB_newrepr.Size = new System.Drawing.Size(192, 22);
+            this.TB_newrepr.Size = new System.Drawing.Size(192, 26);
             this.TB_newrepr.TabIndex = 48;
             // 
             // label112
@@ -2655,7 +2659,7 @@
             this.label112.BackColor = System.Drawing.Color.Gainsboro;
             this.label112.Location = new System.Drawing.Point(12, 18);
             this.label112.Name = "label112";
-            this.label112.Size = new System.Drawing.Size(113, 14);
+            this.label112.Size = new System.Drawing.Size(134, 18);
             this.label112.TabIndex = 38;
             this.label112.Text = "წარმომადგენელი - ";
             // 
@@ -2785,10 +2789,10 @@
             this.TP_inf2.Controls.Add(this.label42);
             this.TP_inf2.Controls.Add(this.Pa_prep);
             this.TP_inf2.Controls.Add(this.label45);
-            this.TP_inf2.Location = new System.Drawing.Point(4, 23);
+            this.TP_inf2.Location = new System.Drawing.Point(4, 27);
             this.TP_inf2.Name = "TP_inf2";
             this.TP_inf2.Padding = new System.Windows.Forms.Padding(3);
-            this.TP_inf2.Size = new System.Drawing.Size(1101, 746);
+            this.TP_inf2.Size = new System.Drawing.Size(1101, 742);
             this.TP_inf2.TabIndex = 1;
             this.TP_inf2.Text = "Page 2";
             this.TP_inf2.UseVisualStyleBackColor = true;
@@ -2799,7 +2803,7 @@
             this.CB_stg.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CB_stg.Location = new System.Drawing.Point(658, 88);
             this.CB_stg.Name = "CB_stg";
-            this.CB_stg.Size = new System.Drawing.Size(153, 20);
+            this.CB_stg.Size = new System.Drawing.Size(185, 23);
             this.CB_stg.TabIndex = 417;
             this.CB_stg.Text = "ფორმულა (YES/NO)";
             this.CB_stg.UseVisualStyleBackColor = true;
@@ -2811,7 +2815,7 @@
             this.TB_liq_usd.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_liq_usd.Location = new System.Drawing.Point(868, 43);
             this.TB_liq_usd.Name = "TB_liq_usd";
-            this.TB_liq_usd.Size = new System.Drawing.Size(114, 22);
+            this.TB_liq_usd.Size = new System.Drawing.Size(114, 26);
             this.TB_liq_usd.TabIndex = 416;
             this.TB_liq_usd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_liq_usd.TextChanged += new System.EventHandler(this.pr_chno029);
@@ -2824,7 +2828,7 @@
             this.label154.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label154.Location = new System.Drawing.Point(811, 26);
             this.label154.Name = "label154";
-            this.label154.Size = new System.Drawing.Size(225, 16);
+            this.label154.Size = new System.Drawing.Size(271, 19);
             this.label154.TabIndex = 415;
             this.label154.Text = "აუქციონის სალიკვიდაციო ფასი $";
             // 
@@ -2835,7 +2839,7 @@
             this.label149.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label149.Location = new System.Drawing.Point(363, 110);
             this.label149.Name = "label149";
-            this.label149.Size = new System.Drawing.Size(141, 16);
+            this.label149.Size = new System.Drawing.Size(168, 19);
             this.label149.TabIndex = 410;
             this.label149.Text = "პირველი აუქციონის";
             // 
@@ -2846,7 +2850,7 @@
             this.label152.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label152.Location = new System.Drawing.Point(370, 125);
             this.label152.Name = "label152";
-            this.label152.Size = new System.Drawing.Size(123, 16);
+            this.label152.Size = new System.Drawing.Size(149, 19);
             this.label152.TabIndex = 414;
             this.label152.Text = "საწყისი ფასი EUR";
             // 
@@ -2857,7 +2861,7 @@
             this.label46.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label46.Location = new System.Drawing.Point(218, 110);
             this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(141, 16);
+            this.label46.Size = new System.Drawing.Size(168, 19);
             this.label46.TabIndex = 262;
             this.label46.Text = "პირველი აუქციონის";
             // 
@@ -2868,7 +2872,7 @@
             this.label151.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label151.Location = new System.Drawing.Point(230, 125);
             this.label151.Name = "label151";
-            this.label151.Size = new System.Drawing.Size(106, 16);
+            this.label151.Size = new System.Drawing.Size(127, 19);
             this.label151.TabIndex = 413;
             this.label151.Text = "საწყისი ფასი ₾";
             // 
@@ -2879,7 +2883,7 @@
             this.label150.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label150.Location = new System.Drawing.Point(77, 125);
             this.label150.Name = "label150";
-            this.label150.Size = new System.Drawing.Size(104, 16);
+            this.label150.Size = new System.Drawing.Size(125, 19);
             this.label150.TabIndex = 412;
             this.label150.Text = "საწყისი ფასი $";
             // 
@@ -2889,7 +2893,7 @@
             this.TB_sales_eur.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_sales_eur.Location = new System.Drawing.Point(376, 140);
             this.TB_sales_eur.Name = "TB_sales_eur";
-            this.TB_sales_eur.Size = new System.Drawing.Size(114, 22);
+            this.TB_sales_eur.Size = new System.Drawing.Size(114, 26);
             this.TB_sales_eur.TabIndex = 411;
             this.TB_sales_eur.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_sales_eur.TextChanged += new System.EventHandler(this.pr_chno57);
@@ -2902,7 +2906,7 @@
             this.TB_fee.Location = new System.Drawing.Point(533, 88);
             this.TB_fee.Name = "TB_fee";
             this.TB_fee.ReadOnly = true;
-            this.TB_fee.Size = new System.Drawing.Size(114, 22);
+            this.TB_fee.Size = new System.Drawing.Size(114, 26);
             this.TB_fee.TabIndex = 409;
             this.TB_fee.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -2913,7 +2917,7 @@
             this.label111.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label111.Location = new System.Drawing.Point(445, 93);
             this.label111.Name = "label111";
-            this.label111.Size = new System.Drawing.Size(90, 16);
+            this.label111.Size = new System.Drawing.Size(108, 19);
             this.label111.TabIndex = 408;
             this.label111.Text = "START GEL -";
             // 
@@ -2924,7 +2928,7 @@
             this.TB_prepaid.Location = new System.Drawing.Point(461, 43);
             this.TB_prepaid.Name = "TB_prepaid";
             this.TB_prepaid.ReadOnly = true;
-            this.TB_prepaid.Size = new System.Drawing.Size(114, 22);
+            this.TB_prepaid.Size = new System.Drawing.Size(114, 26);
             this.TB_prepaid.TabIndex = 407;
             this.TB_prepaid.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -2994,7 +2998,7 @@
             this.CB_frz.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CB_frz.Location = new System.Drawing.Point(200, 91);
             this.CB_frz.Name = "CB_frz";
-            this.CB_frz.Size = new System.Drawing.Size(159, 20);
+            this.CB_frz.Size = new System.Drawing.Size(191, 23);
             this.CB_frz.TabIndex = 400;
             this.CB_frz.Text = "გაყინულია (YES/NO)";
             this.CB_frz.UseVisualStyleBackColor = true;
@@ -3006,7 +3010,7 @@
             this.CB_frz1.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CB_frz1.Location = new System.Drawing.Point(200, 304);
             this.CB_frz1.Name = "CB_frz1";
-            this.CB_frz1.Size = new System.Drawing.Size(159, 20);
+            this.CB_frz1.Size = new System.Drawing.Size(191, 23);
             this.CB_frz1.TabIndex = 399;
             this.CB_frz1.Text = "გაყინულია (YES/NO)";
             this.CB_frz1.UseVisualStyleBackColor = true;
@@ -3018,7 +3022,7 @@
             this.CB_dgg.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CB_dgg.Location = new System.Drawing.Point(17, 47);
             this.CB_dgg.Name = "CB_dgg";
-            this.CB_dgg.Size = new System.Drawing.Size(116, 20);
+            this.CB_dgg.Size = new System.Drawing.Size(141, 23);
             this.CB_dgg.TabIndex = 392;
             this.CB_dgg.Text = "დღგ (YES/NO)";
             this.CB_dgg.UseVisualStyleBackColor = true;
@@ -3032,7 +3036,7 @@
             this.TP_auc2_end.Location = new System.Drawing.Point(351, 676);
             this.TP_auc2_end.Name = "TP_auc2_end";
             this.TP_auc2_end.ShowUpDown = true;
-            this.TP_auc2_end.Size = new System.Drawing.Size(55, 25);
+            this.TP_auc2_end.Size = new System.Drawing.Size(55, 29);
             this.TP_auc2_end.TabIndex = 391;
             this.TP_auc2_end.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -3044,7 +3048,7 @@
             this.TP_auc2_start.Location = new System.Drawing.Point(173, 676);
             this.TP_auc2_start.Name = "TP_auc2_start";
             this.TP_auc2_start.ShowUpDown = true;
-            this.TP_auc2_start.Size = new System.Drawing.Size(55, 25);
+            this.TP_auc2_start.Size = new System.Drawing.Size(55, 29);
             this.TP_auc2_start.TabIndex = 390;
             this.TP_auc2_start.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -3056,7 +3060,7 @@
             this.TP_auc1_end.Location = new System.Drawing.Point(351, 462);
             this.TP_auc1_end.Name = "TP_auc1_end";
             this.TP_auc1_end.ShowUpDown = true;
-            this.TP_auc1_end.Size = new System.Drawing.Size(55, 25);
+            this.TP_auc1_end.Size = new System.Drawing.Size(55, 29);
             this.TP_auc1_end.TabIndex = 389;
             this.TP_auc1_end.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -3068,7 +3072,7 @@
             this.TP_auc1_start.Location = new System.Drawing.Point(173, 462);
             this.TP_auc1_start.Name = "TP_auc1_start";
             this.TP_auc1_start.ShowUpDown = true;
-            this.TP_auc1_start.Size = new System.Drawing.Size(55, 25);
+            this.TP_auc1_start.Size = new System.Drawing.Size(55, 29);
             this.TP_auc1_start.TabIndex = 388;
             this.TP_auc1_start.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -3080,7 +3084,7 @@
             this.TP_auc_end.Location = new System.Drawing.Point(351, 249);
             this.TP_auc_end.Name = "TP_auc_end";
             this.TP_auc_end.ShowUpDown = true;
-            this.TP_auc_end.Size = new System.Drawing.Size(55, 25);
+            this.TP_auc_end.Size = new System.Drawing.Size(55, 29);
             this.TP_auc_end.TabIndex = 387;
             this.TP_auc_end.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -3092,7 +3096,7 @@
             this.TP_auc_start.Location = new System.Drawing.Point(173, 249);
             this.TP_auc_start.Name = "TP_auc_start";
             this.TP_auc_start.ShowUpDown = true;
-            this.TP_auc_start.Size = new System.Drawing.Size(55, 25);
+            this.TP_auc_start.Size = new System.Drawing.Size(55, 29);
             this.TP_auc_start.TabIndex = 386;
             this.TP_auc_start.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -3102,7 +3106,7 @@
             this.TB_auc2_end.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_auc2_end.Location = new System.Drawing.Point(258, 676);
             this.TB_auc2_end.Name = "TB_auc2_end";
-            this.TB_auc2_end.Size = new System.Drawing.Size(95, 25);
+            this.TB_auc2_end.Size = new System.Drawing.Size(95, 29);
             this.TB_auc2_end.TabIndex = 385;
             this.TB_auc2_end.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_auc2_end.ValueChanged += new System.EventHandler(this.pr_ch_dt24);
@@ -3114,7 +3118,7 @@
             this.TB_auc2_start.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_auc2_start.Location = new System.Drawing.Point(80, 676);
             this.TB_auc2_start.Name = "TB_auc2_start";
-            this.TB_auc2_start.Size = new System.Drawing.Size(95, 25);
+            this.TB_auc2_start.Size = new System.Drawing.Size(95, 29);
             this.TB_auc2_start.TabIndex = 384;
             this.TB_auc2_start.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_auc2_start.ValueChanged += new System.EventHandler(this.pr_ch_dt23);
@@ -3126,7 +3130,7 @@
             this.TB_macne2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_macne2.Location = new System.Drawing.Point(853, 632);
             this.TB_macne2.Name = "TB_macne2";
-            this.TB_macne2.Size = new System.Drawing.Size(95, 25);
+            this.TB_macne2.Size = new System.Drawing.Size(95, 29);
             this.TB_macne2.TabIndex = 383;
             this.TB_macne2.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_macne2.ValueChanged += new System.EventHandler(this.pr_ch_dt22);
@@ -3138,7 +3142,7 @@
             this.TB_rez2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_rez2.Location = new System.Drawing.Point(692, 632);
             this.TB_rez2.Name = "TB_rez2";
-            this.TB_rez2.Size = new System.Drawing.Size(95, 25);
+            this.TB_rez2.Size = new System.Drawing.Size(95, 29);
             this.TB_rez2.TabIndex = 382;
             this.TB_rez2.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_rez2.ValueChanged += new System.EventHandler(this.pr_ch_dt21);
@@ -3150,7 +3154,7 @@
             this.TB_tel2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_tel2.Location = new System.Drawing.Point(534, 632);
             this.TB_tel2.Name = "TB_tel2";
-            this.TB_tel2.Size = new System.Drawing.Size(95, 25);
+            this.TB_tel2.Size = new System.Drawing.Size(95, 29);
             this.TB_tel2.TabIndex = 381;
             this.TB_tel2.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_tel2.ValueChanged += new System.EventHandler(this.pr_ch_dt20);
@@ -3162,7 +3166,7 @@
             this.TB_courier2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_courier2.Location = new System.Drawing.Point(360, 632);
             this.TB_courier2.Name = "TB_courier2";
-            this.TB_courier2.Size = new System.Drawing.Size(95, 25);
+            this.TB_courier2.Size = new System.Drawing.Size(95, 29);
             this.TB_courier2.TabIndex = 380;
             this.TB_courier2.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_courier2.ValueChanged += new System.EventHandler(this.pr_ch_dt19);
@@ -3174,7 +3178,7 @@
             this.TB_tnt2_send.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_tnt2_send.Location = new System.Drawing.Point(920, 567);
             this.TB_tnt2_send.Name = "TB_tnt2_send";
-            this.TB_tnt2_send.Size = new System.Drawing.Size(95, 25);
+            this.TB_tnt2_send.Size = new System.Drawing.Size(95, 29);
             this.TB_tnt2_send.TabIndex = 379;
             this.TB_tnt2_send.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_tnt2_send.ValueChanged += new System.EventHandler(this.pr_ch_dt18);
@@ -3186,7 +3190,7 @@
             this.TB_post2_send.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_post2_send.Location = new System.Drawing.Point(553, 567);
             this.TB_post2_send.Name = "TB_post2_send";
-            this.TB_post2_send.Size = new System.Drawing.Size(95, 25);
+            this.TB_post2_send.Size = new System.Drawing.Size(95, 29);
             this.TB_post2_send.TabIndex = 378;
             this.TB_post2_send.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_post2_send.ValueChanged += new System.EventHandler(this.pr_ch_dt17);
@@ -3198,7 +3202,7 @@
             this.TB_auc1_end.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_auc1_end.Location = new System.Drawing.Point(258, 462);
             this.TB_auc1_end.Name = "TB_auc1_end";
-            this.TB_auc1_end.Size = new System.Drawing.Size(95, 25);
+            this.TB_auc1_end.Size = new System.Drawing.Size(95, 29);
             this.TB_auc1_end.TabIndex = 377;
             this.TB_auc1_end.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_auc1_end.ValueChanged += new System.EventHandler(this.pr_ch_dt16);
@@ -3210,7 +3214,7 @@
             this.TB_auc1_start.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_auc1_start.Location = new System.Drawing.Point(80, 462);
             this.TB_auc1_start.Name = "TB_auc1_start";
-            this.TB_auc1_start.Size = new System.Drawing.Size(95, 25);
+            this.TB_auc1_start.Size = new System.Drawing.Size(95, 29);
             this.TB_auc1_start.TabIndex = 376;
             this.TB_auc1_start.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_auc1_start.ValueChanged += new System.EventHandler(this.pr_ch_dt15);
@@ -3222,7 +3226,7 @@
             this.TB_macne1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_macne1.Location = new System.Drawing.Point(853, 412);
             this.TB_macne1.Name = "TB_macne1";
-            this.TB_macne1.Size = new System.Drawing.Size(95, 25);
+            this.TB_macne1.Size = new System.Drawing.Size(95, 29);
             this.TB_macne1.TabIndex = 375;
             this.TB_macne1.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_macne1.ValueChanged += new System.EventHandler(this.pr_ch_dt14);
@@ -3234,7 +3238,7 @@
             this.TB_rez1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_rez1.Location = new System.Drawing.Point(692, 412);
             this.TB_rez1.Name = "TB_rez1";
-            this.TB_rez1.Size = new System.Drawing.Size(95, 25);
+            this.TB_rez1.Size = new System.Drawing.Size(95, 29);
             this.TB_rez1.TabIndex = 374;
             this.TB_rez1.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_rez1.ValueChanged += new System.EventHandler(this.pr_ch_dt13);
@@ -3246,7 +3250,7 @@
             this.TB_tel1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_tel1.Location = new System.Drawing.Point(534, 412);
             this.TB_tel1.Name = "TB_tel1";
-            this.TB_tel1.Size = new System.Drawing.Size(95, 25);
+            this.TB_tel1.Size = new System.Drawing.Size(95, 29);
             this.TB_tel1.TabIndex = 373;
             this.TB_tel1.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_tel1.ValueChanged += new System.EventHandler(this.pr_ch_dt12);
@@ -3258,7 +3262,7 @@
             this.TB_courier1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_courier1.Location = new System.Drawing.Point(360, 412);
             this.TB_courier1.Name = "TB_courier1";
-            this.TB_courier1.Size = new System.Drawing.Size(95, 25);
+            this.TB_courier1.Size = new System.Drawing.Size(95, 29);
             this.TB_courier1.TabIndex = 372;
             this.TB_courier1.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_courier1.ValueChanged += new System.EventHandler(this.pr_ch_dt11);
@@ -3270,7 +3274,7 @@
             this.TB_tnt1_send.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_tnt1_send.Location = new System.Drawing.Point(920, 353);
             this.TB_tnt1_send.Name = "TB_tnt1_send";
-            this.TB_tnt1_send.Size = new System.Drawing.Size(95, 25);
+            this.TB_tnt1_send.Size = new System.Drawing.Size(95, 29);
             this.TB_tnt1_send.TabIndex = 371;
             this.TB_tnt1_send.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_tnt1_send.ValueChanged += new System.EventHandler(this.pr_ch_dt10);
@@ -3282,7 +3286,7 @@
             this.TB_post1_send.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_post1_send.Location = new System.Drawing.Point(553, 353);
             this.TB_post1_send.Name = "TB_post1_send";
-            this.TB_post1_send.Size = new System.Drawing.Size(95, 25);
+            this.TB_post1_send.Size = new System.Drawing.Size(95, 29);
             this.TB_post1_send.TabIndex = 370;
             this.TB_post1_send.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_post1_send.ValueChanged += new System.EventHandler(this.pr_ch_dt09);
@@ -3294,7 +3298,7 @@
             this.TB_auc_end.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_auc_end.Location = new System.Drawing.Point(258, 249);
             this.TB_auc_end.Name = "TB_auc_end";
-            this.TB_auc_end.Size = new System.Drawing.Size(95, 25);
+            this.TB_auc_end.Size = new System.Drawing.Size(95, 29);
             this.TB_auc_end.TabIndex = 369;
             this.TB_auc_end.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_auc_end.ValueChanged += new System.EventHandler(this.pr_ch_dt08);
@@ -3306,7 +3310,7 @@
             this.TB_auc_start.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_auc_start.Location = new System.Drawing.Point(80, 249);
             this.TB_auc_start.Name = "TB_auc_start";
-            this.TB_auc_start.Size = new System.Drawing.Size(95, 25);
+            this.TB_auc_start.Size = new System.Drawing.Size(95, 29);
             this.TB_auc_start.TabIndex = 368;
             this.TB_auc_start.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_auc_start.ValueChanged += new System.EventHandler(this.pr_ch_dt07);
@@ -3318,7 +3322,7 @@
             this.TB_macne.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_macne.Location = new System.Drawing.Point(853, 200);
             this.TB_macne.Name = "TB_macne";
-            this.TB_macne.Size = new System.Drawing.Size(95, 25);
+            this.TB_macne.Size = new System.Drawing.Size(95, 29);
             this.TB_macne.TabIndex = 367;
             this.TB_macne.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_macne.ValueChanged += new System.EventHandler(this.pr_ch_dt06);
@@ -3330,7 +3334,7 @@
             this.TB_rez.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_rez.Location = new System.Drawing.Point(692, 200);
             this.TB_rez.Name = "TB_rez";
-            this.TB_rez.Size = new System.Drawing.Size(95, 25);
+            this.TB_rez.Size = new System.Drawing.Size(95, 29);
             this.TB_rez.TabIndex = 366;
             this.TB_rez.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_rez.ValueChanged += new System.EventHandler(this.pr_ch_dt05);
@@ -3342,7 +3346,7 @@
             this.TB_tel.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_tel.Location = new System.Drawing.Point(534, 200);
             this.TB_tel.Name = "TB_tel";
-            this.TB_tel.Size = new System.Drawing.Size(95, 25);
+            this.TB_tel.Size = new System.Drawing.Size(95, 29);
             this.TB_tel.TabIndex = 365;
             this.TB_tel.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_tel.ValueChanged += new System.EventHandler(this.pr_ch_dt04);
@@ -3354,7 +3358,7 @@
             this.TB_courier.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_courier.Location = new System.Drawing.Point(360, 200);
             this.TB_courier.Name = "TB_courier";
-            this.TB_courier.Size = new System.Drawing.Size(95, 25);
+            this.TB_courier.Size = new System.Drawing.Size(95, 29);
             this.TB_courier.TabIndex = 364;
             this.TB_courier.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_courier.ValueChanged += new System.EventHandler(this.pr_ch_dt03);
@@ -3366,7 +3370,7 @@
             this.TB_tnt_send.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_tnt_send.Location = new System.Drawing.Point(920, 140);
             this.TB_tnt_send.Name = "TB_tnt_send";
-            this.TB_tnt_send.Size = new System.Drawing.Size(95, 25);
+            this.TB_tnt_send.Size = new System.Drawing.Size(95, 29);
             this.TB_tnt_send.TabIndex = 363;
             this.TB_tnt_send.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_tnt_send.ValueChanged += new System.EventHandler(this.pr_ch_dt02);
@@ -3378,7 +3382,7 @@
             this.TB_post_send.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_post_send.Location = new System.Drawing.Point(553, 140);
             this.TB_post_send.Name = "TB_post_send";
-            this.TB_post_send.Size = new System.Drawing.Size(95, 25);
+            this.TB_post_send.Size = new System.Drawing.Size(95, 29);
             this.TB_post_send.TabIndex = 362;
             this.TB_post_send.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TB_post_send.ValueChanged += new System.EventHandler(this.pr_ch_dt01);
@@ -3401,7 +3405,7 @@
             this.label97.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label97.Location = new System.Drawing.Point(287, 22);
             this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(97, 16);
+            this.label97.Size = new System.Drawing.Size(118, 19);
             this.label97.TabIndex = 359;
             this.label97.Text = "ავანსის თანხა";
             // 
@@ -3413,7 +3417,7 @@
             this.CB_prepaid.FormattingEnabled = true;
             this.CB_prepaid.Location = new System.Drawing.Point(278, 41);
             this.CB_prepaid.Name = "CB_prepaid";
-            this.CB_prepaid.Size = new System.Drawing.Size(144, 22);
+            this.CB_prepaid.Size = new System.Drawing.Size(144, 26);
             this.CB_prepaid.TabIndex = 358;
             this.CB_prepaid.ValueMember = "prep_val";
             this.CB_prepaid.TextChanged += new System.EventHandler(this.pr_chno28);
@@ -3436,7 +3440,7 @@
             this.label96.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label96.Location = new System.Drawing.Point(454, 26);
             this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(129, 16);
+            this.label96.Size = new System.Drawing.Size(155, 19);
             this.label96.TabIndex = 357;
             this.label96.Text = "ჩარიცხული ავანსი";
             // 
@@ -3455,7 +3459,7 @@
             this.TB_lot2_num.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_lot2_num.Location = new System.Drawing.Point(441, 676);
             this.TB_lot2_num.Name = "TB_lot2_num";
-            this.TB_lot2_num.Size = new System.Drawing.Size(114, 22);
+            this.TB_lot2_num.Size = new System.Drawing.Size(114, 26);
             this.TB_lot2_num.TabIndex = 355;
             this.TB_lot2_num.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_lot2_num.TextChanged += new System.EventHandler(this.pr_chno46);
@@ -3467,7 +3471,7 @@
             this.label72.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label72.Location = new System.Drawing.Point(432, 657);
             this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(135, 16);
+            this.label72.Size = new System.Drawing.Size(164, 19);
             this.label72.TabIndex = 354;
             this.label72.Text = "აუქციონი ლოტის N";
             // 
@@ -3478,7 +3482,7 @@
             this.label73.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label73.Location = new System.Drawing.Point(278, 657);
             this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(102, 16);
+            this.label73.Size = new System.Drawing.Size(124, 19);
             this.label73.TabIndex = 352;
             this.label73.Text = "აუქციონი END";
             // 
@@ -3489,7 +3493,7 @@
             this.label74.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label74.Location = new System.Drawing.Point(97, 657);
             this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(104, 16);
+            this.label74.Size = new System.Drawing.Size(124, 19);
             this.label74.TabIndex = 350;
             this.label74.Text = "აუქციონი Start";
             // 
@@ -3500,7 +3504,7 @@
             this.label75.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label75.Location = new System.Drawing.Point(858, 613);
             this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(83, 16);
+            this.label75.Size = new System.Drawing.Size(101, 19);
             this.label75.TabIndex = 345;
             this.label75.Text = "საკან. მაცნე";
             // 
@@ -3511,7 +3515,7 @@
             this.label76.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label76.Location = new System.Drawing.Point(699, 612);
             this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(80, 16);
+            this.label76.Size = new System.Drawing.Size(96, 19);
             this.label76.TabIndex = 344;
             this.label76.Text = "რეზონანსი";
             // 
@@ -3522,7 +3526,7 @@
             this.label77.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label77.Location = new System.Drawing.Point(543, 613);
             this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(79, 16);
+            this.label77.Size = new System.Drawing.Size(94, 19);
             this.label77.TabIndex = 342;
             this.label77.Text = "ტელეფონი";
             // 
@@ -3533,7 +3537,7 @@
             this.label78.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label78.Location = new System.Drawing.Point(378, 613);
             this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(67, 16);
+            this.label78.Size = new System.Drawing.Size(78, 19);
             this.label78.TabIndex = 340;
             this.label78.Text = "კურიერი";
             // 
@@ -3544,7 +3548,7 @@
             this.label79.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label79.Location = new System.Drawing.Point(138, 601);
             this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(103, 16);
+            this.label79.Size = new System.Drawing.Size(126, 19);
             this.label79.TabIndex = 336;
             this.label79.Text = "TNT (ჩაბარება)";
             // 
@@ -3555,7 +3559,7 @@
             this.label80.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label80.Location = new System.Drawing.Point(949, 548);
             this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(33, 16);
+            this.label80.Size = new System.Drawing.Size(41, 19);
             this.label80.TabIndex = 335;
             this.label80.Text = "TNT";
             // 
@@ -3566,7 +3570,7 @@
             this.label81.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label81.Location = new System.Drawing.Point(716, 545);
             this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(121, 16);
+            this.label81.Size = new System.Drawing.Size(146, 19);
             this.label81.TabIndex = 333;
             this.label81.Text = "ფოსტა (ჩაბარება)";
             // 
@@ -3577,7 +3581,7 @@
             this.label82.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label82.Location = new System.Drawing.Point(578, 548);
             this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(51, 16);
+            this.label82.Size = new System.Drawing.Size(61, 19);
             this.label82.TabIndex = 332;
             this.label82.Text = "ფოსტა";
             // 
@@ -3587,7 +3591,7 @@
             this.TB_price2_gel.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_price2_gel.Location = new System.Drawing.Point(323, 567);
             this.TB_price2_gel.Name = "TB_price2_gel";
-            this.TB_price2_gel.Size = new System.Drawing.Size(114, 22);
+            this.TB_price2_gel.Size = new System.Drawing.Size(114, 26);
             this.TB_price2_gel.TabIndex = 331;
             this.TB_price2_gel.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_price2_gel.TextChanged += new System.EventHandler(this.pr_chno43);
@@ -3600,7 +3604,7 @@
             this.label83.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label83.Location = new System.Drawing.Point(265, 548);
             this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(225, 16);
+            this.label83.Size = new System.Drawing.Size(272, 19);
             this.label83.TabIndex = 330;
             this.label83.Text = "მესამე აუქციონის საწყისი ფასი ₾";
             // 
@@ -3610,7 +3614,7 @@
             this.TB_price2_usd.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_price2_usd.Location = new System.Drawing.Point(76, 567);
             this.TB_price2_usd.Name = "TB_price2_usd";
-            this.TB_price2_usd.Size = new System.Drawing.Size(114, 22);
+            this.TB_price2_usd.Size = new System.Drawing.Size(114, 26);
             this.TB_price2_usd.TabIndex = 329;
             this.TB_price2_usd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_price2_usd.TextChanged += new System.EventHandler(this.pr_chno42);
@@ -3623,7 +3627,7 @@
             this.label84.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label84.Location = new System.Drawing.Point(18, 548);
             this.label84.Name = "label84";
-            this.label84.Size = new System.Drawing.Size(223, 16);
+            this.label84.Size = new System.Drawing.Size(270, 19);
             this.label84.TabIndex = 328;
             this.label84.Text = "მესამე აუქციონის საწყისი ფასი $";
             // 
@@ -3634,7 +3638,7 @@
             this.label85.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label85.Location = new System.Drawing.Point(10, 520);
             this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(116, 16);
+            this.label85.Size = new System.Drawing.Size(140, 19);
             this.label85.TabIndex = 327;
             this.label85.Text = "მესამე აუქციონი";
             // 
@@ -3653,7 +3657,7 @@
             this.TB_lot1_num.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_lot1_num.Location = new System.Drawing.Point(441, 462);
             this.TB_lot1_num.Name = "TB_lot1_num";
-            this.TB_lot1_num.Size = new System.Drawing.Size(114, 22);
+            this.TB_lot1_num.Size = new System.Drawing.Size(114, 26);
             this.TB_lot1_num.TabIndex = 325;
             this.TB_lot1_num.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_lot1_num.TextChanged += new System.EventHandler(this.pr_chno41);
@@ -3665,7 +3669,7 @@
             this.label58.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label58.Location = new System.Drawing.Point(432, 443);
             this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(135, 16);
+            this.label58.Size = new System.Drawing.Size(164, 19);
             this.label58.TabIndex = 324;
             this.label58.Text = "აუქციონი ლოტის N";
             // 
@@ -3676,7 +3680,7 @@
             this.label59.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label59.Location = new System.Drawing.Point(278, 443);
             this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(102, 16);
+            this.label59.Size = new System.Drawing.Size(124, 19);
             this.label59.TabIndex = 322;
             this.label59.Text = "აუქციონი END";
             // 
@@ -3687,7 +3691,7 @@
             this.label60.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label60.Location = new System.Drawing.Point(97, 443);
             this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(104, 16);
+            this.label60.Size = new System.Drawing.Size(124, 19);
             this.label60.TabIndex = 320;
             this.label60.Text = "აუქციონი Start";
             // 
@@ -3698,7 +3702,7 @@
             this.label61.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label61.Location = new System.Drawing.Point(858, 393);
             this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(83, 16);
+            this.label61.Size = new System.Drawing.Size(101, 19);
             this.label61.TabIndex = 315;
             this.label61.Text = "საკან. მაცნე";
             // 
@@ -3709,7 +3713,7 @@
             this.label62.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label62.Location = new System.Drawing.Point(699, 392);
             this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(80, 16);
+            this.label62.Size = new System.Drawing.Size(96, 19);
             this.label62.TabIndex = 314;
             this.label62.Text = "რეზონანსი";
             // 
@@ -3720,7 +3724,7 @@
             this.label63.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label63.Location = new System.Drawing.Point(543, 393);
             this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(79, 16);
+            this.label63.Size = new System.Drawing.Size(94, 19);
             this.label63.TabIndex = 312;
             this.label63.Text = "ტელეფონი";
             // 
@@ -3731,7 +3735,7 @@
             this.label64.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label64.Location = new System.Drawing.Point(378, 393);
             this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(67, 16);
+            this.label64.Size = new System.Drawing.Size(78, 19);
             this.label64.TabIndex = 310;
             this.label64.Text = "კურიერი";
             // 
@@ -3742,7 +3746,7 @@
             this.label65.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label65.Location = new System.Drawing.Point(138, 387);
             this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(103, 16);
+            this.label65.Size = new System.Drawing.Size(126, 19);
             this.label65.TabIndex = 306;
             this.label65.Text = "TNT (ჩაბარება)";
             // 
@@ -3753,7 +3757,7 @@
             this.label66.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label66.Location = new System.Drawing.Point(949, 334);
             this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(33, 16);
+            this.label66.Size = new System.Drawing.Size(41, 19);
             this.label66.TabIndex = 305;
             this.label66.Text = "TNT";
             // 
@@ -3764,7 +3768,7 @@
             this.label67.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label67.Location = new System.Drawing.Point(716, 331);
             this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(121, 16);
+            this.label67.Size = new System.Drawing.Size(146, 19);
             this.label67.TabIndex = 303;
             this.label67.Text = "ფოსტა (ჩაბარება)";
             // 
@@ -3775,7 +3779,7 @@
             this.label68.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label68.Location = new System.Drawing.Point(578, 334);
             this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(51, 16);
+            this.label68.Size = new System.Drawing.Size(61, 19);
             this.label68.TabIndex = 302;
             this.label68.Text = "ფოსტა";
             // 
@@ -3785,7 +3789,7 @@
             this.TB_price1_gel.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_price1_gel.Location = new System.Drawing.Point(323, 353);
             this.TB_price1_gel.Name = "TB_price1_gel";
-            this.TB_price1_gel.Size = new System.Drawing.Size(114, 22);
+            this.TB_price1_gel.Size = new System.Drawing.Size(114, 26);
             this.TB_price1_gel.TabIndex = 301;
             this.TB_price1_gel.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_price1_gel.TextChanged += new System.EventHandler(this.pr_chno38);
@@ -3798,7 +3802,7 @@
             this.label69.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label69.Location = new System.Drawing.Point(265, 334);
             this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(225, 16);
+            this.label69.Size = new System.Drawing.Size(271, 19);
             this.label69.TabIndex = 300;
             this.label69.Text = "მეორე აუქციონის საწყისი ფასი ₾";
             // 
@@ -3808,7 +3812,7 @@
             this.TB_price1_usd.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_price1_usd.Location = new System.Drawing.Point(76, 353);
             this.TB_price1_usd.Name = "TB_price1_usd";
-            this.TB_price1_usd.Size = new System.Drawing.Size(114, 22);
+            this.TB_price1_usd.Size = new System.Drawing.Size(114, 26);
             this.TB_price1_usd.TabIndex = 299;
             this.TB_price1_usd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_price1_usd.TextChanged += new System.EventHandler(this.pr_chno37);
@@ -3821,7 +3825,7 @@
             this.label70.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label70.Location = new System.Drawing.Point(18, 334);
             this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(223, 16);
+            this.label70.Size = new System.Drawing.Size(269, 19);
             this.label70.TabIndex = 298;
             this.label70.Text = "მეორე აუქციონის საწყისი ფასი $";
             // 
@@ -3832,7 +3836,7 @@
             this.label71.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label71.Location = new System.Drawing.Point(10, 306);
             this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(116, 16);
+            this.label71.Size = new System.Drawing.Size(139, 19);
             this.label71.TabIndex = 297;
             this.label71.Text = "მეორე აუქციონი";
             // 
@@ -3842,7 +3846,7 @@
             this.TB_lot_num.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_lot_num.Location = new System.Drawing.Point(441, 252);
             this.TB_lot_num.Name = "TB_lot_num";
-            this.TB_lot_num.Size = new System.Drawing.Size(114, 22);
+            this.TB_lot_num.Size = new System.Drawing.Size(114, 26);
             this.TB_lot_num.TabIndex = 296;
             this.TB_lot_num.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_lot_num.TextChanged += new System.EventHandler(this.pr_chno35);
@@ -3854,7 +3858,7 @@
             this.label57.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label57.Location = new System.Drawing.Point(432, 233);
             this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(135, 16);
+            this.label57.Size = new System.Drawing.Size(164, 19);
             this.label57.TabIndex = 295;
             this.label57.Text = "აუქციონი ლოტის N";
             // 
@@ -3865,7 +3869,7 @@
             this.label56.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label56.Location = new System.Drawing.Point(278, 230);
             this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(102, 16);
+            this.label56.Size = new System.Drawing.Size(124, 19);
             this.label56.TabIndex = 293;
             this.label56.Text = "აუქციონი END";
             // 
@@ -3876,7 +3880,7 @@
             this.label55.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label55.Location = new System.Drawing.Point(97, 230);
             this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(104, 16);
+            this.label55.Size = new System.Drawing.Size(124, 19);
             this.label55.TabIndex = 291;
             this.label55.Text = "აუქციონი Start";
             // 
@@ -3896,7 +3900,7 @@
             this.label54.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label54.Location = new System.Drawing.Point(858, 181);
             this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(83, 16);
+            this.label54.Size = new System.Drawing.Size(101, 19);
             this.label54.TabIndex = 284;
             this.label54.Text = "საკან. მაცნე";
             // 
@@ -3907,7 +3911,7 @@
             this.label53.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label53.Location = new System.Drawing.Point(699, 180);
             this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(80, 16);
+            this.label53.Size = new System.Drawing.Size(96, 19);
             this.label53.TabIndex = 282;
             this.label53.Text = "რეზონანსი";
             // 
@@ -3918,7 +3922,7 @@
             this.label52.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label52.Location = new System.Drawing.Point(543, 182);
             this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(79, 16);
+            this.label52.Size = new System.Drawing.Size(94, 19);
             this.label52.TabIndex = 279;
             this.label52.Text = "ტელეფონი";
             // 
@@ -3929,7 +3933,7 @@
             this.label51.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label51.Location = new System.Drawing.Point(378, 182);
             this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(67, 16);
+            this.label51.Size = new System.Drawing.Size(78, 19);
             this.label51.TabIndex = 276;
             this.label51.Text = "კურიერი";
             // 
@@ -3940,7 +3944,7 @@
             this.label50.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label50.Location = new System.Drawing.Point(138, 176);
             this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(103, 16);
+            this.label50.Size = new System.Drawing.Size(126, 19);
             this.label50.TabIndex = 272;
             this.label50.Text = "TNT (ჩაბარება)";
             // 
@@ -3951,7 +3955,7 @@
             this.label49.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label49.Location = new System.Drawing.Point(949, 121);
             this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(33, 16);
+            this.label49.Size = new System.Drawing.Size(41, 19);
             this.label49.TabIndex = 269;
             this.label49.Text = "TNT";
             // 
@@ -3962,7 +3966,7 @@
             this.label48.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label48.Location = new System.Drawing.Point(720, 118);
             this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(121, 16);
+            this.label48.Size = new System.Drawing.Size(146, 19);
             this.label48.TabIndex = 267;
             this.label48.Text = "ფოსტა (ჩაბარება)";
             // 
@@ -3973,7 +3977,7 @@
             this.label47.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label47.Location = new System.Drawing.Point(578, 121);
             this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(51, 16);
+            this.label47.Size = new System.Drawing.Size(61, 19);
             this.label47.TabIndex = 264;
             this.label47.Text = "ფოსტა";
             // 
@@ -3983,7 +3987,7 @@
             this.TB_price_gel.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_price_gel.Location = new System.Drawing.Point(225, 140);
             this.TB_price_gel.Name = "TB_price_gel";
-            this.TB_price_gel.Size = new System.Drawing.Size(114, 22);
+            this.TB_price_gel.Size = new System.Drawing.Size(114, 26);
             this.TB_price_gel.TabIndex = 263;
             this.TB_price_gel.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_price_gel.TextChanged += new System.EventHandler(this.pr_chno32);
@@ -3995,7 +3999,7 @@
             this.TB_price_usd.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_price_usd.Location = new System.Drawing.Point(72, 140);
             this.TB_price_usd.Name = "TB_price_usd";
-            this.TB_price_usd.Size = new System.Drawing.Size(114, 22);
+            this.TB_price_usd.Size = new System.Drawing.Size(114, 26);
             this.TB_price_usd.TabIndex = 261;
             this.TB_price_usd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_price_usd.TextChanged += new System.EventHandler(this.pr_chno31);
@@ -4008,7 +4012,7 @@
             this.label44.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label44.Location = new System.Drawing.Point(6, 93);
             this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(141, 16);
+            this.label44.Size = new System.Drawing.Size(167, 19);
             this.label44.TabIndex = 259;
             this.label44.Text = "პირვველი აუქციონი";
             // 
@@ -4027,7 +4031,7 @@
             this.TB_sales_usd.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_sales_usd.Location = new System.Drawing.Point(640, 43);
             this.TB_sales_usd.Name = "TB_sales_usd";
-            this.TB_sales_usd.Size = new System.Drawing.Size(114, 22);
+            this.TB_sales_usd.Size = new System.Drawing.Size(114, 26);
             this.TB_sales_usd.TabIndex = 257;
             this.TB_sales_usd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_sales_usd.TextChanged += new System.EventHandler(this.pr_chno29);
@@ -4040,7 +4044,7 @@
             this.label43.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label43.Location = new System.Drawing.Point(606, 26);
             this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(184, 16);
+            this.label43.Size = new System.Drawing.Size(223, 19);
             this.label43.TabIndex = 256;
             this.label43.Text = "აუქციონის საბაზრო ფასი $";
             // 
@@ -4050,7 +4054,7 @@
             this.CB_foto.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CB_foto.Location = new System.Drawing.Point(142, 47);
             this.CB_foto.Name = "CB_foto";
-            this.CB_foto.Size = new System.Drawing.Size(124, 20);
+            this.CB_foto.Size = new System.Drawing.Size(147, 23);
             this.CB_foto.TabIndex = 253;
             this.CB_foto.Text = "სალიკვიდაციო";
             this.CB_foto.UseVisualStyleBackColor = true;
@@ -4063,7 +4067,7 @@
             this.label42.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label42.Location = new System.Drawing.Point(6, 8);
             this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(104, 16);
+            this.label42.Size = new System.Drawing.Size(125, 19);
             this.label42.TabIndex = 205;
             this.label42.Text = "დოკუმენტაცია";
             // 
@@ -4085,7 +4089,7 @@
             // 
             this.TB_newprep.Location = new System.Drawing.Point(63, 13);
             this.TB_newprep.Name = "TB_newprep";
-            this.TB_newprep.Size = new System.Drawing.Size(130, 22);
+            this.TB_newprep.Size = new System.Drawing.Size(130, 26);
             this.TB_newprep.TabIndex = 48;
             // 
             // label98
@@ -4094,7 +4098,7 @@
             this.label98.BackColor = System.Drawing.Color.Gainsboro;
             this.label98.Location = new System.Drawing.Point(12, 18);
             this.label98.Name = "label98";
-            this.label98.Size = new System.Drawing.Size(48, 14);
+            this.label98.Size = new System.Drawing.Size(59, 18);
             this.label98.TabIndex = 38;
             this.label98.Text = "თანხა - ";
             // 
@@ -4127,7 +4131,7 @@
             this.label45.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label45.Location = new System.Drawing.Point(59, 110);
             this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(141, 16);
+            this.label45.Size = new System.Drawing.Size(168, 19);
             this.label45.TabIndex = 260;
             this.label45.Text = "პირველი აუქციონის";
             // 
@@ -4188,9 +4192,9 @@
             this.TP_inf3.Controls.Add(this.label88);
             this.TP_inf3.Controls.Add(this.label86);
             this.TP_inf3.Controls.Add(this.Pa_newbuy);
-            this.TP_inf3.Location = new System.Drawing.Point(4, 23);
+            this.TP_inf3.Location = new System.Drawing.Point(4, 27);
             this.TP_inf3.Name = "TP_inf3";
-            this.TP_inf3.Size = new System.Drawing.Size(1101, 746);
+            this.TP_inf3.Size = new System.Drawing.Size(1101, 742);
             this.TP_inf3.TabIndex = 2;
             this.TP_inf3.Text = "Page 3";
             this.TP_inf3.UseVisualStyleBackColor = true;
@@ -4212,7 +4216,7 @@
             this.label153.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label153.Location = new System.Drawing.Point(390, 96);
             this.label153.Name = "label153";
-            this.label153.Size = new System.Drawing.Size(69, 16);
+            this.label153.Size = new System.Drawing.Size(83, 19);
             this.label153.TabIndex = 396;
             this.label153.Text = "Auction %";
             // 
@@ -4223,7 +4227,7 @@
             this.label137.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label137.Location = new System.Drawing.Point(230, 96);
             this.label137.Name = "label137";
-            this.label137.Size = new System.Drawing.Size(55, 16);
+            this.label137.Size = new System.Drawing.Size(67, 19);
             this.label137.TabIndex = 392;
             this.label137.Text = "SPEC %";
             // 
@@ -4234,7 +4238,7 @@
             this.label138.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label138.Location = new System.Drawing.Point(547, 96);
             this.label138.Name = "label138";
-            this.label138.Size = new System.Drawing.Size(80, 16);
+            this.label138.Size = new System.Drawing.Size(97, 19);
             this.label138.TabIndex = 394;
             this.label138.Text = "KORECTOR";
             // 
@@ -4244,7 +4248,7 @@
             this.TB_auqpr.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_auqpr.Location = new System.Drawing.Point(365, 115);
             this.TB_auqpr.Name = "TB_auqpr";
-            this.TB_auqpr.Size = new System.Drawing.Size(114, 22);
+            this.TB_auqpr.Size = new System.Drawing.Size(114, 26);
             this.TB_auqpr.TabIndex = 395;
             this.TB_auqpr.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_auqpr.TextChanged += new System.EventHandler(this.pr_chno58);
@@ -4256,7 +4260,7 @@
             this.TB_specpr.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_specpr.Location = new System.Drawing.Point(200, 115);
             this.TB_specpr.Name = "TB_specpr";
-            this.TB_specpr.Size = new System.Drawing.Size(114, 22);
+            this.TB_specpr.Size = new System.Drawing.Size(114, 26);
             this.TB_specpr.TabIndex = 391;
             this.TB_specpr.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_specpr.TextChanged += new System.EventHandler(this.pr_chno55);
@@ -4268,7 +4272,7 @@
             this.TB_kor.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_kor.Location = new System.Drawing.Point(530, 115);
             this.TB_kor.Name = "TB_kor";
-            this.TB_kor.Size = new System.Drawing.Size(114, 22);
+            this.TB_kor.Size = new System.Drawing.Size(114, 26);
             this.TB_kor.TabIndex = 393;
             this.TB_kor.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_kor.TextChanged += new System.EventHandler(this.pr_chno56);
@@ -4281,7 +4285,7 @@
             this.label125.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label125.Location = new System.Drawing.Point(602, 322);
             this.label125.Name = "label125";
-            this.label125.Size = new System.Drawing.Size(133, 16);
+            this.label125.Size = new System.Drawing.Size(159, 19);
             this.label125.TabIndex = 387;
             this.label125.Text = "ჩარიცხვის თარიღი";
             this.label125.Visible = false;
@@ -4292,7 +4296,7 @@
             this.TP_mac.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_mac.Location = new System.Drawing.Point(621, 341);
             this.TP_mac.Name = "TP_mac";
-            this.TP_mac.Size = new System.Drawing.Size(95, 25);
+            this.TP_mac.Size = new System.Drawing.Size(95, 29);
             this.TP_mac.TabIndex = 386;
             this.TP_mac.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TP_mac.Visible = false;
@@ -4306,7 +4310,7 @@
             this.label126.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label126.Location = new System.Drawing.Point(622, 274);
             this.label126.Name = "label126";
-            this.label126.Size = new System.Drawing.Size(95, 16);
+            this.label126.Size = new System.Drawing.Size(115, 19);
             this.label126.TabIndex = 385;
             this.label126.Text = "მაცნეს ხარჯი";
             this.label126.Visible = false;
@@ -4317,7 +4321,7 @@
             this.TB_mac.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_mac.Location = new System.Drawing.Point(612, 293);
             this.TB_mac.Name = "TB_mac";
-            this.TB_mac.Size = new System.Drawing.Size(114, 22);
+            this.TB_mac.Size = new System.Drawing.Size(114, 26);
             this.TB_mac.TabIndex = 384;
             this.TB_mac.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_mac.Visible = false;
@@ -4331,7 +4335,7 @@
             this.label123.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label123.Location = new System.Drawing.Point(436, 322);
             this.label123.Name = "label123";
-            this.label123.Size = new System.Drawing.Size(133, 16);
+            this.label123.Size = new System.Drawing.Size(159, 19);
             this.label123.TabIndex = 383;
             this.label123.Text = "ჩარიცხვის თარიღი";
             this.label123.Visible = false;
@@ -4342,7 +4346,7 @@
             this.TP_gaz.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_gaz.Location = new System.Drawing.Point(455, 341);
             this.TP_gaz.Name = "TP_gaz";
-            this.TP_gaz.Size = new System.Drawing.Size(95, 25);
+            this.TP_gaz.Size = new System.Drawing.Size(95, 29);
             this.TP_gaz.TabIndex = 382;
             this.TP_gaz.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TP_gaz.Visible = false;
@@ -4356,7 +4360,7 @@
             this.label124.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label124.Location = new System.Drawing.Point(448, 274);
             this.label124.Name = "label124";
-            this.label124.Size = new System.Drawing.Size(109, 16);
+            this.label124.Size = new System.Drawing.Size(131, 19);
             this.label124.TabIndex = 381;
             this.label124.Text = "გაზეთის ხარჯი";
             this.label124.Visible = false;
@@ -4367,7 +4371,7 @@
             this.TB_gaz.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_gaz.Location = new System.Drawing.Point(446, 293);
             this.TB_gaz.Name = "TB_gaz";
-            this.TB_gaz.Size = new System.Drawing.Size(114, 22);
+            this.TB_gaz.Size = new System.Drawing.Size(114, 26);
             this.TB_gaz.TabIndex = 380;
             this.TB_gaz.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_gaz.Visible = false;
@@ -4381,7 +4385,7 @@
             this.label121.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label121.Location = new System.Drawing.Point(265, 322);
             this.label121.Name = "label121";
-            this.label121.Size = new System.Drawing.Size(133, 16);
+            this.label121.Size = new System.Drawing.Size(159, 19);
             this.label121.TabIndex = 379;
             this.label121.Text = "ჩარიცხვის თარიღი";
             this.label121.Visible = false;
@@ -4392,7 +4396,7 @@
             this.TP_auc3.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_auc3.Location = new System.Drawing.Point(284, 341);
             this.TP_auc3.Name = "TP_auc3";
-            this.TP_auc3.Size = new System.Drawing.Size(95, 25);
+            this.TP_auc3.Size = new System.Drawing.Size(95, 29);
             this.TP_auc3.TabIndex = 378;
             this.TP_auc3.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TP_auc3.Visible = false;
@@ -4406,7 +4410,7 @@
             this.label122.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label122.Location = new System.Drawing.Point(275, 274);
             this.label122.Name = "label122";
-            this.label122.Size = new System.Drawing.Size(118, 16);
+            this.label122.Size = new System.Drawing.Size(143, 19);
             this.label122.TabIndex = 377;
             this.label122.Text = "მე-3 აუქც. ხარჯი";
             this.label122.Visible = false;
@@ -4417,7 +4421,7 @@
             this.TB_auc3.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_auc3.Location = new System.Drawing.Point(275, 293);
             this.TB_auc3.Name = "TB_auc3";
-            this.TB_auc3.Size = new System.Drawing.Size(114, 22);
+            this.TB_auc3.Size = new System.Drawing.Size(114, 26);
             this.TB_auc3.TabIndex = 376;
             this.TB_auc3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_auc3.Visible = false;
@@ -4431,7 +4435,7 @@
             this.label120.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label120.Location = new System.Drawing.Point(95, 322);
             this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(133, 16);
+            this.label120.Size = new System.Drawing.Size(159, 19);
             this.label120.TabIndex = 375;
             this.label120.Text = "ჩარიცხვის თარიღი";
             this.label120.Visible = false;
@@ -4442,7 +4446,7 @@
             this.TP_auc2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_auc2.Location = new System.Drawing.Point(115, 341);
             this.TP_auc2.Name = "TP_auc2";
-            this.TP_auc2.Size = new System.Drawing.Size(95, 25);
+            this.TP_auc2.Size = new System.Drawing.Size(95, 29);
             this.TP_auc2.TabIndex = 374;
             this.TP_auc2.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TP_auc2.Visible = false;
@@ -4456,7 +4460,7 @@
             this.label118.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label118.Location = new System.Drawing.Point(106, 274);
             this.label118.Name = "label118";
-            this.label118.Size = new System.Drawing.Size(118, 16);
+            this.label118.Size = new System.Drawing.Size(143, 19);
             this.label118.TabIndex = 373;
             this.label118.Text = "მე-2 აუქც. ხარჯი";
             this.label118.Visible = false;
@@ -4467,7 +4471,7 @@
             this.TB_auc2.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_auc2.Location = new System.Drawing.Point(106, 293);
             this.TB_auc2.Name = "TB_auc2";
-            this.TB_auc2.Size = new System.Drawing.Size(114, 22);
+            this.TB_auc2.Size = new System.Drawing.Size(114, 26);
             this.TB_auc2.TabIndex = 372;
             this.TB_auc2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_auc2.Visible = false;
@@ -4492,7 +4496,7 @@
             this.TB_buyer.FormattingEnabled = true;
             this.TB_buyer.Location = new System.Drawing.Point(10, 55);
             this.TB_buyer.Name = "TB_buyer";
-            this.TB_buyer.Size = new System.Drawing.Size(1082, 22);
+            this.TB_buyer.Size = new System.Drawing.Size(1082, 26);
             this.TB_buyer.TabIndex = 369;
             this.TB_buyer.ValueMember = "buyer_0";
             this.TB_buyer.TextChanged += new System.EventHandler(this.pr_chno47);
@@ -4514,7 +4518,7 @@
             this.label89.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label89.Location = new System.Drawing.Point(21, 514);
             this.label89.Name = "label89";
-            this.label89.Size = new System.Drawing.Size(75, 16);
+            this.label89.Size = new System.Drawing.Size(92, 19);
             this.label89.TabIndex = 368;
             this.label89.Text = "END DATE";
             // 
@@ -4533,7 +4537,7 @@
             this.TP_end.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_end.Location = new System.Drawing.Point(13, 533);
             this.TP_end.Name = "TP_end";
-            this.TP_end.Size = new System.Drawing.Size(95, 25);
+            this.TP_end.Size = new System.Drawing.Size(95, 29);
             this.TP_end.TabIndex = 366;
             this.TP_end.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             this.TP_end.ValueChanged += new System.EventHandler(this.pr_ch_end);
@@ -4546,7 +4550,7 @@
             this.TB_dgg.Location = new System.Drawing.Point(145, 217);
             this.TB_dgg.Name = "TB_dgg";
             this.TB_dgg.ReadOnly = true;
-            this.TB_dgg.Size = new System.Drawing.Size(114, 22);
+            this.TB_dgg.Size = new System.Drawing.Size(114, 26);
             this.TB_dgg.TabIndex = 310;
             this.TB_dgg.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_dgg.Visible = false;
@@ -4558,7 +4562,7 @@
             this.label114.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label114.Location = new System.Drawing.Point(183, 198);
             this.label114.Name = "label114";
-            this.label114.Size = new System.Drawing.Size(36, 16);
+            this.label114.Size = new System.Drawing.Size(44, 19);
             this.label114.TabIndex = 309;
             this.label114.Text = "დღგ";
             this.label114.Visible = false;
@@ -4570,7 +4574,7 @@
             this.TB_bank1.Location = new System.Drawing.Point(288, 447);
             this.TB_bank1.Name = "TB_bank1";
             this.TB_bank1.ReadOnly = true;
-            this.TB_bank1.Size = new System.Drawing.Size(114, 22);
+            this.TB_bank1.Size = new System.Drawing.Size(114, 26);
             this.TB_bank1.TabIndex = 306;
             this.TB_bank1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_bank1.Visible = false;
@@ -4582,7 +4586,7 @@
             this.label107.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label107.Location = new System.Drawing.Point(326, 428);
             this.label107.Name = "label107";
-            this.label107.Size = new System.Drawing.Size(44, 16);
+            this.label107.Size = new System.Drawing.Size(54, 19);
             this.label107.TabIndex = 305;
             this.label107.Text = "BANK";
             this.label107.Visible = false;
@@ -4594,7 +4598,7 @@
             this.TB_dgg1.Location = new System.Drawing.Point(148, 447);
             this.TB_dgg1.Name = "TB_dgg1";
             this.TB_dgg1.ReadOnly = true;
-            this.TB_dgg1.Size = new System.Drawing.Size(114, 22);
+            this.TB_dgg1.Size = new System.Drawing.Size(114, 26);
             this.TB_dgg1.TabIndex = 304;
             this.TB_dgg1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_dgg1.Visible = false;
@@ -4606,7 +4610,7 @@
             this.label108.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label108.Location = new System.Drawing.Point(188, 428);
             this.label108.Name = "label108";
-            this.label108.Size = new System.Drawing.Size(36, 16);
+            this.label108.Size = new System.Drawing.Size(44, 19);
             this.label108.TabIndex = 303;
             this.label108.Text = "დღგ";
             this.label108.Visible = false;
@@ -4618,7 +4622,7 @@
             this.label109.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label109.Location = new System.Drawing.Point(9, 388);
             this.label109.Name = "label109";
-            this.label109.Size = new System.Drawing.Size(75, 16);
+            this.label109.Size = new System.Drawing.Size(92, 19);
             this.label109.TabIndex = 302;
             this.label109.Text = "TRANSFER";
             // 
@@ -4629,7 +4633,7 @@
             this.TB_eacution1.Location = new System.Drawing.Point(8, 447);
             this.TB_eacution1.Name = "TB_eacution1";
             this.TB_eacution1.ReadOnly = true;
-            this.TB_eacution1.Size = new System.Drawing.Size(114, 22);
+            this.TB_eacution1.Size = new System.Drawing.Size(114, 26);
             this.TB_eacution1.TabIndex = 301;
             this.TB_eacution1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_eacution1.Visible = false;
@@ -4641,7 +4645,7 @@
             this.label110.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label110.Location = new System.Drawing.Point(35, 428);
             this.label110.Name = "label110";
-            this.label110.Size = new System.Drawing.Size(61, 16);
+            this.label110.Size = new System.Drawing.Size(72, 19);
             this.label110.TabIndex = 300;
             this.label110.Text = "eAcution";
             this.label110.Visible = false;
@@ -4662,7 +4666,7 @@
             this.label104.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label104.Location = new System.Drawing.Point(9, 274);
             this.label104.Name = "label104";
-            this.label104.Size = new System.Drawing.Size(52, 16);
+            this.label104.Size = new System.Drawing.Size(64, 19);
             this.label104.TabIndex = 294;
             this.label104.Text = "INCOM";
             this.label104.Visible = false;
@@ -4683,7 +4687,7 @@
             this.TB_harspec.Location = new System.Drawing.Point(576, 216);
             this.TB_harspec.Name = "TB_harspec";
             this.TB_harspec.ReadOnly = true;
-            this.TB_harspec.Size = new System.Drawing.Size(114, 22);
+            this.TB_harspec.Size = new System.Drawing.Size(114, 26);
             this.TB_harspec.TabIndex = 290;
             this.TB_harspec.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_harspec.Visible = false;
@@ -4695,7 +4699,7 @@
             this.label102.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label102.Location = new System.Drawing.Point(566, 198);
             this.label102.Name = "label102";
-            this.label102.Size = new System.Drawing.Size(132, 16);
+            this.label102.Size = new System.Drawing.Size(158, 19);
             this.label102.TabIndex = 289;
             this.label102.Text = "სპეცილ. საზღაური";
             this.label102.Visible = false;
@@ -4706,7 +4710,7 @@
             this.TB_harmacne.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_harmacne.Location = new System.Drawing.Point(427, 218);
             this.TB_harmacne.Name = "TB_harmacne";
-            this.TB_harmacne.Size = new System.Drawing.Size(114, 22);
+            this.TB_harmacne.Size = new System.Drawing.Size(114, 26);
             this.TB_harmacne.TabIndex = 288;
             this.TB_harmacne.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_harmacne.Visible = false;
@@ -4720,7 +4724,7 @@
             this.label101.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label101.Location = new System.Drawing.Point(443, 199);
             this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(83, 16);
+            this.label101.Size = new System.Drawing.Size(101, 19);
             this.label101.TabIndex = 287;
             this.label101.Text = "საკან. მაცნე";
             this.label101.Visible = false;
@@ -4731,7 +4735,7 @@
             this.TB_gazrez.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_gazrez.Location = new System.Drawing.Point(279, 217);
             this.TB_gazrez.Name = "TB_gazrez";
-            this.TB_gazrez.Size = new System.Drawing.Size(114, 22);
+            this.TB_gazrez.Size = new System.Drawing.Size(114, 26);
             this.TB_gazrez.TabIndex = 286;
             this.TB_gazrez.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_gazrez.Visible = false;
@@ -4745,7 +4749,7 @@
             this.label100.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label100.Location = new System.Drawing.Point(270, 198);
             this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(133, 16);
+            this.label100.Size = new System.Drawing.Size(160, 19);
             this.label100.TabIndex = 285;
             this.label100.Text = "გაზეთი რეზონანსი";
             this.label100.Visible = false;
@@ -4757,7 +4761,7 @@
             this.label99.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label99.Location = new System.Drawing.Point(14, 163);
             this.label99.Name = "label99";
-            this.label99.Size = new System.Drawing.Size(79, 16);
+            this.label99.Size = new System.Drawing.Size(94, 19);
             this.label99.TabIndex = 284;
             this.label99.Text = "კომენტარი";
             // 
@@ -4768,7 +4772,7 @@
             this.TB_eacution.Location = new System.Drawing.Point(8, 217);
             this.TB_eacution.Name = "TB_eacution";
             this.TB_eacution.ReadOnly = true;
-            this.TB_eacution.Size = new System.Drawing.Size(114, 22);
+            this.TB_eacution.Size = new System.Drawing.Size(114, 26);
             this.TB_eacution.TabIndex = 279;
             this.TB_eacution.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_eacution.Visible = false;
@@ -4780,7 +4784,7 @@
             this.label90.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label90.Location = new System.Drawing.Point(35, 198);
             this.label90.Name = "label90";
-            this.label90.Size = new System.Drawing.Size(61, 16);
+            this.label90.Size = new System.Drawing.Size(72, 19);
             this.label90.TabIndex = 278;
             this.label90.Text = "eAcution";
             this.label90.Visible = false;
@@ -4800,7 +4804,7 @@
             this.TB_sum_gel.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_sum_gel.Location = new System.Drawing.Point(31, 115);
             this.TB_sum_gel.Name = "TB_sum_gel";
-            this.TB_sum_gel.Size = new System.Drawing.Size(114, 22);
+            this.TB_sum_gel.Size = new System.Drawing.Size(114, 26);
             this.TB_sum_gel.TabIndex = 258;
             this.TB_sum_gel.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TB_sum_gel.TextChanged += new System.EventHandler(this.pr_chno48);
@@ -4813,7 +4817,7 @@
             this.label87.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label87.Location = new System.Drawing.Point(10, 96);
             this.label87.Name = "label87";
-            this.label87.Size = new System.Drawing.Size(149, 16);
+            this.label87.Size = new System.Drawing.Size(181, 19);
             this.label87.TabIndex = 211;
             this.label87.Text = "აუქციონის თანხა GEL";
             // 
@@ -4824,7 +4828,7 @@
             this.label88.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label88.Location = new System.Drawing.Point(457, 36);
             this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(58, 16);
+            this.label88.Size = new System.Drawing.Size(70, 19);
             this.label88.TabIndex = 209;
             this.label88.Text = "შემძენი";
             // 
@@ -4835,7 +4839,7 @@
             this.label86.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label86.Location = new System.Drawing.Point(14, 12);
             this.label86.Name = "label86";
-            this.label86.Size = new System.Drawing.Size(99, 16);
+            this.label86.Size = new System.Drawing.Size(120, 19);
             this.label86.TabIndex = 206;
             this.label86.Text = "განკარგულება";
             // 
@@ -4869,7 +4873,7 @@
             // 
             this.TB_newbuy.Location = new System.Drawing.Point(67, 13);
             this.TB_newbuy.Name = "TB_newbuy";
-            this.TB_newbuy.Size = new System.Drawing.Size(940, 22);
+            this.TB_newbuy.Size = new System.Drawing.Size(940, 26);
             this.TB_newbuy.TabIndex = 48;
             // 
             // label119
@@ -4878,7 +4882,7 @@
             this.label119.BackColor = System.Drawing.Color.Gainsboro;
             this.label119.Location = new System.Drawing.Point(12, 18);
             this.label119.Name = "label119";
-            this.label119.Size = new System.Drawing.Size(59, 14);
+            this.label119.Size = new System.Drawing.Size(71, 18);
             this.label119.TabIndex = 38;
             this.label119.Text = "შემძენი - ";
             // 
@@ -4928,9 +4932,10 @@
             // 
             this.files1_name.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.files1_name.DataPropertyName = "files1_name";
-            dataGridViewCellStyle283.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.files1_name.DefaultCellStyle = dataGridViewCellStyle283;
+            dataGridViewCellStyle26.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.files1_name.DefaultCellStyle = dataGridViewCellStyle26;
             this.files1_name.HeaderText = "ფაილის სახელი";
+            this.files1_name.MinimumWidth = 6;
             this.files1_name.Name = "files1_name";
             this.files1_name.ReadOnly = true;
             // 
@@ -4938,17 +4943,21 @@
             // 
             this.info1_id.DataPropertyName = "info1_id";
             this.info1_id.HeaderText = "info1_id";
+            this.info1_id.MinimumWidth = 6;
             this.info1_id.Name = "info1_id";
             this.info1_id.ReadOnly = true;
             this.info1_id.Visible = false;
+            this.info1_id.Width = 125;
             // 
             // files1_id
             // 
             this.files1_id.DataPropertyName = "files1_id";
             this.files1_id.HeaderText = "files1_id";
+            this.files1_id.MinimumWidth = 6;
             this.files1_id.Name = "files1_id";
             this.files1_id.ReadOnly = true;
             this.files1_id.Visible = false;
+            this.files1_id.Width = 125;
             // 
             // BS_pdf
             // 
@@ -5109,10 +5118,11 @@
             // nom
             // 
             this.nom.DataPropertyName = "nom";
-            dataGridViewCellStyle284.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.nom.DefaultCellStyle = dataGridViewCellStyle284;
+            dataGridViewCellStyle27.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.nom.DefaultCellStyle = dataGridViewCellStyle27;
             this.nom.Frozen = true;
             this.nom.HeaderText = "N";
+            this.nom.MinimumWidth = 6;
             this.nom.Name = "nom";
             this.nom.ReadOnly = true;
             this.nom.Width = 80;
@@ -5120,10 +5130,11 @@
             // spec
             // 
             this.spec.DataPropertyName = "spec";
-            dataGridViewCellStyle285.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.spec.DefaultCellStyle = dataGridViewCellStyle285;
+            dataGridViewCellStyle28.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.spec.DefaultCellStyle = dataGridViewCellStyle28;
             this.spec.Frozen = true;
             this.spec.HeaderText = "სპეცილაისტი";
+            this.spec.MinimumWidth = 6;
             this.spec.Name = "spec";
             this.spec.ReadOnly = true;
             this.spec.Width = 120;
@@ -5131,28 +5142,33 @@
             // stat
             // 
             this.stat.DataPropertyName = "stat";
-            dataGridViewCellStyle286.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.stat.DefaultCellStyle = dataGridViewCellStyle286;
+            dataGridViewCellStyle29.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.stat.DefaultCellStyle = dataGridViewCellStyle29;
             this.stat.Frozen = true;
             this.stat.HeaderText = "STATUS";
+            this.stat.MinimumWidth = 6;
             this.stat.Name = "stat";
             this.stat.ReadOnly = true;
+            this.stat.Width = 125;
             // 
             // auqt
             // 
             this.auqt.DataPropertyName = "auqt";
-            dataGridViewCellStyle287.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.auqt.DefaultCellStyle = dataGridViewCellStyle287;
+            dataGridViewCellStyle30.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.auqt.DefaultCellStyle = dataGridViewCellStyle30;
             this.auqt.HeaderText = "აუქციონის ტიპი";
+            this.auqt.MinimumWidth = 6;
             this.auqt.Name = "auqt";
             this.auqt.ReadOnly = true;
+            this.auqt.Width = 125;
             // 
             // cust
             // 
             this.cust.DataPropertyName = "cust";
-            dataGridViewCellStyle288.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.cust.DefaultCellStyle = dataGridViewCellStyle288;
+            dataGridViewCellStyle31.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.cust.DefaultCellStyle = dataGridViewCellStyle31;
             this.cust.HeaderText = "დამკვეთი";
+            this.cust.MinimumWidth = 6;
             this.cust.Name = "cust";
             this.cust.ReadOnly = true;
             this.cust.Width = 150;
@@ -5160,9 +5176,10 @@
             // representative
             // 
             this.representative.DataPropertyName = "representative";
-            dataGridViewCellStyle289.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.representative.DefaultCellStyle = dataGridViewCellStyle289;
+            dataGridViewCellStyle32.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.representative.DefaultCellStyle = dataGridViewCellStyle32;
             this.representative.HeaderText = "წარმომადგენელი";
+            this.representative.MinimumWidth = 6;
             this.representative.Name = "representative";
             this.representative.ReadOnly = true;
             this.representative.Width = 120;
@@ -5171,17 +5188,20 @@
             // 
             this.repres_mail.DataPropertyName = "repres_mail";
             this.repres_mail.HeaderText = "წარმ. EMAIL";
+            this.repres_mail.MinimumWidth = 6;
             this.repres_mail.Name = "repres_mail";
             this.repres_mail.ReadOnly = true;
             this.repres_mail.Visible = false;
+            this.repres_mail.Width = 125;
             // 
             // ad_date
             // 
             this.ad_date.DataPropertyName = "ad_date";
-            dataGridViewCellStyle290.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle290.Format = "dd/MM/yyyy";
-            this.ad_date.DefaultCellStyle = dataGridViewCellStyle290;
+            dataGridViewCellStyle33.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle33.Format = "dd/MM/yyyy";
+            this.ad_date.DefaultCellStyle = dataGridViewCellStyle33;
             this.ad_date.HeaderText = "განაცხადის თარიღი";
+            this.ad_date.MinimumWidth = 6;
             this.ad_date.Name = "ad_date";
             this.ad_date.ReadOnly = true;
             this.ad_date.Width = 80;
@@ -5189,19 +5209,22 @@
             // n_mortgage
             // 
             this.n_mortgage.DataPropertyName = "n_mortgage";
-            dataGridViewCellStyle291.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.n_mortgage.DefaultCellStyle = dataGridViewCellStyle291;
+            dataGridViewCellStyle34.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.n_mortgage.DefaultCellStyle = dataGridViewCellStyle34;
             this.n_mortgage.HeaderText = "იპოთეკის N";
+            this.n_mortgage.MinimumWidth = 6;
             this.n_mortgage.Name = "n_mortgage";
             this.n_mortgage.ReadOnly = true;
+            this.n_mortgage.Width = 125;
             // 
             // dt_mortgage
             // 
             this.dt_mortgage.DataPropertyName = "dt_mortgage";
-            dataGridViewCellStyle292.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle292.Format = "dd/MM/yyyy";
-            this.dt_mortgage.DefaultCellStyle = dataGridViewCellStyle292;
+            dataGridViewCellStyle35.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle35.Format = "dd/MM/yyyy";
+            this.dt_mortgage.DefaultCellStyle = dataGridViewCellStyle35;
             this.dt_mortgage.HeaderText = "იპოთეკის თარიღი";
+            this.dt_mortgage.MinimumWidth = 6;
             this.dt_mortgage.Name = "dt_mortgage";
             this.dt_mortgage.ReadOnly = true;
             this.dt_mortgage.Width = 80;
@@ -5209,18 +5232,21 @@
             // credit_treaty
             // 
             this.credit_treaty.DataPropertyName = "credit_treaty";
-            dataGridViewCellStyle293.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.credit_treaty.DefaultCellStyle = dataGridViewCellStyle293;
+            dataGridViewCellStyle36.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.credit_treaty.DefaultCellStyle = dataGridViewCellStyle36;
             this.credit_treaty.HeaderText = "სესხის ხელშეკრულება";
+            this.credit_treaty.MinimumWidth = 6;
             this.credit_treaty.Name = "credit_treaty";
             this.credit_treaty.ReadOnly = true;
+            this.credit_treaty.Width = 125;
             // 
             // credit_id
             // 
             this.credit_id.DataPropertyName = "credit_id";
-            dataGridViewCellStyle294.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.credit_id.DefaultCellStyle = dataGridViewCellStyle294;
+            dataGridViewCellStyle37.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.credit_id.DefaultCellStyle = dataGridViewCellStyle37;
             this.credit_id.HeaderText = "სესხის ID";
+            this.credit_id.MinimumWidth = 6;
             this.credit_id.Name = "credit_id";
             this.credit_id.ReadOnly = true;
             this.credit_id.Width = 80;
@@ -5228,18 +5254,21 @@
             // debt_gel
             // 
             this.debt_gel.DataPropertyName = "debt_gel";
-            dataGridViewCellStyle295.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debt_gel.DefaultCellStyle = dataGridViewCellStyle295;
+            dataGridViewCellStyle38.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debt_gel.DefaultCellStyle = dataGridViewCellStyle38;
             this.debt_gel.HeaderText = "სესხი დავალიანება";
+            this.debt_gel.MinimumWidth = 6;
             this.debt_gel.Name = "debt_gel";
             this.debt_gel.ReadOnly = true;
+            this.debt_gel.Width = 125;
             // 
             // property_addr
             // 
             this.property_addr.DataPropertyName = "property_addr";
-            dataGridViewCellStyle296.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.property_addr.DefaultCellStyle = dataGridViewCellStyle296;
+            dataGridViewCellStyle39.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.property_addr.DefaultCellStyle = dataGridViewCellStyle39;
             this.property_addr.HeaderText = "ქონების მისამართი";
+            this.property_addr.MinimumWidth = 6;
             this.property_addr.Name = "property_addr";
             this.property_addr.ReadOnly = true;
             this.property_addr.Width = 200;
@@ -5247,18 +5276,21 @@
             // property_code
             // 
             this.property_code.DataPropertyName = "property_code";
-            dataGridViewCellStyle297.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.property_code.DefaultCellStyle = dataGridViewCellStyle297;
+            dataGridViewCellStyle40.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.property_code.DefaultCellStyle = dataGridViewCellStyle40;
             this.property_code.HeaderText = "ქონების საკადასტრო კოდი";
+            this.property_code.MinimumWidth = 6;
             this.property_code.Name = "property_code";
             this.property_code.ReadOnly = true;
+            this.property_code.Width = 125;
             // 
             // property
             // 
             this.property.DataPropertyName = "property";
-            dataGridViewCellStyle298.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.property.DefaultCellStyle = dataGridViewCellStyle298;
+            dataGridViewCellStyle41.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.property.DefaultCellStyle = dataGridViewCellStyle41;
             this.property.HeaderText = "ქონების აღწერა";
+            this.property.MinimumWidth = 6;
             this.property.Name = "property";
             this.property.ReadOnly = true;
             this.property.Width = 300;
@@ -5266,18 +5298,21 @@
             // rights
             // 
             this.rights.DataPropertyName = "rights";
-            dataGridViewCellStyle299.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.rights.DefaultCellStyle = dataGridViewCellStyle299;
+            dataGridViewCellStyle42.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.rights.DefaultCellStyle = dataGridViewCellStyle42;
             this.rights.HeaderText = "გარდამავალი უფლებები";
+            this.rights.MinimumWidth = 6;
             this.rights.Name = "rights";
             this.rights.ReadOnly = true;
+            this.rights.Width = 125;
             // 
             // owner
             // 
             this.owner.DataPropertyName = "owner";
-            dataGridViewCellStyle300.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.owner.DefaultCellStyle = dataGridViewCellStyle300;
+            dataGridViewCellStyle43.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.owner.DefaultCellStyle = dataGridViewCellStyle43;
             this.owner.HeaderText = "მესაკუთრე";
+            this.owner.MinimumWidth = 6;
             this.owner.Name = "owner";
             this.owner.ReadOnly = true;
             this.owner.Width = 200;
@@ -5285,9 +5320,10 @@
             // owner_num
             // 
             this.owner_num.DataPropertyName = "owner_num";
-            dataGridViewCellStyle301.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.owner_num.DefaultCellStyle = dataGridViewCellStyle301;
+            dataGridViewCellStyle44.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.owner_num.DefaultCellStyle = dataGridViewCellStyle44;
             this.owner_num.HeaderText = "მესაკუთრე პირადი N";
+            this.owner_num.MinimumWidth = 6;
             this.owner_num.Name = "owner_num";
             this.owner_num.ReadOnly = true;
             this.owner_num.Width = 80;
@@ -5295,18 +5331,21 @@
             // owner_tel
             // 
             this.owner_tel.DataPropertyName = "owner_tel";
-            dataGridViewCellStyle302.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.owner_tel.DefaultCellStyle = dataGridViewCellStyle302;
+            dataGridViewCellStyle45.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.owner_tel.DefaultCellStyle = dataGridViewCellStyle45;
             this.owner_tel.HeaderText = "მესაკუთრე TEL";
+            this.owner_tel.MinimumWidth = 6;
             this.owner_tel.Name = "owner_tel";
             this.owner_tel.ReadOnly = true;
+            this.owner_tel.Width = 125;
             // 
             // owner_addr1
             // 
             this.owner_addr1.DataPropertyName = "owner_addr1";
-            dataGridViewCellStyle303.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.owner_addr1.DefaultCellStyle = dataGridViewCellStyle303;
+            dataGridViewCellStyle46.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.owner_addr1.DefaultCellStyle = dataGridViewCellStyle46;
             this.owner_addr1.HeaderText = "მესაკუთრე მისამართი 1";
+            this.owner_addr1.MinimumWidth = 6;
             this.owner_addr1.Name = "owner_addr1";
             this.owner_addr1.ReadOnly = true;
             this.owner_addr1.Width = 200;
@@ -5314,9 +5353,10 @@
             // owner_addr2
             // 
             this.owner_addr2.DataPropertyName = "owner_addr2";
-            dataGridViewCellStyle304.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            this.owner_addr2.DefaultCellStyle = dataGridViewCellStyle304;
+            dataGridViewCellStyle47.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            this.owner_addr2.DefaultCellStyle = dataGridViewCellStyle47;
             this.owner_addr2.HeaderText = "მესაკუთრე მისამართი 2";
+            this.owner_addr2.MinimumWidth = 6;
             this.owner_addr2.Name = "owner_addr2";
             this.owner_addr2.ReadOnly = true;
             this.owner_addr2.Width = 200;
@@ -5324,9 +5364,10 @@
             // owner_addr3
             // 
             this.owner_addr3.DataPropertyName = "owner_addr3";
-            dataGridViewCellStyle305.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.owner_addr3.DefaultCellStyle = dataGridViewCellStyle305;
+            dataGridViewCellStyle48.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.owner_addr3.DefaultCellStyle = dataGridViewCellStyle48;
             this.owner_addr3.HeaderText = "მესაკუთრე მისამართი 3";
+            this.owner_addr3.MinimumWidth = 6;
             this.owner_addr3.Name = "owner_addr3";
             this.owner_addr3.ReadOnly = true;
             this.owner_addr3.Width = 200;
@@ -5334,9 +5375,10 @@
             // owner_addr4
             // 
             this.owner_addr4.DataPropertyName = "owner_addr4";
-            dataGridViewCellStyle306.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.owner_addr4.DefaultCellStyle = dataGridViewCellStyle306;
+            dataGridViewCellStyle49.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.owner_addr4.DefaultCellStyle = dataGridViewCellStyle49;
             this.owner_addr4.HeaderText = "მესაკუთრე მისამართი 4";
+            this.owner_addr4.MinimumWidth = 6;
             this.owner_addr4.Name = "owner_addr4";
             this.owner_addr4.ReadOnly = true;
             this.owner_addr4.Width = 200;
@@ -5344,9 +5386,10 @@
             // debtor
             // 
             this.debtor.DataPropertyName = "debtor";
-            dataGridViewCellStyle307.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debtor.DefaultCellStyle = dataGridViewCellStyle307;
+            dataGridViewCellStyle50.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debtor.DefaultCellStyle = dataGridViewCellStyle50;
             this.debtor.HeaderText = "მსესხებელი";
+            this.debtor.MinimumWidth = 6;
             this.debtor.Name = "debtor";
             this.debtor.ReadOnly = true;
             this.debtor.Width = 150;
@@ -5354,9 +5397,10 @@
             // debtor_num
             // 
             this.debtor_num.DataPropertyName = "debtor_num";
-            dataGridViewCellStyle308.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.debtor_num.DefaultCellStyle = dataGridViewCellStyle308;
+            dataGridViewCellStyle51.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.debtor_num.DefaultCellStyle = dataGridViewCellStyle51;
             this.debtor_num.HeaderText = "მსესხებელი პირადი N";
+            this.debtor_num.MinimumWidth = 6;
             this.debtor_num.Name = "debtor_num";
             this.debtor_num.ReadOnly = true;
             this.debtor_num.Width = 80;
@@ -5364,9 +5408,10 @@
             // debtor_addr
             // 
             this.debtor_addr.DataPropertyName = "debtor_addr";
-            dataGridViewCellStyle309.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debtor_addr.DefaultCellStyle = dataGridViewCellStyle309;
+            dataGridViewCellStyle52.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debtor_addr.DefaultCellStyle = dataGridViewCellStyle52;
             this.debtor_addr.HeaderText = "მსესხებელი მისამართი";
+            this.debtor_addr.MinimumWidth = 6;
             this.debtor_addr.Name = "debtor_addr";
             this.debtor_addr.ReadOnly = true;
             this.debtor_addr.Width = 200;
@@ -5374,9 +5419,10 @@
             // debtor1
             // 
             this.debtor1.DataPropertyName = "debtor1";
-            dataGridViewCellStyle310.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debtor1.DefaultCellStyle = dataGridViewCellStyle310;
+            dataGridViewCellStyle53.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debtor1.DefaultCellStyle = dataGridViewCellStyle53;
             this.debtor1.HeaderText = "სხვა პირი";
+            this.debtor1.MinimumWidth = 6;
             this.debtor1.Name = "debtor1";
             this.debtor1.ReadOnly = true;
             this.debtor1.Width = 150;
@@ -5384,9 +5430,10 @@
             // debtor1_num
             // 
             this.debtor1_num.DataPropertyName = "debtor1_num";
-            dataGridViewCellStyle311.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debtor1_num.DefaultCellStyle = dataGridViewCellStyle311;
+            dataGridViewCellStyle54.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debtor1_num.DefaultCellStyle = dataGridViewCellStyle54;
             this.debtor1_num.HeaderText = "სხვა პირი პ/N";
+            this.debtor1_num.MinimumWidth = 6;
             this.debtor1_num.Name = "debtor1_num";
             this.debtor1_num.ReadOnly = true;
             this.debtor1_num.Width = 80;
@@ -5394,9 +5441,10 @@
             // debtor1_addr
             // 
             this.debtor1_addr.DataPropertyName = "debtor1_addr";
-            dataGridViewCellStyle312.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debtor1_addr.DefaultCellStyle = dataGridViewCellStyle312;
+            dataGridViewCellStyle55.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debtor1_addr.DefaultCellStyle = dataGridViewCellStyle55;
             this.debtor1_addr.HeaderText = "სხვა პირი მისამართი ";
+            this.debtor1_addr.MinimumWidth = 6;
             this.debtor1_addr.Name = "debtor1_addr";
             this.debtor1_addr.ReadOnly = true;
             this.debtor1_addr.Width = 200;
@@ -5404,9 +5452,10 @@
             // dgg
             // 
             this.dgg.DataPropertyName = "dgg";
-            dataGridViewCellStyle313.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.dgg.DefaultCellStyle = dataGridViewCellStyle313;
+            dataGridViewCellStyle56.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.dgg.DefaultCellStyle = dataGridViewCellStyle56;
             this.dgg.HeaderText = "დღგ";
+            this.dgg.MinimumWidth = 6;
             this.dgg.Name = "dgg";
             this.dgg.ReadOnly = true;
             this.dgg.Resizable = System.Windows.Forms.DataGridViewTriState.True;
@@ -5415,9 +5464,10 @@
             // foto
             // 
             this.foto.DataPropertyName = "foto";
-            dataGridViewCellStyle314.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.foto.DefaultCellStyle = dataGridViewCellStyle314;
+            dataGridViewCellStyle57.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.foto.DefaultCellStyle = dataGridViewCellStyle57;
             this.foto.HeaderText = "სალიკვი დაციო";
+            this.foto.MinimumWidth = 6;
             this.foto.Name = "foto";
             this.foto.ReadOnly = true;
             this.foto.Resizable = System.Windows.Forms.DataGridViewTriState.True;
@@ -5426,92 +5476,109 @@
             // prepaid
             // 
             this.prepaid.DataPropertyName = "prepaid";
-            dataGridViewCellStyle315.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle315.Format = "N2";
-            dataGridViewCellStyle315.NullValue = null;
-            this.prepaid.DefaultCellStyle = dataGridViewCellStyle315;
+            dataGridViewCellStyle58.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle58.Format = "N2";
+            dataGridViewCellStyle58.NullValue = null;
+            this.prepaid.DefaultCellStyle = dataGridViewCellStyle58;
             this.prepaid.HeaderText = "ავანსის თანხა";
+            this.prepaid.MinimumWidth = 6;
             this.prepaid.Name = "prepaid";
             this.prepaid.ReadOnly = true;
+            this.prepaid.Width = 125;
             // 
             // prepaid_dt
             // 
             this.prepaid_dt.DataPropertyName = "prepaid_dt";
-            dataGridViewCellStyle316.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle316.Format = "N2";
-            this.prepaid_dt.DefaultCellStyle = dataGridViewCellStyle316;
+            dataGridViewCellStyle59.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle59.Format = "N2";
+            this.prepaid_dt.DefaultCellStyle = dataGridViewCellStyle59;
             this.prepaid_dt.HeaderText = "ჩარიცხული ავანსი";
+            this.prepaid_dt.MinimumWidth = 6;
             this.prepaid_dt.Name = "prepaid_dt";
             this.prepaid_dt.ReadOnly = true;
+            this.prepaid_dt.Width = 125;
             // 
             // sales_usd
             // 
             this.sales_usd.DataPropertyName = "sales_usd";
-            dataGridViewCellStyle317.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle317.Format = "N2";
-            this.sales_usd.DefaultCellStyle = dataGridViewCellStyle317;
+            dataGridViewCellStyle60.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle60.Format = "N2";
+            this.sales_usd.DefaultCellStyle = dataGridViewCellStyle60;
             this.sales_usd.HeaderText = "აუქციონის საბაზრო ფასი $";
+            this.sales_usd.MinimumWidth = 6;
             this.sales_usd.Name = "sales_usd";
             this.sales_usd.ReadOnly = true;
+            this.sales_usd.Width = 125;
             // 
             // liquid_price
             // 
             this.liquid_price.DataPropertyName = "liquid_price";
-            dataGridViewCellStyle318.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle318.Format = "N2";
-            this.liquid_price.DefaultCellStyle = dataGridViewCellStyle318;
+            dataGridViewCellStyle61.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle61.Format = "N2";
+            this.liquid_price.DefaultCellStyle = dataGridViewCellStyle61;
             this.liquid_price.HeaderText = "აუქციონის სალიკვიდაციო ფასი $";
+            this.liquid_price.MinimumWidth = 6;
             this.liquid_price.Name = "liquid_price";
             this.liquid_price.ReadOnly = true;
+            this.liquid_price.Width = 125;
             // 
             // price_usd
             // 
             this.price_usd.DataPropertyName = "price_usd";
-            dataGridViewCellStyle319.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle319.Format = "N2";
-            this.price_usd.DefaultCellStyle = dataGridViewCellStyle319;
+            dataGridViewCellStyle62.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle62.Format = "N2";
+            this.price_usd.DefaultCellStyle = dataGridViewCellStyle62;
             this.price_usd.HeaderText = "პირველი აუქციონის საწყისი ფასი $";
+            this.price_usd.MinimumWidth = 6;
             this.price_usd.Name = "price_usd";
             this.price_usd.ReadOnly = true;
+            this.price_usd.Width = 125;
             // 
             // price_gel
             // 
             this.price_gel.DataPropertyName = "price_gel";
-            dataGridViewCellStyle320.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle320.Format = "N2";
-            this.price_gel.DefaultCellStyle = dataGridViewCellStyle320;
+            dataGridViewCellStyle63.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle63.Format = "N2";
+            this.price_gel.DefaultCellStyle = dataGridViewCellStyle63;
             this.price_gel.HeaderText = "პირველი აუქციონის საწყისი ფასი ₾";
+            this.price_gel.MinimumWidth = 6;
             this.price_gel.Name = "price_gel";
             this.price_gel.ReadOnly = true;
+            this.price_gel.Width = 125;
             // 
             // sales_eur
             // 
             this.sales_eur.DataPropertyName = "sales_eur";
-            dataGridViewCellStyle321.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle321.Format = "N2";
-            this.sales_eur.DefaultCellStyle = dataGridViewCellStyle321;
+            dataGridViewCellStyle64.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle64.Format = "N2";
+            this.sales_eur.DefaultCellStyle = dataGridViewCellStyle64;
             this.sales_eur.HeaderText = "პირველი აუქციონის საწყისი ფასი EUR";
+            this.sales_eur.MinimumWidth = 6;
             this.sales_eur.Name = "sales_eur";
             this.sales_eur.ReadOnly = true;
+            this.sales_eur.Width = 125;
             // 
             // fee
             // 
             this.fee.DataPropertyName = "fee";
-            dataGridViewCellStyle322.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle322.Format = "N2";
-            dataGridViewCellStyle322.NullValue = null;
-            this.fee.DefaultCellStyle = dataGridViewCellStyle322;
+            dataGridViewCellStyle65.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle65.Format = "N2";
+            dataGridViewCellStyle65.NullValue = null;
+            this.fee.DefaultCellStyle = dataGridViewCellStyle65;
             this.fee.HeaderText = "START GEL";
+            this.fee.MinimumWidth = 6;
             this.fee.Name = "fee";
             this.fee.ReadOnly = true;
+            this.fee.Width = 125;
             // 
             // post_send
             // 
             this.post_send.DataPropertyName = "post_send";
-            dataGridViewCellStyle323.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle323.Format = "dd/MM/yyyy";
-            this.post_send.DefaultCellStyle = dataGridViewCellStyle323;
+            dataGridViewCellStyle66.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle66.Format = "dd/MM/yyyy";
+            this.post_send.DefaultCellStyle = dataGridViewCellStyle66;
             this.post_send.HeaderText = "ფოსტა";
+            this.post_send.MinimumWidth = 6;
             this.post_send.Name = "post_send";
             this.post_send.ReadOnly = true;
             this.post_send.Width = 80;
@@ -5519,20 +5586,23 @@
             // post_reg
             // 
             this.post_reg.DataPropertyName = "post_reg";
-            dataGridViewCellStyle324.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.post_reg.DefaultCellStyle = dataGridViewCellStyle324;
+            dataGridViewCellStyle67.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.post_reg.DefaultCellStyle = dataGridViewCellStyle67;
             this.post_reg.HeaderText = "ფოსტა (ჩაბარება)";
+            this.post_reg.MinimumWidth = 6;
             this.post_reg.Name = "post_reg";
             this.post_reg.ReadOnly = true;
             this.post_reg.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.post_reg.Width = 125;
             // 
             // tnt_send
             // 
             this.tnt_send.DataPropertyName = "tnt_send";
-            dataGridViewCellStyle325.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle325.Format = "dd/MM/yyyy";
-            this.tnt_send.DefaultCellStyle = dataGridViewCellStyle325;
+            dataGridViewCellStyle68.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle68.Format = "dd/MM/yyyy";
+            this.tnt_send.DefaultCellStyle = dataGridViewCellStyle68;
             this.tnt_send.HeaderText = "TNT";
+            this.tnt_send.MinimumWidth = 6;
             this.tnt_send.Name = "tnt_send";
             this.tnt_send.ReadOnly = true;
             this.tnt_send.Width = 80;
@@ -5540,20 +5610,23 @@
             // tnt_reg
             // 
             this.tnt_reg.DataPropertyName = "tnt_reg";
-            dataGridViewCellStyle326.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.tnt_reg.DefaultCellStyle = dataGridViewCellStyle326;
+            dataGridViewCellStyle69.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.tnt_reg.DefaultCellStyle = dataGridViewCellStyle69;
             this.tnt_reg.HeaderText = "TNT (ჩაბარება)";
+            this.tnt_reg.MinimumWidth = 6;
             this.tnt_reg.Name = "tnt_reg";
             this.tnt_reg.ReadOnly = true;
             this.tnt_reg.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.tnt_reg.Width = 125;
             // 
             // courier
             // 
             this.courier.DataPropertyName = "courier";
-            dataGridViewCellStyle327.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle327.Format = "dd/MM/yyyy";
-            this.courier.DefaultCellStyle = dataGridViewCellStyle327;
+            dataGridViewCellStyle70.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle70.Format = "dd/MM/yyyy";
+            this.courier.DefaultCellStyle = dataGridViewCellStyle70;
             this.courier.HeaderText = "კურიერი";
+            this.courier.MinimumWidth = 6;
             this.courier.Name = "courier";
             this.courier.ReadOnly = true;
             this.courier.Width = 80;
@@ -5561,10 +5634,11 @@
             // tel
             // 
             this.tel.DataPropertyName = "tel";
-            dataGridViewCellStyle328.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            dataGridViewCellStyle328.Format = "dd/MM/yyyy";
-            this.tel.DefaultCellStyle = dataGridViewCellStyle328;
+            dataGridViewCellStyle71.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            dataGridViewCellStyle71.Format = "dd/MM/yyyy";
+            this.tel.DefaultCellStyle = dataGridViewCellStyle71;
             this.tel.HeaderText = "ტელეფონი";
+            this.tel.MinimumWidth = 6;
             this.tel.Name = "tel";
             this.tel.ReadOnly = true;
             this.tel.Width = 80;
@@ -5572,10 +5646,11 @@
             // rez
             // 
             this.rez.DataPropertyName = "rez";
-            dataGridViewCellStyle329.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle329.Format = "dd/MM/yyyy";
-            this.rez.DefaultCellStyle = dataGridViewCellStyle329;
+            dataGridViewCellStyle72.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle72.Format = "dd/MM/yyyy";
+            this.rez.DefaultCellStyle = dataGridViewCellStyle72;
             this.rez.HeaderText = "რეზონანსი";
+            this.rez.MinimumWidth = 6;
             this.rez.Name = "rez";
             this.rez.ReadOnly = true;
             this.rez.Width = 80;
@@ -5583,10 +5658,11 @@
             // macne
             // 
             this.macne.DataPropertyName = "macne";
-            dataGridViewCellStyle330.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle330.Format = "dd/MM/yyyy";
-            this.macne.DefaultCellStyle = dataGridViewCellStyle330;
+            dataGridViewCellStyle73.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle73.Format = "dd/MM/yyyy";
+            this.macne.DefaultCellStyle = dataGridViewCellStyle73;
             this.macne.HeaderText = "საკან. მაცნე";
+            this.macne.MinimumWidth = 6;
             this.macne.Name = "macne";
             this.macne.ReadOnly = true;
             this.macne.Width = 80;
@@ -5594,10 +5670,11 @@
             // auc_start
             // 
             this.auc_start.DataPropertyName = "auc_start";
-            dataGridViewCellStyle331.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle331.Format = "dd/MM/yyyy";
-            this.auc_start.DefaultCellStyle = dataGridViewCellStyle331;
+            dataGridViewCellStyle74.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle74.Format = "dd/MM/yyyy";
+            this.auc_start.DefaultCellStyle = dataGridViewCellStyle74;
             this.auc_start.HeaderText = "აუქციონი Start";
+            this.auc_start.MinimumWidth = 6;
             this.auc_start.Name = "auc_start";
             this.auc_start.ReadOnly = true;
             this.auc_start.Width = 80;
@@ -5605,10 +5682,11 @@
             // auc_end
             // 
             this.auc_end.DataPropertyName = "auc_end";
-            dataGridViewCellStyle332.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle332.Format = "dd/MM/yyyy";
-            this.auc_end.DefaultCellStyle = dataGridViewCellStyle332;
+            dataGridViewCellStyle75.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle75.Format = "dd/MM/yyyy";
+            this.auc_end.DefaultCellStyle = dataGridViewCellStyle75;
             this.auc_end.HeaderText = "აუქციონი END";
+            this.auc_end.MinimumWidth = 6;
             this.auc_end.Name = "auc_end";
             this.auc_end.ReadOnly = true;
             this.auc_end.Width = 80;
@@ -5616,39 +5694,46 @@
             // lot_num
             // 
             this.lot_num.DataPropertyName = "lot_num";
-            dataGridViewCellStyle333.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.lot_num.DefaultCellStyle = dataGridViewCellStyle333;
+            dataGridViewCellStyle76.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.lot_num.DefaultCellStyle = dataGridViewCellStyle76;
             this.lot_num.HeaderText = "აუქციონი ლოტის N";
+            this.lot_num.MinimumWidth = 6;
             this.lot_num.Name = "lot_num";
             this.lot_num.ReadOnly = true;
+            this.lot_num.Width = 125;
             // 
             // price1_usd
             // 
             this.price1_usd.DataPropertyName = "price1_usd";
-            dataGridViewCellStyle334.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle334.Format = "N2";
-            this.price1_usd.DefaultCellStyle = dataGridViewCellStyle334;
+            dataGridViewCellStyle77.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle77.Format = "N2";
+            this.price1_usd.DefaultCellStyle = dataGridViewCellStyle77;
             this.price1_usd.HeaderText = "მეორე აუქციონის საწყისი ფასი $";
+            this.price1_usd.MinimumWidth = 6;
             this.price1_usd.Name = "price1_usd";
             this.price1_usd.ReadOnly = true;
+            this.price1_usd.Width = 125;
             // 
             // price1_gel
             // 
             this.price1_gel.DataPropertyName = "price1_gel";
-            dataGridViewCellStyle335.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle335.Format = "N2";
-            this.price1_gel.DefaultCellStyle = dataGridViewCellStyle335;
+            dataGridViewCellStyle78.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle78.Format = "N2";
+            this.price1_gel.DefaultCellStyle = dataGridViewCellStyle78;
             this.price1_gel.HeaderText = "მეორე აუქციონის საწყისი ფასი ₾";
+            this.price1_gel.MinimumWidth = 6;
             this.price1_gel.Name = "price1_gel";
             this.price1_gel.ReadOnly = true;
+            this.price1_gel.Width = 125;
             // 
             // post1_send
             // 
             this.post1_send.DataPropertyName = "post1_send";
-            dataGridViewCellStyle336.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle336.Format = "dd/MM/yyyy";
-            this.post1_send.DefaultCellStyle = dataGridViewCellStyle336;
+            dataGridViewCellStyle79.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle79.Format = "dd/MM/yyyy";
+            this.post1_send.DefaultCellStyle = dataGridViewCellStyle79;
             this.post1_send.HeaderText = "ფოსტა";
+            this.post1_send.MinimumWidth = 6;
             this.post1_send.Name = "post1_send";
             this.post1_send.ReadOnly = true;
             this.post1_send.Width = 80;
@@ -5656,20 +5741,23 @@
             // post1_reg
             // 
             this.post1_reg.DataPropertyName = "post1_reg";
-            dataGridViewCellStyle337.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.post1_reg.DefaultCellStyle = dataGridViewCellStyle337;
+            dataGridViewCellStyle80.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.post1_reg.DefaultCellStyle = dataGridViewCellStyle80;
             this.post1_reg.HeaderText = "ფოსტა (ჩაბარება)";
+            this.post1_reg.MinimumWidth = 6;
             this.post1_reg.Name = "post1_reg";
             this.post1_reg.ReadOnly = true;
             this.post1_reg.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.post1_reg.Width = 125;
             // 
             // tnt1_send
             // 
             this.tnt1_send.DataPropertyName = "tnt1_send";
-            dataGridViewCellStyle338.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle338.Format = "dd/MM/yyyy";
-            this.tnt1_send.DefaultCellStyle = dataGridViewCellStyle338;
+            dataGridViewCellStyle81.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle81.Format = "dd/MM/yyyy";
+            this.tnt1_send.DefaultCellStyle = dataGridViewCellStyle81;
             this.tnt1_send.HeaderText = "TNT";
+            this.tnt1_send.MinimumWidth = 6;
             this.tnt1_send.Name = "tnt1_send";
             this.tnt1_send.ReadOnly = true;
             this.tnt1_send.Width = 80;
@@ -5677,20 +5765,23 @@
             // tnt1_reg
             // 
             this.tnt1_reg.DataPropertyName = "tnt1_reg";
-            dataGridViewCellStyle339.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.tnt1_reg.DefaultCellStyle = dataGridViewCellStyle339;
+            dataGridViewCellStyle82.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.tnt1_reg.DefaultCellStyle = dataGridViewCellStyle82;
             this.tnt1_reg.HeaderText = "TNT (ჩაბარება)";
+            this.tnt1_reg.MinimumWidth = 6;
             this.tnt1_reg.Name = "tnt1_reg";
             this.tnt1_reg.ReadOnly = true;
             this.tnt1_reg.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.tnt1_reg.Width = 125;
             // 
             // courier1
             // 
             this.courier1.DataPropertyName = "courier1";
-            dataGridViewCellStyle340.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle340.Format = "dd/MM/yyyy";
-            this.courier1.DefaultCellStyle = dataGridViewCellStyle340;
+            dataGridViewCellStyle83.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle83.Format = "dd/MM/yyyy";
+            this.courier1.DefaultCellStyle = dataGridViewCellStyle83;
             this.courier1.HeaderText = "კურიერი";
+            this.courier1.MinimumWidth = 6;
             this.courier1.Name = "courier1";
             this.courier1.ReadOnly = true;
             this.courier1.Width = 80;
@@ -5698,10 +5789,11 @@
             // tel1
             // 
             this.tel1.DataPropertyName = "tel1";
-            dataGridViewCellStyle341.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle341.Format = "dd/MM/yyyy";
-            this.tel1.DefaultCellStyle = dataGridViewCellStyle341;
+            dataGridViewCellStyle84.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle84.Format = "dd/MM/yyyy";
+            this.tel1.DefaultCellStyle = dataGridViewCellStyle84;
             this.tel1.HeaderText = "ტელეფონი";
+            this.tel1.MinimumWidth = 6;
             this.tel1.Name = "tel1";
             this.tel1.ReadOnly = true;
             this.tel1.Width = 80;
@@ -5709,10 +5801,11 @@
             // rez1
             // 
             this.rez1.DataPropertyName = "rez1";
-            dataGridViewCellStyle342.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle342.Format = "dd/MM/yyyy";
-            this.rez1.DefaultCellStyle = dataGridViewCellStyle342;
+            dataGridViewCellStyle85.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle85.Format = "dd/MM/yyyy";
+            this.rez1.DefaultCellStyle = dataGridViewCellStyle85;
             this.rez1.HeaderText = "რეზონანსი";
+            this.rez1.MinimumWidth = 6;
             this.rez1.Name = "rez1";
             this.rez1.ReadOnly = true;
             this.rez1.Width = 80;
@@ -5720,10 +5813,11 @@
             // macne1
             // 
             this.macne1.DataPropertyName = "macne1";
-            dataGridViewCellStyle343.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle343.Format = "dd/MM/yyyy";
-            this.macne1.DefaultCellStyle = dataGridViewCellStyle343;
+            dataGridViewCellStyle86.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle86.Format = "dd/MM/yyyy";
+            this.macne1.DefaultCellStyle = dataGridViewCellStyle86;
             this.macne1.HeaderText = "საკან. მაცნე";
+            this.macne1.MinimumWidth = 6;
             this.macne1.Name = "macne1";
             this.macne1.ReadOnly = true;
             this.macne1.Width = 80;
@@ -5731,10 +5825,11 @@
             // auc1_start
             // 
             this.auc1_start.DataPropertyName = "auc1_start";
-            dataGridViewCellStyle344.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle344.Format = "dd/MM/yyyy";
-            this.auc1_start.DefaultCellStyle = dataGridViewCellStyle344;
+            dataGridViewCellStyle87.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle87.Format = "dd/MM/yyyy";
+            this.auc1_start.DefaultCellStyle = dataGridViewCellStyle87;
             this.auc1_start.HeaderText = "აუქციონი Start";
+            this.auc1_start.MinimumWidth = 6;
             this.auc1_start.Name = "auc1_start";
             this.auc1_start.ReadOnly = true;
             this.auc1_start.Width = 80;
@@ -5742,10 +5837,11 @@
             // auc1_end
             // 
             this.auc1_end.DataPropertyName = "auc1_end";
-            dataGridViewCellStyle345.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle345.Format = "dd/MM/yyyy";
-            this.auc1_end.DefaultCellStyle = dataGridViewCellStyle345;
+            dataGridViewCellStyle88.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle88.Format = "dd/MM/yyyy";
+            this.auc1_end.DefaultCellStyle = dataGridViewCellStyle88;
             this.auc1_end.HeaderText = "აუქციონი END";
+            this.auc1_end.MinimumWidth = 6;
             this.auc1_end.Name = "auc1_end";
             this.auc1_end.ReadOnly = true;
             this.auc1_end.Width = 80;
@@ -5753,39 +5849,46 @@
             // lot1_num
             // 
             this.lot1_num.DataPropertyName = "lot1_num";
-            dataGridViewCellStyle346.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.lot1_num.DefaultCellStyle = dataGridViewCellStyle346;
+            dataGridViewCellStyle89.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.lot1_num.DefaultCellStyle = dataGridViewCellStyle89;
             this.lot1_num.HeaderText = "აუქციონი ლოტის N";
+            this.lot1_num.MinimumWidth = 6;
             this.lot1_num.Name = "lot1_num";
             this.lot1_num.ReadOnly = true;
+            this.lot1_num.Width = 125;
             // 
             // price2_usd
             // 
             this.price2_usd.DataPropertyName = "price2_usd";
-            dataGridViewCellStyle347.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle347.Format = "N2";
-            this.price2_usd.DefaultCellStyle = dataGridViewCellStyle347;
+            dataGridViewCellStyle90.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle90.Format = "N2";
+            this.price2_usd.DefaultCellStyle = dataGridViewCellStyle90;
             this.price2_usd.HeaderText = "მესამე აუქციონის საწყისი ფასი $";
+            this.price2_usd.MinimumWidth = 6;
             this.price2_usd.Name = "price2_usd";
             this.price2_usd.ReadOnly = true;
+            this.price2_usd.Width = 125;
             // 
             // price2_gel
             // 
             this.price2_gel.DataPropertyName = "price2_gel";
-            dataGridViewCellStyle348.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle348.Format = "N2";
-            this.price2_gel.DefaultCellStyle = dataGridViewCellStyle348;
+            dataGridViewCellStyle91.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle91.Format = "N2";
+            this.price2_gel.DefaultCellStyle = dataGridViewCellStyle91;
             this.price2_gel.HeaderText = "მესამე აუქციონის საწყისი ფასი ₾";
+            this.price2_gel.MinimumWidth = 6;
             this.price2_gel.Name = "price2_gel";
             this.price2_gel.ReadOnly = true;
+            this.price2_gel.Width = 125;
             // 
             // post2_send
             // 
             this.post2_send.DataPropertyName = "post2_send";
-            dataGridViewCellStyle349.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle349.Format = "dd/MM/yyyy";
-            this.post2_send.DefaultCellStyle = dataGridViewCellStyle349;
+            dataGridViewCellStyle92.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle92.Format = "dd/MM/yyyy";
+            this.post2_send.DefaultCellStyle = dataGridViewCellStyle92;
             this.post2_send.HeaderText = "ფოსტა";
+            this.post2_send.MinimumWidth = 6;
             this.post2_send.Name = "post2_send";
             this.post2_send.ReadOnly = true;
             this.post2_send.Width = 80;
@@ -5793,20 +5896,23 @@
             // post2_reg
             // 
             this.post2_reg.DataPropertyName = "post2_reg";
-            dataGridViewCellStyle350.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.post2_reg.DefaultCellStyle = dataGridViewCellStyle350;
+            dataGridViewCellStyle93.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.post2_reg.DefaultCellStyle = dataGridViewCellStyle93;
             this.post2_reg.HeaderText = "ფოსტა (ჩაბარება)";
+            this.post2_reg.MinimumWidth = 6;
             this.post2_reg.Name = "post2_reg";
             this.post2_reg.ReadOnly = true;
             this.post2_reg.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.post2_reg.Width = 125;
             // 
             // tnt2_send
             // 
             this.tnt2_send.DataPropertyName = "tnt2_send";
-            dataGridViewCellStyle351.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle351.Format = "dd/MM/yyyy";
-            this.tnt2_send.DefaultCellStyle = dataGridViewCellStyle351;
+            dataGridViewCellStyle94.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle94.Format = "dd/MM/yyyy";
+            this.tnt2_send.DefaultCellStyle = dataGridViewCellStyle94;
             this.tnt2_send.HeaderText = "TNT";
+            this.tnt2_send.MinimumWidth = 6;
             this.tnt2_send.Name = "tnt2_send";
             this.tnt2_send.ReadOnly = true;
             this.tnt2_send.Width = 80;
@@ -5814,19 +5920,22 @@
             // tnt2_reg
             // 
             this.tnt2_reg.DataPropertyName = "tnt2_reg";
-            dataGridViewCellStyle352.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.tnt2_reg.DefaultCellStyle = dataGridViewCellStyle352;
+            dataGridViewCellStyle95.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.tnt2_reg.DefaultCellStyle = dataGridViewCellStyle95;
             this.tnt2_reg.HeaderText = "TNT (ჩაბარება)";
+            this.tnt2_reg.MinimumWidth = 6;
             this.tnt2_reg.Name = "tnt2_reg";
             this.tnt2_reg.ReadOnly = true;
+            this.tnt2_reg.Width = 125;
             // 
             // courier2
             // 
             this.courier2.DataPropertyName = "courier2";
-            dataGridViewCellStyle353.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle353.Format = "dd/MM/yyyy";
-            this.courier2.DefaultCellStyle = dataGridViewCellStyle353;
+            dataGridViewCellStyle96.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle96.Format = "dd/MM/yyyy";
+            this.courier2.DefaultCellStyle = dataGridViewCellStyle96;
             this.courier2.HeaderText = "კურიერი";
+            this.courier2.MinimumWidth = 6;
             this.courier2.Name = "courier2";
             this.courier2.ReadOnly = true;
             this.courier2.Width = 80;
@@ -5834,10 +5943,11 @@
             // tel2
             // 
             this.tel2.DataPropertyName = "tel2";
-            dataGridViewCellStyle354.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle354.Format = "dd/MM/yyyy";
-            this.tel2.DefaultCellStyle = dataGridViewCellStyle354;
+            dataGridViewCellStyle97.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle97.Format = "dd/MM/yyyy";
+            this.tel2.DefaultCellStyle = dataGridViewCellStyle97;
             this.tel2.HeaderText = "ტელეფონი";
+            this.tel2.MinimumWidth = 6;
             this.tel2.Name = "tel2";
             this.tel2.ReadOnly = true;
             this.tel2.Width = 80;
@@ -5845,10 +5955,11 @@
             // rez2
             // 
             this.rez2.DataPropertyName = "rez2";
-            dataGridViewCellStyle355.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle355.Format = "dd/MM/yyyy";
-            this.rez2.DefaultCellStyle = dataGridViewCellStyle355;
+            dataGridViewCellStyle98.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle98.Format = "dd/MM/yyyy";
+            this.rez2.DefaultCellStyle = dataGridViewCellStyle98;
             this.rez2.HeaderText = "რეზონანსი";
+            this.rez2.MinimumWidth = 6;
             this.rez2.Name = "rez2";
             this.rez2.ReadOnly = true;
             this.rez2.Width = 80;
@@ -5856,10 +5967,11 @@
             // macne2
             // 
             this.macne2.DataPropertyName = "macne2";
-            dataGridViewCellStyle356.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle356.Format = "dd/MM/yyyy";
-            this.macne2.DefaultCellStyle = dataGridViewCellStyle356;
+            dataGridViewCellStyle99.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle99.Format = "dd/MM/yyyy";
+            this.macne2.DefaultCellStyle = dataGridViewCellStyle99;
             this.macne2.HeaderText = "საკან. მაცნე";
+            this.macne2.MinimumWidth = 6;
             this.macne2.Name = "macne2";
             this.macne2.ReadOnly = true;
             this.macne2.Width = 80;
@@ -5867,10 +5979,11 @@
             // auc2_start
             // 
             this.auc2_start.DataPropertyName = "auc2_start";
-            dataGridViewCellStyle357.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle357.Format = "dd/MM/yyyy";
-            this.auc2_start.DefaultCellStyle = dataGridViewCellStyle357;
+            dataGridViewCellStyle100.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle100.Format = "dd/MM/yyyy";
+            this.auc2_start.DefaultCellStyle = dataGridViewCellStyle100;
             this.auc2_start.HeaderText = "აუქციონი Start";
+            this.auc2_start.MinimumWidth = 6;
             this.auc2_start.Name = "auc2_start";
             this.auc2_start.ReadOnly = true;
             this.auc2_start.Width = 80;
@@ -5878,10 +5991,11 @@
             // auc2_end
             // 
             this.auc2_end.DataPropertyName = "auc2_end";
-            dataGridViewCellStyle358.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle358.Format = "dd/MM/yyyy";
-            this.auc2_end.DefaultCellStyle = dataGridViewCellStyle358;
+            dataGridViewCellStyle101.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle101.Format = "dd/MM/yyyy";
+            this.auc2_end.DefaultCellStyle = dataGridViewCellStyle101;
             this.auc2_end.HeaderText = "აუქციონი END";
+            this.auc2_end.MinimumWidth = 6;
             this.auc2_end.Name = "auc2_end";
             this.auc2_end.ReadOnly = true;
             this.auc2_end.Width = 80;
@@ -5889,18 +6003,21 @@
             // lot2_num
             // 
             this.lot2_num.DataPropertyName = "lot2_num";
-            dataGridViewCellStyle359.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.lot2_num.DefaultCellStyle = dataGridViewCellStyle359;
+            dataGridViewCellStyle102.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.lot2_num.DefaultCellStyle = dataGridViewCellStyle102;
             this.lot2_num.HeaderText = "აუქციონი ლოტის N";
+            this.lot2_num.MinimumWidth = 6;
             this.lot2_num.Name = "lot2_num";
             this.lot2_num.ReadOnly = true;
+            this.lot2_num.Width = 125;
             // 
             // buyer
             // 
             this.buyer.DataPropertyName = "buyer";
-            dataGridViewCellStyle360.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.buyer.DefaultCellStyle = dataGridViewCellStyle360;
+            dataGridViewCellStyle103.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.buyer.DefaultCellStyle = dataGridViewCellStyle103;
             this.buyer.HeaderText = "შემძენი";
+            this.buyer.MinimumWidth = 6;
             this.buyer.Name = "buyer";
             this.buyer.ReadOnly = true;
             this.buyer.Width = 200;
@@ -5908,136 +6025,161 @@
             // sum_gel
             // 
             this.sum_gel.DataPropertyName = "sum_gel";
-            dataGridViewCellStyle361.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle361.Format = "N2";
-            this.sum_gel.DefaultCellStyle = dataGridViewCellStyle361;
+            dataGridViewCellStyle104.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle104.Format = "N2";
+            this.sum_gel.DefaultCellStyle = dataGridViewCellStyle104;
             this.sum_gel.HeaderText = "აუქციონის თანხა GEL";
+            this.sum_gel.MinimumWidth = 6;
             this.sum_gel.Name = "sum_gel";
             this.sum_gel.ReadOnly = true;
+            this.sum_gel.Width = 125;
             // 
             // eacution
             // 
             this.eacution.DataPropertyName = "eacution";
-            dataGridViewCellStyle362.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle362.Format = "N2";
-            this.eacution.DefaultCellStyle = dataGridViewCellStyle362;
+            dataGridViewCellStyle105.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle105.Format = "N2";
+            this.eacution.DefaultCellStyle = dataGridViewCellStyle105;
             this.eacution.HeaderText = "eAcution";
+            this.eacution.MinimumWidth = 6;
             this.eacution.Name = "eacution";
             this.eacution.ReadOnly = true;
             this.eacution.Visible = false;
+            this.eacution.Width = 125;
             // 
             // dgg0
             // 
             this.dgg0.DataPropertyName = "dgg0";
-            dataGridViewCellStyle363.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle363.Format = "N2";
-            dataGridViewCellStyle363.NullValue = null;
-            this.dgg0.DefaultCellStyle = dataGridViewCellStyle363;
+            dataGridViewCellStyle106.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle106.Format = "N2";
+            dataGridViewCellStyle106.NullValue = null;
+            this.dgg0.DefaultCellStyle = dataGridViewCellStyle106;
             this.dgg0.HeaderText = "დღგ";
+            this.dgg0.MinimumWidth = 6;
             this.dgg0.Name = "dgg0";
             this.dgg0.ReadOnly = true;
             this.dgg0.Visible = false;
+            this.dgg0.Width = 125;
             // 
             // gazrez
             // 
             this.gazrez.DataPropertyName = "gazrez";
-            dataGridViewCellStyle364.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle364.Format = "N2";
-            dataGridViewCellStyle364.NullValue = null;
-            this.gazrez.DefaultCellStyle = dataGridViewCellStyle364;
+            dataGridViewCellStyle107.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle107.Format = "N2";
+            dataGridViewCellStyle107.NullValue = null;
+            this.gazrez.DefaultCellStyle = dataGridViewCellStyle107;
             this.gazrez.HeaderText = "გაზეთი რეზონანსი";
+            this.gazrez.MinimumWidth = 6;
             this.gazrez.Name = "gazrez";
             this.gazrez.ReadOnly = true;
             this.gazrez.Visible = false;
+            this.gazrez.Width = 125;
             // 
             // harmacne
             // 
             this.harmacne.DataPropertyName = "harmacne";
-            dataGridViewCellStyle365.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle365.Format = "N2";
-            dataGridViewCellStyle365.NullValue = null;
-            this.harmacne.DefaultCellStyle = dataGridViewCellStyle365;
+            dataGridViewCellStyle108.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle108.Format = "N2";
+            dataGridViewCellStyle108.NullValue = null;
+            this.harmacne.DefaultCellStyle = dataGridViewCellStyle108;
             this.harmacne.HeaderText = "საკან. მაცნე";
+            this.harmacne.MinimumWidth = 6;
             this.harmacne.Name = "harmacne";
             this.harmacne.ReadOnly = true;
             this.harmacne.Visible = false;
+            this.harmacne.Width = 125;
             // 
             // harspec
             // 
             this.harspec.DataPropertyName = "harspec";
-            dataGridViewCellStyle366.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle366.Format = "N2";
-            dataGridViewCellStyle366.NullValue = null;
-            this.harspec.DefaultCellStyle = dataGridViewCellStyle366;
+            dataGridViewCellStyle109.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle109.Format = "N2";
+            dataGridViewCellStyle109.NullValue = null;
+            this.harspec.DefaultCellStyle = dataGridViewCellStyle109;
             this.harspec.HeaderText = "სპეცილ. საზღაური";
+            this.harspec.MinimumWidth = 6;
             this.harspec.Name = "harspec";
             this.harspec.ReadOnly = true;
             this.harspec.Visible = false;
+            this.harspec.Width = 125;
             // 
             // eacution1
             // 
             this.eacution1.DataPropertyName = "eacution1";
-            dataGridViewCellStyle367.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle367.Format = "N2";
-            this.eacution1.DefaultCellStyle = dataGridViewCellStyle367;
+            dataGridViewCellStyle110.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle110.Format = "N2";
+            this.eacution1.DefaultCellStyle = dataGridViewCellStyle110;
             this.eacution1.HeaderText = "TRANSFER eAcution";
+            this.eacution1.MinimumWidth = 6;
             this.eacution1.Name = "eacution1";
             this.eacution1.ReadOnly = true;
             this.eacution1.Visible = false;
+            this.eacution1.Width = 125;
             // 
             // dgg1
             // 
             this.dgg1.DataPropertyName = "dgg1";
-            dataGridViewCellStyle368.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle368.Format = "N2";
-            this.dgg1.DefaultCellStyle = dataGridViewCellStyle368;
+            dataGridViewCellStyle111.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle111.Format = "N2";
+            this.dgg1.DefaultCellStyle = dataGridViewCellStyle111;
             this.dgg1.HeaderText = "TRANSFER დღგ";
+            this.dgg1.MinimumWidth = 6;
             this.dgg1.Name = "dgg1";
             this.dgg1.ReadOnly = true;
             this.dgg1.Visible = false;
+            this.dgg1.Width = 125;
             // 
             // bank
             // 
             this.bank.DataPropertyName = "bank";
-            dataGridViewCellStyle369.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle369.Format = "N2";
-            this.bank.DefaultCellStyle = dataGridViewCellStyle369;
+            dataGridViewCellStyle112.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle112.Format = "N2";
+            this.bank.DefaultCellStyle = dataGridViewCellStyle112;
             this.bank.HeaderText = "BANK";
+            this.bank.MinimumWidth = 6;
             this.bank.Name = "bank";
             this.bank.ReadOnly = true;
             this.bank.Visible = false;
+            this.bank.Width = 125;
             // 
             // inf_i
             // 
             this.inf_i.DataPropertyName = "inf_i";
             this.inf_i.HeaderText = "inf_i";
+            this.inf_i.MinimumWidth = 6;
             this.inf_i.Name = "inf_i";
             this.inf_i.ReadOnly = true;
             this.inf_i.Visible = false;
+            this.inf_i.Width = 125;
             // 
             // freeze
             // 
             this.freeze.DataPropertyName = "freeze";
             this.freeze.HeaderText = "freeze";
+            this.freeze.MinimumWidth = 6;
             this.freeze.Name = "freeze";
             this.freeze.ReadOnly = true;
             this.freeze.Visible = false;
+            this.freeze.Width = 125;
             // 
             // freeze_1
             // 
             this.freeze_1.DataPropertyName = "freeze_1";
             this.freeze_1.HeaderText = "freeze_1";
+            this.freeze_1.MinimumWidth = 6;
             this.freeze_1.Name = "freeze_1";
             this.freeze_1.ReadOnly = true;
             this.freeze_1.Visible = false;
+            this.freeze_1.Width = 125;
             // 
             // end_date
             // 
             this.end_date.DataPropertyName = "end_date";
-            dataGridViewCellStyle370.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            dataGridViewCellStyle370.Format = "dd/MM/yyyy";
-            this.end_date.DefaultCellStyle = dataGridViewCellStyle370;
+            dataGridViewCellStyle113.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            dataGridViewCellStyle113.Format = "dd/MM/yyyy";
+            this.end_date.DefaultCellStyle = dataGridViewCellStyle113;
             this.end_date.HeaderText = "END DATE";
+            this.end_date.MinimumWidth = 6;
             this.end_date.Name = "end_date";
             this.end_date.ReadOnly = true;
             this.end_date.Width = 80;
@@ -6045,20 +6187,23 @@
             // auc2
             // 
             this.auc2.DataPropertyName = "auc2";
-            dataGridViewCellStyle371.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle371.Format = "N2";
-            this.auc2.DefaultCellStyle = dataGridViewCellStyle371;
+            dataGridViewCellStyle114.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle114.Format = "N2";
+            this.auc2.DefaultCellStyle = dataGridViewCellStyle114;
             this.auc2.HeaderText = "მე-2 აუქც. ხარჯი";
+            this.auc2.MinimumWidth = 6;
             this.auc2.Name = "auc2";
             this.auc2.ReadOnly = true;
             this.auc2.Visible = false;
+            this.auc2.Width = 125;
             // 
             // auc2_dt
             // 
             this.auc2_dt.DataPropertyName = "auc2_dt";
-            dataGridViewCellStyle372.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.auc2_dt.DefaultCellStyle = dataGridViewCellStyle372;
+            dataGridViewCellStyle115.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.auc2_dt.DefaultCellStyle = dataGridViewCellStyle115;
             this.auc2_dt.HeaderText = "ჩარიცხვის თარიღი (მე-2 აუქც.)";
+            this.auc2_dt.MinimumWidth = 6;
             this.auc2_dt.Name = "auc2_dt";
             this.auc2_dt.ReadOnly = true;
             this.auc2_dt.Visible = false;
@@ -6067,20 +6212,23 @@
             // auc3
             // 
             this.auc3.DataPropertyName = "auc3";
-            dataGridViewCellStyle373.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle373.Format = "N2";
-            this.auc3.DefaultCellStyle = dataGridViewCellStyle373;
+            dataGridViewCellStyle116.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle116.Format = "N2";
+            this.auc3.DefaultCellStyle = dataGridViewCellStyle116;
             this.auc3.HeaderText = "მე-3 აუქც. ხარჯი";
+            this.auc3.MinimumWidth = 6;
             this.auc3.Name = "auc3";
             this.auc3.ReadOnly = true;
             this.auc3.Visible = false;
+            this.auc3.Width = 125;
             // 
             // auc3_dt
             // 
             this.auc3_dt.DataPropertyName = "auc3_dt";
-            dataGridViewCellStyle374.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.auc3_dt.DefaultCellStyle = dataGridViewCellStyle374;
+            dataGridViewCellStyle117.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.auc3_dt.DefaultCellStyle = dataGridViewCellStyle117;
             this.auc3_dt.HeaderText = "ჩარიცხვის თარიღი (მე-3 აუქც.)";
+            this.auc3_dt.MinimumWidth = 6;
             this.auc3_dt.Name = "auc3_dt";
             this.auc3_dt.ReadOnly = true;
             this.auc3_dt.Visible = false;
@@ -6089,20 +6237,23 @@
             // gaz
             // 
             this.gaz.DataPropertyName = "gaz";
-            dataGridViewCellStyle375.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle375.Format = "N2";
-            this.gaz.DefaultCellStyle = dataGridViewCellStyle375;
+            dataGridViewCellStyle118.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle118.Format = "N2";
+            this.gaz.DefaultCellStyle = dataGridViewCellStyle118;
             this.gaz.HeaderText = "გაზეთის ხარჯი";
+            this.gaz.MinimumWidth = 6;
             this.gaz.Name = "gaz";
             this.gaz.ReadOnly = true;
             this.gaz.Visible = false;
+            this.gaz.Width = 125;
             // 
             // gaz_dt
             // 
             this.gaz_dt.DataPropertyName = "gaz_dt";
-            dataGridViewCellStyle376.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.gaz_dt.DefaultCellStyle = dataGridViewCellStyle376;
+            dataGridViewCellStyle119.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.gaz_dt.DefaultCellStyle = dataGridViewCellStyle119;
             this.gaz_dt.HeaderText = "ჩარიცხვის თარიღი (გაზ.)";
+            this.gaz_dt.MinimumWidth = 6;
             this.gaz_dt.Name = "gaz_dt";
             this.gaz_dt.ReadOnly = true;
             this.gaz_dt.Visible = false;
@@ -6111,20 +6262,23 @@
             // mac
             // 
             this.mac.DataPropertyName = "mac";
-            dataGridViewCellStyle377.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle377.Format = "N2";
-            this.mac.DefaultCellStyle = dataGridViewCellStyle377;
+            dataGridViewCellStyle120.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle120.Format = "N2";
+            this.mac.DefaultCellStyle = dataGridViewCellStyle120;
             this.mac.HeaderText = "მაცნეს ხარჯი";
+            this.mac.MinimumWidth = 6;
             this.mac.Name = "mac";
             this.mac.ReadOnly = true;
             this.mac.Visible = false;
+            this.mac.Width = 125;
             // 
             // mac_dt
             // 
             this.mac_dt.DataPropertyName = "mac_dt";
-            dataGridViewCellStyle378.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.mac_dt.DefaultCellStyle = dataGridViewCellStyle378;
+            dataGridViewCellStyle121.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.mac_dt.DefaultCellStyle = dataGridViewCellStyle121;
             this.mac_dt.HeaderText = "ჩარიცხვის თარიღი (მაც.)";
+            this.mac_dt.MinimumWidth = 6;
             this.mac_dt.Name = "mac_dt";
             this.mac_dt.ReadOnly = true;
             this.mac_dt.Visible = false;
@@ -6133,9 +6287,10 @@
             // specpr
             // 
             this.specpr.DataPropertyName = "specpr";
-            dataGridViewCellStyle379.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.specpr.DefaultCellStyle = dataGridViewCellStyle379;
+            dataGridViewCellStyle122.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.specpr.DefaultCellStyle = dataGridViewCellStyle122;
             this.specpr.HeaderText = "SPEC %";
+            this.specpr.MinimumWidth = 6;
             this.specpr.Name = "specpr";
             this.specpr.ReadOnly = true;
             this.specpr.Width = 80;
@@ -6143,9 +6298,10 @@
             // auqpr
             // 
             this.auqpr.DataPropertyName = "auqpr";
-            dataGridViewCellStyle380.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.auqpr.DefaultCellStyle = dataGridViewCellStyle380;
+            dataGridViewCellStyle123.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.auqpr.DefaultCellStyle = dataGridViewCellStyle123;
             this.auqpr.HeaderText = "Auction % ";
+            this.auqpr.MinimumWidth = 6;
             this.auqpr.Name = "auqpr";
             this.auqpr.ReadOnly = true;
             this.auqpr.Width = 80;
@@ -6153,9 +6309,10 @@
             // kor
             // 
             this.kor.DataPropertyName = "kor";
-            dataGridViewCellStyle381.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.kor.DefaultCellStyle = dataGridViewCellStyle381;
+            dataGridViewCellStyle124.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.kor.DefaultCellStyle = dataGridViewCellStyle124;
             this.kor.HeaderText = "KORECTOR";
+            this.kor.MinimumWidth = 6;
             this.kor.Name = "kor";
             this.kor.ReadOnly = true;
             this.kor.Width = 80;
@@ -6163,10 +6320,11 @@
             // coms
             // 
             this.coms.DataPropertyName = "coms";
-            dataGridViewCellStyle382.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle382.Format = "N2";
-            this.coms.DefaultCellStyle = dataGridViewCellStyle382;
+            dataGridViewCellStyle125.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle125.Format = "N2";
+            this.coms.DefaultCellStyle = dataGridViewCellStyle125;
             this.coms.HeaderText = "შეწყევტის საკომისიო";
+            this.coms.MinimumWidth = 6;
             this.coms.Name = "coms";
             this.coms.ReadOnly = true;
             this.coms.Width = 80;
@@ -6174,9 +6332,10 @@
             // comment0
             // 
             this.comment0.DataPropertyName = "comment";
-            dataGridViewCellStyle383.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.comment0.DefaultCellStyle = dataGridViewCellStyle383;
+            dataGridViewCellStyle126.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.comment0.DefaultCellStyle = dataGridViewCellStyle126;
             this.comment0.HeaderText = "კომენტარი";
+            this.comment0.MinimumWidth = 6;
             this.comment0.Name = "comment0";
             this.comment0.ReadOnly = true;
             this.comment0.Width = 300;
@@ -6185,21 +6344,24 @@
             // 
             this.pdfo.DataPropertyName = "pdfo";
             this.pdfo.HeaderText = "pdfo";
+            this.pdfo.MinimumWidth = 6;
             this.pdfo.Name = "pdfo";
             this.pdfo.ReadOnly = true;
             this.pdfo.Visible = false;
+            this.pdfo.Width = 125;
             // 
             // chsg
             // 
             this.chsg.DataPropertyName = "chsg";
-            dataGridViewCellStyle384.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.chsg.DefaultCellStyle = dataGridViewCellStyle384;
+            dataGridViewCellStyle127.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.chsg.DefaultCellStyle = dataGridViewCellStyle127;
             this.chsg.HeaderText = "chsg";
+            this.chsg.MinimumWidth = 6;
             this.chsg.Name = "chsg";
             this.chsg.ReadOnly = true;
             this.chsg.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.chsg.Visible = false;
-            this.chsg.Width = 5;
+            this.chsg.Width = 6;
             // 
             // BS_info
             // 
@@ -6251,7 +6413,7 @@
             this.RB_arc.AutoSize = true;
             this.RB_arc.Location = new System.Drawing.Point(657, 6);
             this.RB_arc.Name = "RB_arc";
-            this.RB_arc.Size = new System.Drawing.Size(62, 18);
+            this.RB_arc.Size = new System.Drawing.Size(73, 22);
             this.RB_arc.TabIndex = 226;
             this.RB_arc.Text = "არქივი";
             this.RB_arc.UseVisualStyleBackColor = true;
@@ -6305,7 +6467,7 @@
             this.RB_dmt.AutoSize = true;
             this.RB_dmt.Location = new System.Drawing.Point(543, 6);
             this.RB_dmt.Name = "RB_dmt";
-            this.RB_dmt.Size = new System.Drawing.Size(110, 18);
+            this.RB_dmt.Size = new System.Drawing.Size(131, 22);
             this.RB_dmt.TabIndex = 221;
             this.RB_dmt.Text = "დასრულებული";
             this.RB_dmt.UseVisualStyleBackColor = true;
@@ -6317,7 +6479,7 @@
             this.RB_moq.Checked = true;
             this.RB_moq.Location = new System.Drawing.Point(454, 6);
             this.RB_moq.Name = "RB_moq";
-            this.RB_moq.Size = new System.Drawing.Size(84, 18);
+            this.RB_moq.Size = new System.Drawing.Size(100, 22);
             this.RB_moq.TabIndex = 220;
             this.RB_moq.TabStop = true;
             this.RB_moq.Text = "მიმდინარე";
@@ -6351,6 +6513,7 @@
             // CMS1
             // 
             this.CMS1.Font = new System.Drawing.Font("Sylfaen", 8.25F);
+            this.CMS1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.CMS1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.SMI1,
             this.SMI2,
@@ -6363,75 +6526,75 @@
             this.SMI9,
             this.SMI10});
             this.CMS1.Name = "CMS1";
-            this.CMS1.Size = new System.Drawing.Size(266, 224);
+            this.CMS1.Size = new System.Drawing.Size(306, 224);
             // 
             // SMI1
             // 
             this.SMI1.Name = "SMI1";
-            this.SMI1.Size = new System.Drawing.Size(265, 22);
+            this.SMI1.Size = new System.Drawing.Size(305, 22);
             this.SMI1.Text = "D1 შეტყობინება დამკვეთს";
             this.SMI1.Click += new System.EventHandler(this.pr_form1);
             // 
             // SMI2
             // 
             this.SMI2.Name = "SMI2";
-            this.SMI2.Size = new System.Drawing.Size(265, 22);
+            this.SMI2.Size = new System.Drawing.Size(305, 22);
             this.SMI2.Text = "D2 გამაფრთხილებელი მესაკუთრე";
             this.SMI2.Click += new System.EventHandler(this.pr_form2);
             // 
             // SMI3
             // 
             this.SMI3.Name = "SMI3";
-            this.SMI3.Size = new System.Drawing.Size(265, 22);
+            this.SMI3.Size = new System.Drawing.Size(305, 22);
             this.SMI3.Text = "D3 გამაფრთხილებელი მსესხებელი";
             this.SMI3.Click += new System.EventHandler(this.pr_form3);
             // 
             // SMI4
             // 
             this.SMI4.Name = "SMI4";
-            this.SMI4.Size = new System.Drawing.Size(265, 22);
+            this.SMI4.Size = new System.Drawing.Size(305, 22);
             this.SMI4.Text = "D4 გამაფრთხილებელი სხვა";
             this.SMI4.Click += new System.EventHandler(this.pr_form4);
             // 
             // SMI5
             // 
             this.SMI5.Name = "SMI5";
-            this.SMI5.Size = new System.Drawing.Size(265, 22);
+            this.SMI5.Size = new System.Drawing.Size(305, 22);
             this.SMI5.Text = "D6 სატელეფონო";
             this.SMI5.Click += new System.EventHandler(this.pr_form5);
             // 
             // SMI6
             // 
             this.SMI6.Name = "SMI6";
-            this.SMI6.Size = new System.Drawing.Size(265, 22);
+            this.SMI6.Size = new System.Drawing.Size(305, 22);
             this.SMI6.Text = "D8  რეზონანსი";
             this.SMI6.Click += new System.EventHandler(this.pr_form6);
             // 
             // SMI7
             // 
             this.SMI7.Name = "SMI7";
-            this.SMI7.Size = new System.Drawing.Size(265, 22);
+            this.SMI7.Size = new System.Drawing.Size(305, 22);
             this.SMI7.Text = "D9 მაცნე";
             this.SMI7.Click += new System.EventHandler(this.pr_form7);
             // 
             // SMI8
             // 
             this.SMI8.Name = "SMI8";
-            this.SMI8.Size = new System.Drawing.Size(265, 22);
+            this.SMI8.Size = new System.Drawing.Size(305, 22);
             this.SMI8.Text = "D10 მიმართვა მაცნეს";
             this.SMI8.Click += new System.EventHandler(this.pr_form8);
             // 
             // SMI9
             // 
             this.SMI9.Name = "SMI9";
-            this.SMI9.Size = new System.Drawing.Size(265, 22);
+            this.SMI9.Size = new System.Drawing.Size(305, 22);
             this.SMI9.Text = "D11 განკარგულება";
             this.SMI9.Click += new System.EventHandler(this.pr_form9);
             // 
             // SMI10
             // 
             this.SMI10.Name = "SMI10";
-            this.SMI10.Size = new System.Drawing.Size(265, 22);
+            this.SMI10.Size = new System.Drawing.Size(305, 22);
             this.SMI10.Text = "D16 საანგარიშსწორებო დრგ";
             this.SMI10.Click += new System.EventHandler(this.pr_form10);
             // 
@@ -6549,7 +6712,7 @@
             this.label103.AutoSize = true;
             this.label103.Location = new System.Drawing.Point(11, 113);
             this.label103.Name = "label103";
-            this.label103.Size = new System.Drawing.Size(72, 14);
+            this.label103.Size = new System.Drawing.Size(85, 18);
             this.label103.TabIndex = 167;
             this.label103.Text = "მსესხებელი";
             // 
@@ -6558,7 +6721,7 @@
             this.TB_sesh.Font = new System.Drawing.Font("Sylfaen", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_sesh.Location = new System.Drawing.Point(9, 129);
             this.TB_sesh.Name = "TB_sesh";
-            this.TB_sesh.Size = new System.Drawing.Size(430, 25);
+            this.TB_sesh.Size = new System.Drawing.Size(430, 29);
             this.TB_sesh.TabIndex = 166;
             this.TB_sesh.Enter += new System.EventHandler(this.pr_ser_ent);
             // 
@@ -6567,7 +6730,7 @@
             this.label91.AutoSize = true;
             this.label91.Location = new System.Drawing.Point(11, 64);
             this.label91.Name = "label91";
-            this.label91.Size = new System.Drawing.Size(67, 14);
+            this.label91.Size = new System.Drawing.Size(79, 18);
             this.label91.TabIndex = 165;
             this.label91.Text = "მესაკუთრე";
             // 
@@ -6576,7 +6739,7 @@
             this.TB_saq.Font = new System.Drawing.Font("Sylfaen", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_saq.Location = new System.Drawing.Point(9, 80);
             this.TB_saq.Name = "TB_saq";
-            this.TB_saq.Size = new System.Drawing.Size(430, 25);
+            this.TB_saq.Size = new System.Drawing.Size(430, 29);
             this.TB_saq.TabIndex = 164;
             this.TB_saq.Enter += new System.EventHandler(this.pr_ser_ent);
             // 
@@ -6587,7 +6750,7 @@
             this.label92.ForeColor = System.Drawing.Color.Red;
             this.label92.Location = new System.Drawing.Point(32, 170);
             this.label92.Name = "label92";
-            this.label92.Size = new System.Drawing.Size(382, 18);
+            this.label92.Size = new System.Drawing.Size(482, 22);
             this.label92.TabIndex = 163;
             this.label92.Text = "ძებნა შესაძლებელია მხოლოდ ერთი პარამეტრის მიხედვით !";
             // 
@@ -6596,7 +6759,7 @@
             this.label116.AutoSize = true;
             this.label116.Location = new System.Drawing.Point(11, 16);
             this.label116.Name = "label116";
-            this.label116.Size = new System.Drawing.Size(112, 14);
+            this.label116.Size = new System.Drawing.Size(134, 18);
             this.label116.TabIndex = 154;
             this.label116.Text = "საკადასტგრო კოდი";
             // 
@@ -6605,7 +6768,7 @@
             this.TB_kada.Font = new System.Drawing.Font("Sylfaen", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_kada.Location = new System.Drawing.Point(9, 32);
             this.TB_kada.Name = "TB_kada";
-            this.TB_kada.Size = new System.Drawing.Size(430, 25);
+            this.TB_kada.Size = new System.Drawing.Size(430, 29);
             this.TB_kada.TabIndex = 152;
             this.TB_kada.Enter += new System.EventHandler(this.pr_ser_ent);
             // 
@@ -6660,7 +6823,7 @@
             this.label105.ForeColor = System.Drawing.Color.Red;
             this.label105.Location = new System.Drawing.Point(110, 72);
             this.label105.Name = "label105";
-            this.label105.Size = new System.Drawing.Size(291, 18);
+            this.label105.Size = new System.Drawing.Size(373, 22);
             this.label105.TabIndex = 164;
             this.label105.Text = "ნიმუშის შეტანის შემდეგ დააჭირეთ \"Enter\"-ს !";
             // 
@@ -6694,7 +6857,7 @@
             this.RB_met.BackColor = System.Drawing.Color.Silver;
             this.RB_met.Location = new System.Drawing.Point(192, 1);
             this.RB_met.Name = "RB_met";
-            this.RB_met.Size = new System.Drawing.Size(39, 18);
+            this.RB_met.Size = new System.Drawing.Size(46, 22);
             this.RB_met.TabIndex = 61;
             this.RB_met.Text = "\">\"";
             this.RB_met.UseVisualStyleBackColor = false;
@@ -6705,7 +6868,7 @@
             this.RB_nacl.BackColor = System.Drawing.Color.Silver;
             this.RB_nacl.Location = new System.Drawing.Point(147, 2);
             this.RB_nacl.Name = "RB_nacl";
-            this.RB_nacl.Size = new System.Drawing.Size(39, 18);
+            this.RB_nacl.Size = new System.Drawing.Size(46, 22);
             this.RB_nacl.TabIndex = 60;
             this.RB_nacl.Text = "\"<\"";
             this.RB_nacl.UseVisualStyleBackColor = false;
@@ -6715,7 +6878,7 @@
             this.TB_nim.Font = new System.Drawing.Font("Sylfaen", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_nim.Location = new System.Drawing.Point(297, -2);
             this.TB_nim.Name = "TB_nim";
-            this.TB_nim.Size = new System.Drawing.Size(278, 25);
+            this.TB_nim.Size = new System.Drawing.Size(278, 29);
             this.TB_nim.TabIndex = 59;
             this.TB_nim.KeyDown += new System.Windows.Forms.KeyEventHandler(this.pr_entnim);
             // 
@@ -6725,7 +6888,7 @@
             this.label106.BackColor = System.Drawing.Color.Gainsboro;
             this.label106.Location = new System.Drawing.Point(246, 4);
             this.label106.Name = "label106";
-            this.label106.Size = new System.Drawing.Size(55, 14);
+            this.label106.Size = new System.Drawing.Size(68, 18);
             this.label106.TabIndex = 58;
             this.label106.Text = "ნიმუში - ";
             // 
@@ -6735,7 +6898,7 @@
             this.RB_udris.BackColor = System.Drawing.Color.Silver;
             this.RB_udris.Location = new System.Drawing.Point(55, 2);
             this.RB_udris.Name = "RB_udris";
-            this.RB_udris.Size = new System.Drawing.Size(88, 18);
+            this.RB_udris.Size = new System.Drawing.Size(106, 22);
             this.RB_udris.TabIndex = 1;
             this.RB_udris.Text = "\"=\" (უდრის)";
             this.RB_udris.UseVisualStyleBackColor = false;
@@ -6747,7 +6910,7 @@
             this.RB_as.Checked = true;
             this.RB_as.Location = new System.Drawing.Point(5, 2);
             this.RB_as.Name = "RB_as";
-            this.RB_as.Size = new System.Drawing.Size(46, 18);
+            this.RB_as.Size = new System.Drawing.Size(56, 22);
             this.RB_as.TabIndex = 0;
             this.RB_as.TabStop = true;
             this.RB_as.Text = "\"AS\"";
@@ -6759,17 +6922,17 @@
             this.label115.BackColor = System.Drawing.Color.Gainsboro;
             this.label115.Location = new System.Drawing.Point(16, 48);
             this.label115.Name = "label115";
-            this.label115.Size = new System.Drawing.Size(57, 14);
+            this.label115.Size = new System.Drawing.Size(68, 18);
             this.label115.TabIndex = 57;
             this.label115.Text = "პირობა - ";
             // 
             // LB_filt
             // 
             this.LB_filt.FormattingEnabled = true;
-            this.LB_filt.ItemHeight = 14;
+            this.LB_filt.ItemHeight = 18;
             this.LB_filt.Location = new System.Drawing.Point(8, 93);
             this.LB_filt.Name = "LB_filt";
-            this.LB_filt.Size = new System.Drawing.Size(660, 228);
+            this.LB_filt.Size = new System.Drawing.Size(660, 220);
             this.LB_filt.TabIndex = 56;
             // 
             // B_cl_filt
@@ -6799,7 +6962,7 @@
             this.CB_filt.FormattingEnabled = true;
             this.CB_filt.Location = new System.Drawing.Point(209, 13);
             this.CB_filt.Name = "CB_filt";
-            this.CB_filt.Size = new System.Drawing.Size(440, 22);
+            this.CB_filt.Size = new System.Drawing.Size(440, 26);
             this.CB_filt.TabIndex = 54;
             this.CB_filt.SelectedValueChanged += new System.EventHandler(this.pr_addparam);
             // 
@@ -6809,7 +6972,7 @@
             this.label117.BackColor = System.Drawing.Color.Gainsboro;
             this.label117.Location = new System.Drawing.Point(16, 19);
             this.label117.Name = "label117";
-            this.label117.Size = new System.Drawing.Size(194, 14);
+            this.label117.Size = new System.Drawing.Size(229, 18);
             this.label117.TabIndex = 53;
             this.label117.Text = "ფილტრის პარამეტრის ამორჩევა - ";
             // 
@@ -6842,7 +7005,7 @@
             this.TP_work.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_work.Location = new System.Drawing.Point(23, 26);
             this.TP_work.Name = "TP_work";
-            this.TP_work.Size = new System.Drawing.Size(95, 25);
+            this.TP_work.Size = new System.Drawing.Size(95, 29);
             this.TP_work.TabIndex = 258;
             this.TP_work.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -6966,9 +7129,10 @@
             // user_n
             // 
             this.user_n.DataPropertyName = "user_n";
-            dataGridViewCellStyle385.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.user_n.DefaultCellStyle = dataGridViewCellStyle385;
+            dataGridViewCellStyle128.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.user_n.DefaultCellStyle = dataGridViewCellStyle128;
             this.user_n.HeaderText = "მომხმა რებელი";
+            this.user_n.MinimumWidth = 6;
             this.user_n.Name = "user_n";
             this.user_n.ReadOnly = true;
             this.user_n.Width = 80;
@@ -6976,18 +7140,21 @@
             // nom_n
             // 
             this.nom_n.DataPropertyName = "nom_n";
-            dataGridViewCellStyle386.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.nom_n.DefaultCellStyle = dataGridViewCellStyle386;
+            dataGridViewCellStyle129.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.nom_n.DefaultCellStyle = dataGridViewCellStyle129;
             this.nom_n.HeaderText = "ნომერი";
+            this.nom_n.MinimumWidth = 6;
             this.nom_n.Name = "nom_n";
             this.nom_n.ReadOnly = true;
+            this.nom_n.Width = 125;
             // 
             // dt_n
             // 
             this.dt_n.DataPropertyName = "dt_n";
-            dataGridViewCellStyle387.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.dt_n.DefaultCellStyle = dataGridViewCellStyle387;
+            dataGridViewCellStyle130.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.dt_n.DefaultCellStyle = dataGridViewCellStyle130;
             this.dt_n.HeaderText = "მოქმედების თარიღი";
+            this.dt_n.MinimumWidth = 6;
             this.dt_n.Name = "dt_n";
             this.dt_n.ReadOnly = true;
             this.dt_n.Width = 120;
@@ -6995,9 +7162,10 @@
             // do_n
             // 
             this.do_n.DataPropertyName = "do_n";
-            dataGridViewCellStyle388.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.do_n.DefaultCellStyle = dataGridViewCellStyle388;
+            dataGridViewCellStyle131.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.do_n.DefaultCellStyle = dataGridViewCellStyle131;
             this.do_n.HeaderText = "მოქმედება";
+            this.do_n.MinimumWidth = 6;
             this.do_n.Name = "do_n";
             this.do_n.ReadOnly = true;
             this.do_n.Width = 200;
@@ -7006,9 +7174,10 @@
             // 
             this.note0.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.note0.DataPropertyName = "note";
-            dataGridViewCellStyle389.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.note0.DefaultCellStyle = dataGridViewCellStyle389;
+            dataGridViewCellStyle132.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.note0.DefaultCellStyle = dataGridViewCellStyle132;
             this.note0.HeaderText = "დამატებითი ინფორმაცია";
+            this.note0.MinimumWidth = 6;
             this.note0.Name = "note0";
             this.note0.ReadOnly = true;
             // 
@@ -7016,17 +7185,21 @@
             // 
             this.logiDataGridViewTextBoxColumn.DataPropertyName = "log_i";
             this.logiDataGridViewTextBoxColumn.HeaderText = "log_i";
+            this.logiDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.logiDataGridViewTextBoxColumn.Name = "logiDataGridViewTextBoxColumn";
             this.logiDataGridViewTextBoxColumn.ReadOnly = true;
             this.logiDataGridViewTextBoxColumn.Visible = false;
+            this.logiDataGridViewTextBoxColumn.Width = 125;
             // 
             // indnDataGridViewTextBoxColumn
             // 
             this.indnDataGridViewTextBoxColumn.DataPropertyName = "ind_n";
             this.indnDataGridViewTextBoxColumn.HeaderText = "ind_n";
+            this.indnDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.indnDataGridViewTextBoxColumn.Name = "indnDataGridViewTextBoxColumn";
             this.indnDataGridViewTextBoxColumn.ReadOnly = true;
             this.indnDataGridViewTextBoxColumn.Visible = false;
+            this.indnDataGridViewTextBoxColumn.Width = 125;
             // 
             // label127
             // 
@@ -7034,7 +7207,7 @@
             this.label127.BackColor = System.Drawing.Color.Silver;
             this.label127.Location = new System.Drawing.Point(481, 11);
             this.label127.Name = "label127";
-            this.label127.Size = new System.Drawing.Size(38, 14);
+            this.label127.Size = new System.Drawing.Size(47, 18);
             this.label127.TabIndex = 167;
             this.label127.Text = " - მდე";
             // 
@@ -7044,7 +7217,7 @@
             this.DTP_mde.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.DTP_mde.Location = new System.Drawing.Point(381, 4);
             this.DTP_mde.Name = "DTP_mde";
-            this.DTP_mde.Size = new System.Drawing.Size(95, 25);
+            this.DTP_mde.Size = new System.Drawing.Size(95, 29);
             this.DTP_mde.TabIndex = 166;
             this.DTP_mde.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -7054,7 +7227,7 @@
             this.label128.BackColor = System.Drawing.Color.Silver;
             this.label128.Location = new System.Drawing.Point(319, 11);
             this.label128.Name = "label128";
-            this.label128.Size = new System.Drawing.Size(37, 14);
+            this.label128.Size = new System.Drawing.Size(46, 18);
             this.label128.TabIndex = 165;
             this.label128.Text = " - დან";
             // 
@@ -7064,7 +7237,7 @@
             this.DTP_dan.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.DTP_dan.Location = new System.Drawing.Point(218, 4);
             this.DTP_dan.Name = "DTP_dan";
-            this.DTP_dan.Size = new System.Drawing.Size(95, 25);
+            this.DTP_dan.Size = new System.Drawing.Size(95, 29);
             this.DTP_dan.TabIndex = 164;
             this.DTP_dan.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -7074,7 +7247,7 @@
             this.label129.BackColor = System.Drawing.Color.Silver;
             this.label129.Location = new System.Drawing.Point(145, 11);
             this.label129.Name = "label129";
-            this.label129.Size = new System.Drawing.Size(67, 14);
+            this.label129.Size = new System.Drawing.Size(82, 18);
             this.label129.TabIndex = 50;
             this.label129.Text = "პერიოდი - ";
             // 
@@ -7135,9 +7308,10 @@
             // codeDataGridViewTextBoxColumn
             // 
             this.codeDataGridViewTextBoxColumn.DataPropertyName = "code";
-            dataGridViewCellStyle390.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.codeDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle390;
+            dataGridViewCellStyle133.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.codeDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle133;
             this.codeDataGridViewTextBoxColumn.HeaderText = "კოდი";
+            this.codeDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.codeDataGridViewTextBoxColumn.Name = "codeDataGridViewTextBoxColumn";
             this.codeDataGridViewTextBoxColumn.ReadOnly = true;
             this.codeDataGridViewTextBoxColumn.Width = 50;
@@ -7145,9 +7319,10 @@
             // operationDataGridViewTextBoxColumn
             // 
             this.operationDataGridViewTextBoxColumn.DataPropertyName = "operation";
-            dataGridViewCellStyle391.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.operationDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle391;
+            dataGridViewCellStyle134.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.operationDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle134;
             this.operationDataGridViewTextBoxColumn.HeaderText = "ოპერაცია";
+            this.operationDataGridViewTextBoxColumn.MinimumWidth = 6;
             this.operationDataGridViewTextBoxColumn.Name = "operationDataGridViewTextBoxColumn";
             this.operationDataGridViewTextBoxColumn.ReadOnly = true;
             this.operationDataGridViewTextBoxColumn.Width = 390;
@@ -7233,7 +7408,7 @@
             this.TB_tran.Location = new System.Drawing.Point(19, 251);
             this.TB_tran.Name = "TB_tran";
             this.TB_tran.ReadOnly = true;
-            this.TB_tran.Size = new System.Drawing.Size(696, 20);
+            this.TB_tran.Size = new System.Drawing.Size(696, 25);
             this.TB_tran.TabIndex = 146;
             // 
             // LB_resp
@@ -7253,7 +7428,7 @@
             this.label130.AutoSize = true;
             this.label130.Location = new System.Drawing.Point(13, 18);
             this.label130.Name = "label130";
-            this.label130.Size = new System.Drawing.Size(113, 14);
+            this.label130.Size = new System.Drawing.Size(138, 18);
             this.label130.TabIndex = 144;
             this.label130.Text = "ფაილის მისამართი ";
             // 
@@ -7264,7 +7439,7 @@
             this.TB_exc.Location = new System.Drawing.Point(132, 12);
             this.TB_exc.Name = "TB_exc";
             this.TB_exc.ReadOnly = true;
-            this.TB_exc.Size = new System.Drawing.Size(461, 25);
+            this.TB_exc.Size = new System.Drawing.Size(461, 29);
             this.TB_exc.TabIndex = 143;
             // 
             // B_dze
@@ -7317,7 +7492,7 @@
             this.label131.ForeColor = System.Drawing.Color.Red;
             this.label131.Location = new System.Drawing.Point(103, 72);
             this.label131.Name = "label131";
-            this.label131.Size = new System.Drawing.Size(291, 18);
+            this.label131.Size = new System.Drawing.Size(373, 22);
             this.label131.TabIndex = 165;
             this.label131.Text = "ნიმუშის შეტანის შემდეგ დააჭირეთ \"Enter\"-ს !";
             // 
@@ -7351,7 +7526,7 @@
             this.RB_met1.BackColor = System.Drawing.Color.Silver;
             this.RB_met1.Location = new System.Drawing.Point(192, 1);
             this.RB_met1.Name = "RB_met1";
-            this.RB_met1.Size = new System.Drawing.Size(39, 18);
+            this.RB_met1.Size = new System.Drawing.Size(46, 22);
             this.RB_met1.TabIndex = 61;
             this.RB_met1.Text = "\">\"";
             this.RB_met1.UseVisualStyleBackColor = false;
@@ -7362,7 +7537,7 @@
             this.RB_nacl1.BackColor = System.Drawing.Color.Silver;
             this.RB_nacl1.Location = new System.Drawing.Point(147, 2);
             this.RB_nacl1.Name = "RB_nacl1";
-            this.RB_nacl1.Size = new System.Drawing.Size(39, 18);
+            this.RB_nacl1.Size = new System.Drawing.Size(46, 22);
             this.RB_nacl1.TabIndex = 60;
             this.RB_nacl1.Text = "\"<\"";
             this.RB_nacl1.UseVisualStyleBackColor = false;
@@ -7372,7 +7547,7 @@
             this.TB_nim1.Font = new System.Drawing.Font("Sylfaen", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_nim1.Location = new System.Drawing.Point(297, -2);
             this.TB_nim1.Name = "TB_nim1";
-            this.TB_nim1.Size = new System.Drawing.Size(278, 25);
+            this.TB_nim1.Size = new System.Drawing.Size(278, 29);
             this.TB_nim1.TabIndex = 59;
             this.TB_nim1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.pr_entnim1);
             // 
@@ -7382,7 +7557,7 @@
             this.label132.BackColor = System.Drawing.Color.Gainsboro;
             this.label132.Location = new System.Drawing.Point(246, 4);
             this.label132.Name = "label132";
-            this.label132.Size = new System.Drawing.Size(55, 14);
+            this.label132.Size = new System.Drawing.Size(68, 18);
             this.label132.TabIndex = 58;
             this.label132.Text = "ნიმუში - ";
             // 
@@ -7392,7 +7567,7 @@
             this.RB_udris1.BackColor = System.Drawing.Color.Silver;
             this.RB_udris1.Location = new System.Drawing.Point(55, 2);
             this.RB_udris1.Name = "RB_udris1";
-            this.RB_udris1.Size = new System.Drawing.Size(88, 18);
+            this.RB_udris1.Size = new System.Drawing.Size(106, 22);
             this.RB_udris1.TabIndex = 1;
             this.RB_udris1.Text = "\"=\" (უდრის)";
             this.RB_udris1.UseVisualStyleBackColor = false;
@@ -7404,7 +7579,7 @@
             this.RB_as1.Checked = true;
             this.RB_as1.Location = new System.Drawing.Point(5, 2);
             this.RB_as1.Name = "RB_as1";
-            this.RB_as1.Size = new System.Drawing.Size(46, 18);
+            this.RB_as1.Size = new System.Drawing.Size(56, 22);
             this.RB_as1.TabIndex = 0;
             this.RB_as1.TabStop = true;
             this.RB_as1.Text = "\"AS\"";
@@ -7416,17 +7591,17 @@
             this.label133.BackColor = System.Drawing.Color.Gainsboro;
             this.label133.Location = new System.Drawing.Point(16, 48);
             this.label133.Name = "label133";
-            this.label133.Size = new System.Drawing.Size(57, 14);
+            this.label133.Size = new System.Drawing.Size(68, 18);
             this.label133.TabIndex = 57;
             this.label133.Text = "პირობა - ";
             // 
             // LB_filt1
             // 
             this.LB_filt1.FormattingEnabled = true;
-            this.LB_filt1.ItemHeight = 14;
+            this.LB_filt1.ItemHeight = 18;
             this.LB_filt1.Location = new System.Drawing.Point(8, 93);
             this.LB_filt1.Name = "LB_filt1";
-            this.LB_filt1.Size = new System.Drawing.Size(660, 228);
+            this.LB_filt1.Size = new System.Drawing.Size(660, 220);
             this.LB_filt1.TabIndex = 56;
             this.LB_filt1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pr_vibit1);
             // 
@@ -7457,7 +7632,7 @@
             this.CB_filt1.FormattingEnabled = true;
             this.CB_filt1.Location = new System.Drawing.Point(209, 13);
             this.CB_filt1.Name = "CB_filt1";
-            this.CB_filt1.Size = new System.Drawing.Size(440, 22);
+            this.CB_filt1.Size = new System.Drawing.Size(440, 26);
             this.CB_filt1.TabIndex = 54;
             this.CB_filt1.SelectedValueChanged += new System.EventHandler(this.pr_addparam1);
             // 
@@ -7467,7 +7642,7 @@
             this.label134.BackColor = System.Drawing.Color.Gainsboro;
             this.label134.Location = new System.Drawing.Point(16, 19);
             this.label134.Name = "label134";
-            this.label134.Size = new System.Drawing.Size(194, 14);
+            this.label134.Size = new System.Drawing.Size(229, 18);
             this.label134.TabIndex = 53;
             this.label134.Text = "ფილტრის პარამეტრის ამორჩევა - ";
             // 
@@ -7623,9 +7798,10 @@
             // dt
             // 
             this.dt.DataPropertyName = "dt";
-            dataGridViewCellStyle392.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.dt.DefaultCellStyle = dataGridViewCellStyle392;
+            dataGridViewCellStyle135.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.dt.DefaultCellStyle = dataGridViewCellStyle135;
             this.dt.HeaderText = "თარიღი";
+            this.dt.MinimumWidth = 6;
             this.dt.Name = "dt";
             this.dt.ReadOnly = true;
             this.dt.Width = 80;
@@ -7633,9 +7809,10 @@
             // tan
             // 
             this.tan.DataPropertyName = "tan";
-            dataGridViewCellStyle393.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.tan.DefaultCellStyle = dataGridViewCellStyle393;
+            dataGridViewCellStyle136.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.tan.DefaultCellStyle = dataGridViewCellStyle136;
             this.tan.HeaderText = "TAN";
+            this.tan.MinimumWidth = 6;
             this.tan.Name = "tan";
             this.tan.ReadOnly = true;
             this.tan.Width = 80;
@@ -7643,9 +7820,10 @@
             // code
             // 
             this.code.DataPropertyName = "code";
-            dataGridViewCellStyle394.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.code.DefaultCellStyle = dataGridViewCellStyle394;
+            dataGridViewCellStyle137.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.code.DefaultCellStyle = dataGridViewCellStyle137;
             this.code.HeaderText = "CODE";
+            this.code.MinimumWidth = 6;
             this.code.Name = "code";
             this.code.ReadOnly = true;
             this.code.Width = 80;
@@ -7654,9 +7832,10 @@
             // 
             this.note1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.note1.DataPropertyName = "note";
-            dataGridViewCellStyle395.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.note1.DefaultCellStyle = dataGridViewCellStyle395;
+            dataGridViewCellStyle138.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.note1.DefaultCellStyle = dataGridViewCellStyle138;
             this.note1.HeaderText = "დანიშნულება";
+            this.note1.MinimumWidth = 6;
             this.note1.Name = "note1";
             this.note1.ReadOnly = true;
             // 
@@ -7664,37 +7843,44 @@
             // 
             this.comment.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.comment.DataPropertyName = "comment";
-            dataGridViewCellStyle396.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.comment.DefaultCellStyle = dataGridViewCellStyle396;
+            dataGridViewCellStyle139.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.comment.DefaultCellStyle = dataGridViewCellStyle139;
             this.comment.HeaderText = "დამატებითი ინფორმაცია";
+            this.comment.MinimumWidth = 6;
             this.comment.Name = "comment";
             this.comment.ReadOnly = true;
             // 
             // deb
             // 
             this.deb.DataPropertyName = "deb";
-            dataGridViewCellStyle397.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.deb.DefaultCellStyle = dataGridViewCellStyle397;
+            dataGridViewCellStyle140.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.deb.DefaultCellStyle = dataGridViewCellStyle140;
             this.deb.HeaderText = "გასული თანხა";
+            this.deb.MinimumWidth = 6;
             this.deb.Name = "deb";
             this.deb.ReadOnly = true;
+            this.deb.Width = 125;
             // 
             // cre
             // 
             this.cre.DataPropertyName = "cre";
-            dataGridViewCellStyle398.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.cre.DefaultCellStyle = dataGridViewCellStyle398;
+            dataGridViewCellStyle141.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.cre.DefaultCellStyle = dataGridViewCellStyle141;
             this.cre.HeaderText = "შემოსული თანხა";
+            this.cre.MinimumWidth = 6;
             this.cre.Name = "cre";
             this.cre.ReadOnly = true;
+            this.cre.Width = 125;
             // 
             // ind
             // 
             this.ind.DataPropertyName = "ind";
             this.ind.HeaderText = "ind";
+            this.ind.MinimumWidth = 6;
             this.ind.Name = "ind";
             this.ind.ReadOnly = true;
             this.ind.Visible = false;
+            this.ind.Width = 125;
             // 
             // BS_bru
             // 
@@ -7724,11 +7910,78 @@
             this.Pa_rep.Controls.Add(this.DGV_rep);
             this.Pa_rep.Controls.Add(this.B_cl_rep);
             this.Pa_rep.Controls.Add(this.Pa_w2);
-            this.Pa_rep.Location = new System.Drawing.Point(12, 31);
+            this.Pa_rep.Location = new System.Drawing.Point(42, 253);
             this.Pa_rep.Name = "Pa_rep";
             this.Pa_rep.Size = new System.Drawing.Size(1209, 847);
             this.Pa_rep.TabIndex = 159;
             this.Pa_rep.Visible = false;
+            // 
+            // Pa_prc
+            // 
+            this.Pa_prc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Pa_prc.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pa_prc.Controls.Add(this.label158);
+            this.Pa_prc.Controls.Add(this.TB_prc);
+            this.Pa_prc.Controls.Add(this.B_save_prc);
+            this.Pa_prc.Controls.Add(this.textBox1);
+            this.Pa_prc.Controls.Add(this.B_cl_prc);
+            this.Pa_prc.Location = new System.Drawing.Point(502, 147);
+            this.Pa_prc.Name = "Pa_prc";
+            this.Pa_prc.Size = new System.Drawing.Size(170, 121);
+            this.Pa_prc.TabIndex = 167;
+            this.Pa_prc.Visible = false;
+            // 
+            // label158
+            // 
+            this.label158.AutoSize = true;
+            this.label158.BackColor = System.Drawing.Color.Gainsboro;
+            this.label158.Location = new System.Drawing.Point(64, 24);
+            this.label158.Name = "label158";
+            this.label158.Size = new System.Drawing.Size(56, 18);
+            this.label158.TabIndex = 151;
+            this.label158.Text = "SPEC %";
+            // 
+            // TB_prc
+            // 
+            this.TB_prc.Location = new System.Drawing.Point(41, 46);
+            this.TB_prc.Name = "TB_prc";
+            this.TB_prc.Size = new System.Drawing.Size(88, 26);
+            this.TB_prc.TabIndex = 150;
+            this.TB_prc.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // B_save_prc
+            // 
+            this.B_save_prc.BackColor = System.Drawing.Color.Transparent;
+            this.B_save_prc.Location = new System.Drawing.Point(36, 84);
+            this.B_save_prc.Name = "B_save_prc";
+            this.B_save_prc.Size = new System.Drawing.Size(100, 25);
+            this.B_save_prc.TabIndex = 149;
+            this.B_save_prc.Text = "დამახსოვრება";
+            this.B_save_prc.UseVisualStyleBackColor = false;
+            this.B_save_prc.Click += new System.EventHandler(this.pr_save_prc);
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Font = new System.Drawing.Font("Sylfaen", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(19, 251);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(696, 25);
+            this.textBox1.TabIndex = 146;
+            // 
+            // B_cl_prc
+            // 
+            this.B_cl_prc.BackColor = System.Drawing.Color.White;
+            this.B_cl_prc.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_prc.Image")));
+            this.B_cl_prc.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.B_cl_prc.Location = new System.Drawing.Point(146, -1);
+            this.B_cl_prc.Name = "B_cl_prc";
+            this.B_cl_prc.Size = new System.Drawing.Size(22, 22);
+            this.B_cl_prc.TabIndex = 147;
+            this.B_cl_prc.UseVisualStyleBackColor = false;
+            this.B_cl_prc.Click += new System.EventHandler(this.pr_cl_prc);
             // 
             // DGV_rep
             // 
@@ -7777,10 +8030,11 @@
             // nom_a
             // 
             this.nom_a.DataPropertyName = "nom_a";
-            dataGridViewCellStyle399.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.nom_a.DefaultCellStyle = dataGridViewCellStyle399;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.nom_a.DefaultCellStyle = dataGridViewCellStyle1;
             this.nom_a.Frozen = true;
             this.nom_a.HeaderText = "Auction N";
+            this.nom_a.MinimumWidth = 6;
             this.nom_a.Name = "nom_a";
             this.nom_a.ReadOnly = true;
             this.nom_a.Width = 80;
@@ -7788,10 +8042,11 @@
             // stdt
             // 
             this.stdt.DataPropertyName = "stdt";
-            dataGridViewCellStyle400.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.stdt.DefaultCellStyle = dataGridViewCellStyle400;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.stdt.DefaultCellStyle = dataGridViewCellStyle2;
             this.stdt.Frozen = true;
             this.stdt.HeaderText = "Start Date";
+            this.stdt.MinimumWidth = 6;
             this.stdt.Name = "stdt";
             this.stdt.ReadOnly = true;
             this.stdt.Width = 80;
@@ -7799,10 +8054,11 @@
             // enddt
             // 
             this.enddt.DataPropertyName = "enddt";
-            dataGridViewCellStyle401.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.enddt.DefaultCellStyle = dataGridViewCellStyle401;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.enddt.DefaultCellStyle = dataGridViewCellStyle3;
             this.enddt.Frozen = true;
             this.enddt.HeaderText = "END Date";
+            this.enddt.MinimumWidth = 6;
             this.enddt.Name = "enddt";
             this.enddt.ReadOnly = true;
             this.enddt.Width = 80;
@@ -7810,19 +8066,22 @@
             // stat_a
             // 
             this.stat_a.DataPropertyName = "stat_a";
-            dataGridViewCellStyle402.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.stat_a.DefaultCellStyle = dataGridViewCellStyle402;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.stat_a.DefaultCellStyle = dataGridViewCellStyle4;
             this.stat_a.Frozen = true;
             this.stat_a.HeaderText = "Status";
+            this.stat_a.MinimumWidth = 6;
             this.stat_a.Name = "stat_a";
             this.stat_a.ReadOnly = true;
+            this.stat_a.Width = 125;
             // 
             // owner_a
             // 
             this.owner_a.DataPropertyName = "owner_a";
-            dataGridViewCellStyle403.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.owner_a.DefaultCellStyle = dataGridViewCellStyle403;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.owner_a.DefaultCellStyle = dataGridViewCellStyle5;
             this.owner_a.HeaderText = "მსესხებელი";
+            this.owner_a.MinimumWidth = 6;
             this.owner_a.Name = "owner_a";
             this.owner_a.ReadOnly = true;
             this.owner_a.Width = 200;
@@ -7830,9 +8089,10 @@
             // debtor_a
             // 
             this.debtor_a.DataPropertyName = "debtor_a";
-            dataGridViewCellStyle404.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debtor_a.DefaultCellStyle = dataGridViewCellStyle404;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debtor_a.DefaultCellStyle = dataGridViewCellStyle6;
             this.debtor_a.HeaderText = "კრედიტორი";
+            this.debtor_a.MinimumWidth = 6;
             this.debtor_a.Name = "debtor_a";
             this.debtor_a.ReadOnly = true;
             this.debtor_a.Width = 200;
@@ -7840,9 +8100,10 @@
             // iur
             // 
             this.iur.DataPropertyName = "iur";
-            dataGridViewCellStyle405.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.iur.DefaultCellStyle = dataGridViewCellStyle405;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.iur.DefaultCellStyle = dataGridViewCellStyle7;
             this.iur.HeaderText = "იურისტი";
+            this.iur.MinimumWidth = 6;
             this.iur.Name = "iur";
             this.iur.ReadOnly = true;
             this.iur.Width = 200;
@@ -7850,9 +8111,10 @@
             // buyer_a
             // 
             this.buyer_a.DataPropertyName = "buyer_a";
-            dataGridViewCellStyle406.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.buyer_a.DefaultCellStyle = dataGridViewCellStyle406;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.buyer_a.DefaultCellStyle = dataGridViewCellStyle8;
             this.buyer_a.HeaderText = "შემძენი";
+            this.buyer_a.MinimumWidth = 6;
             this.buyer_a.Name = "buyer_a";
             this.buyer_a.ReadOnly = true;
             this.buyer_a.Width = 200;
@@ -7860,70 +8122,83 @@
             // auc_gel1
             // 
             this.auc_gel1.DataPropertyName = "auc_gel1";
-            dataGridViewCellStyle407.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle407.Format = "N2";
-            dataGridViewCellStyle407.NullValue = null;
-            this.auc_gel1.DefaultCellStyle = dataGridViewCellStyle407;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle9.Format = "N2";
+            dataGridViewCellStyle9.NullValue = null;
+            this.auc_gel1.DefaultCellStyle = dataGridViewCellStyle9;
             this.auc_gel1.HeaderText = "აუქციონის თანხა GEL";
+            this.auc_gel1.MinimumWidth = 6;
             this.auc_gel1.Name = "auc_gel1";
             this.auc_gel1.ReadOnly = true;
+            this.auc_gel1.Width = 125;
             // 
             // auc_gel0
             // 
             this.auc_gel0.DataPropertyName = "auc_gel0";
-            dataGridViewCellStyle408.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle408.Format = "N2";
-            this.auc_gel0.DefaultCellStyle = dataGridViewCellStyle408;
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle10.Format = "N2";
+            this.auc_gel0.DefaultCellStyle = dataGridViewCellStyle10;
             this.auc_gel0.HeaderText = "აუქც. საწყისი ფასი";
+            this.auc_gel0.MinimumWidth = 6;
             this.auc_gel0.Name = "auc_gel0";
             this.auc_gel0.ReadOnly = true;
+            this.auc_gel0.Width = 125;
             // 
             // sum_a
             // 
             this.sum_a.DataPropertyName = "sum_a";
-            dataGridViewCellStyle409.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle409.Format = "N2";
-            this.sum_a.DefaultCellStyle = dataGridViewCellStyle409;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle11.Format = "N2";
+            this.sum_a.DefaultCellStyle = dataGridViewCellStyle11;
             this.sum_a.HeaderText = "თანხა მესაკუთრეს";
+            this.sum_a.MinimumWidth = 6;
             this.sum_a.Name = "sum_a";
             this.sum_a.ReadOnly = true;
+            this.sum_a.Width = 125;
             // 
             // prc_a
             // 
             this.prc_a.DataPropertyName = "prc_a";
-            dataGridViewCellStyle410.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle410.Format = "N2";
-            this.prc_a.DefaultCellStyle = dataGridViewCellStyle410;
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle12.Format = "N2";
+            this.prc_a.DefaultCellStyle = dataGridViewCellStyle12;
             this.prc_a.HeaderText = "სპეციალისტის საზღაური";
+            this.prc_a.MinimumWidth = 6;
             this.prc_a.Name = "prc_a";
             this.prc_a.ReadOnly = true;
+            this.prc_a.Width = 125;
             // 
             // auc_prc
             // 
             this.auc_prc.DataPropertyName = "auc_prc";
-            dataGridViewCellStyle411.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle411.Format = "N2";
-            this.auc_prc.DefaultCellStyle = dataGridViewCellStyle411;
+            dataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle13.Format = "N2";
+            this.auc_prc.DefaultCellStyle = dataGridViewCellStyle13;
             this.auc_prc.HeaderText = "eAuction თანხა";
+            this.auc_prc.MinimumWidth = 6;
             this.auc_prc.Name = "auc_prc";
             this.auc_prc.ReadOnly = true;
+            this.auc_prc.Width = 125;
             // 
             // vat_prc
             // 
             this.vat_prc.DataPropertyName = "vat_prc";
-            dataGridViewCellStyle412.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle412.Format = "N2";
-            this.vat_prc.DefaultCellStyle = dataGridViewCellStyle412;
+            dataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle14.Format = "N2";
+            this.vat_prc.DefaultCellStyle = dataGridViewCellStyle14;
             this.vat_prc.HeaderText = "VAT თანხა";
+            this.vat_prc.MinimumWidth = 6;
             this.vat_prc.Name = "vat_prc";
             this.vat_prc.ReadOnly = true;
+            this.vat_prc.Width = 125;
             // 
             // vat_dr
             // 
             this.vat_dr.DataPropertyName = "vat_dr";
-            dataGridViewCellStyle413.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.vat_dr.DefaultCellStyle = dataGridViewCellStyle413;
+            dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.vat_dr.DefaultCellStyle = dataGridViewCellStyle15;
             this.vat_dr.HeaderText = "VAT თარიღი";
+            this.vat_dr.MinimumWidth = 6;
             this.vat_dr.Name = "vat_dr";
             this.vat_dr.ReadOnly = true;
             this.vat_dr.Width = 80;
@@ -7931,29 +8206,34 @@
             // op_prc
             // 
             this.op_prc.DataPropertyName = "op_prc";
-            dataGridViewCellStyle414.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle414.Format = "N2";
-            this.op_prc.DefaultCellStyle = dataGridViewCellStyle414;
+            dataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle16.Format = "N2";
+            this.op_prc.DefaultCellStyle = dataGridViewCellStyle16;
             this.op_prc.HeaderText = "ღია საზღაური";
+            this.op_prc.MinimumWidth = 6;
             this.op_prc.Name = "op_prc";
             this.op_prc.ReadOnly = true;
+            this.op_prc.Width = 125;
             // 
             // deb_prc
             // 
             this.deb_prc.DataPropertyName = "deb_prc";
-            dataGridViewCellStyle415.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle415.Format = "N2";
-            this.deb_prc.DefaultCellStyle = dataGridViewCellStyle415;
+            dataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle17.Format = "N2";
+            this.deb_prc.DefaultCellStyle = dataGridViewCellStyle17;
             this.deb_prc.HeaderText = "კრედიტორის თანხა";
+            this.deb_prc.MinimumWidth = 6;
             this.deb_prc.Name = "deb_prc";
             this.deb_prc.ReadOnly = true;
+            this.deb_prc.Width = 125;
             // 
             // deb_dt
             // 
             this.deb_dt.DataPropertyName = "deb_dt";
-            dataGridViewCellStyle416.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.deb_dt.DefaultCellStyle = dataGridViewCellStyle416;
+            dataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.deb_dt.DefaultCellStyle = dataGridViewCellStyle18;
             this.deb_dt.HeaderText = "კრედიტორის თარიღი";
+            this.deb_dt.MinimumWidth = 6;
             this.deb_dt.Name = "deb_dt";
             this.deb_dt.ReadOnly = true;
             this.deb_dt.Width = 80;
@@ -7961,39 +8241,46 @@
             // prep_a
             // 
             this.prep_a.DataPropertyName = "prep_a";
-            dataGridViewCellStyle417.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle417.Format = "N2";
-            this.prep_a.DefaultCellStyle = dataGridViewCellStyle417;
+            dataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle19.Format = "N2";
+            this.prep_a.DefaultCellStyle = dataGridViewCellStyle19;
             this.prep_a.HeaderText = "ავანსი";
+            this.prep_a.MinimumWidth = 6;
             this.prep_a.Name = "prep_a";
             this.prep_a.ReadOnly = true;
+            this.prep_a.Width = 125;
             // 
             // spec_sum
             // 
             this.spec_sum.DataPropertyName = "spec_sum";
-            dataGridViewCellStyle418.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle418.Format = "N2";
-            this.spec_sum.DefaultCellStyle = dataGridViewCellStyle418;
+            dataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle20.Format = "N2";
+            this.spec_sum.DefaultCellStyle = dataGridViewCellStyle20;
             this.spec_sum.HeaderText = "სპეციალისტის შემოსავალი";
+            this.spec_sum.MinimumWidth = 6;
             this.spec_sum.Name = "spec_sum";
             this.spec_sum.ReadOnly = true;
+            this.spec_sum.Width = 125;
             // 
             // spec_a
             // 
             this.spec_a.DataPropertyName = "spec_a";
-            dataGridViewCellStyle419.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle419.Format = "N2";
-            this.spec_a.DefaultCellStyle = dataGridViewCellStyle419;
+            dataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle21.Format = "N2";
+            this.spec_a.DefaultCellStyle = dataGridViewCellStyle21;
             this.spec_a.HeaderText = "SPEC %";
+            this.spec_a.MinimumWidth = 6;
             this.spec_a.Name = "spec_a";
             this.spec_a.ReadOnly = true;
+            this.spec_a.Width = 125;
             // 
             // auq_a
             // 
             this.auq_a.DataPropertyName = "auq_a";
-            dataGridViewCellStyle420.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.auq_a.DefaultCellStyle = dataGridViewCellStyle420;
+            dataGridViewCellStyle22.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.auq_a.DefaultCellStyle = dataGridViewCellStyle22;
             this.auq_a.HeaderText = "Auction %";
+            this.auq_a.MinimumWidth = 6;
             this.auq_a.Name = "auq_a";
             this.auq_a.ReadOnly = true;
             this.auq_a.Width = 80;
@@ -8001,32 +8288,38 @@
             // kor_a
             // 
             this.kor_a.DataPropertyName = "kor_a";
-            dataGridViewCellStyle421.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle421.Format = "N2";
-            this.kor_a.DefaultCellStyle = dataGridViewCellStyle421;
+            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle23.Format = "N2";
+            this.kor_a.DefaultCellStyle = dataGridViewCellStyle23;
             this.kor_a.HeaderText = "KORECTOR";
+            this.kor_a.MinimumWidth = 6;
             this.kor_a.Name = "kor_a";
             this.kor_a.ReadOnly = true;
+            this.kor_a.Width = 125;
             // 
             // amd
             // 
             this.amd.DataPropertyName = "amd";
-            dataGridViewCellStyle422.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle422.Format = "N2";
-            this.amd.DefaultCellStyle = dataGridViewCellStyle422;
+            dataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle24.Format = "N2";
+            this.amd.DefaultCellStyle = dataGridViewCellStyle24;
             this.amd.HeaderText = "AMD";
+            this.amd.MinimumWidth = 6;
             this.amd.Name = "amd";
             this.amd.ReadOnly = true;
+            this.amd.Width = 125;
             // 
             // form
             // 
             this.form.DataPropertyName = "form";
-            dataGridViewCellStyle423.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle423.Format = "N2";
-            this.form.DefaultCellStyle = dataGridViewCellStyle423;
+            dataGridViewCellStyle25.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle25.Format = "N2";
+            this.form.DefaultCellStyle = dataGridViewCellStyle25;
             this.form.HeaderText = "თანხა ფორმ. მიხ.";
+            this.form.MinimumWidth = 6;
             this.form.Name = "form";
             this.form.ReadOnly = true;
+            this.form.Width = 125;
             // 
             // BS_rep
             // 
@@ -8082,7 +8375,7 @@
             this.label136.AutoSize = true;
             this.label136.Location = new System.Drawing.Point(500, 9);
             this.label136.Name = "label136";
-            this.label136.Size = new System.Drawing.Size(35, 14);
+            this.label136.Size = new System.Drawing.Size(43, 18);
             this.label136.TabIndex = 166;
             this.label136.Text = "- მდე";
             // 
@@ -8092,7 +8385,7 @@
             this.TP_rep_do.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_rep_do.Location = new System.Drawing.Point(403, 3);
             this.TP_rep_do.Name = "TP_rep_do";
-            this.TP_rep_do.Size = new System.Drawing.Size(95, 25);
+            this.TP_rep_do.Size = new System.Drawing.Size(95, 29);
             this.TP_rep_do.TabIndex = 165;
             this.TP_rep_do.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -8101,7 +8394,7 @@
             this.label135.AutoSize = true;
             this.label135.Location = new System.Drawing.Point(353, 9);
             this.label135.Name = "label135";
-            this.label135.Size = new System.Drawing.Size(34, 14);
+            this.label135.Size = new System.Drawing.Size(42, 18);
             this.label135.TabIndex = 164;
             this.label135.Text = "- დან";
             // 
@@ -8111,7 +8404,7 @@
             this.TP_rep_ot.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TP_rep_ot.Location = new System.Drawing.Point(257, 3);
             this.TP_rep_ot.Name = "TP_rep_ot";
-            this.TP_rep_ot.Size = new System.Drawing.Size(95, 25);
+            this.TP_rep_ot.Size = new System.Drawing.Size(95, 29);
             this.TP_rep_ot.TabIndex = 163;
             this.TP_rep_ot.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -8120,7 +8413,7 @@
             this.label139.AutoSize = true;
             this.label139.Location = new System.Drawing.Point(185, 9);
             this.label139.Name = "label139";
-            this.label139.Size = new System.Drawing.Size(61, 14);
+            this.label139.Size = new System.Drawing.Size(73, 18);
             this.label139.TabIndex = 162;
             this.label139.Text = "თარიღი - ";
             // 
@@ -8196,7 +8489,7 @@
             this.TB_cred.FormattingEnabled = true;
             this.TB_cred.Location = new System.Drawing.Point(196, 78);
             this.TB_cred.Name = "TB_cred";
-            this.TB_cred.Size = new System.Drawing.Size(422, 22);
+            this.TB_cred.Size = new System.Drawing.Size(422, 26);
             this.TB_cred.TabIndex = 225;
             this.TB_cred.ValueMember = "customer";
             // 
@@ -8205,7 +8498,7 @@
             this.TB_usr_mail.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_usr_mail.Location = new System.Drawing.Point(196, 231);
             this.TB_usr_mail.Name = "TB_usr_mail";
-            this.TB_usr_mail.Size = new System.Drawing.Size(423, 23);
+            this.TB_usr_mail.Size = new System.Drawing.Size(423, 27);
             this.TB_usr_mail.TabIndex = 66;
             // 
             // TB_usr_tel
@@ -8213,7 +8506,7 @@
             this.TB_usr_tel.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_usr_tel.Location = new System.Drawing.Point(196, 205);
             this.TB_usr_tel.Name = "TB_usr_tel";
-            this.TB_usr_tel.Size = new System.Drawing.Size(423, 23);
+            this.TB_usr_tel.Size = new System.Drawing.Size(423, 27);
             this.TB_usr_tel.TabIndex = 65;
             // 
             // TB_usr_pn
@@ -8221,7 +8514,7 @@
             this.TB_usr_pn.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_usr_pn.Location = new System.Drawing.Point(195, 179);
             this.TB_usr_pn.Name = "TB_usr_pn";
-            this.TB_usr_pn.Size = new System.Drawing.Size(423, 23);
+            this.TB_usr_pn.Size = new System.Drawing.Size(423, 27);
             this.TB_usr_pn.TabIndex = 64;
             // 
             // TB_usr_geo
@@ -8229,7 +8522,7 @@
             this.TB_usr_geo.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_usr_geo.Location = new System.Drawing.Point(195, 152);
             this.TB_usr_geo.Name = "TB_usr_geo";
-            this.TB_usr_geo.Size = new System.Drawing.Size(423, 23);
+            this.TB_usr_geo.Size = new System.Drawing.Size(423, 27);
             this.TB_usr_geo.TabIndex = 63;
             // 
             // TB_cred_addr
@@ -8237,7 +8530,7 @@
             this.TB_cred_addr.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_cred_addr.Location = new System.Drawing.Point(195, 127);
             this.TB_cred_addr.Name = "TB_cred_addr";
-            this.TB_cred_addr.Size = new System.Drawing.Size(423, 23);
+            this.TB_cred_addr.Size = new System.Drawing.Size(423, 27);
             this.TB_cred_addr.TabIndex = 62;
             // 
             // TB_cred_pn
@@ -8245,7 +8538,7 @@
             this.TB_cred_pn.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_cred_pn.Location = new System.Drawing.Point(195, 102);
             this.TB_cred_pn.Name = "TB_cred_pn";
-            this.TB_cred_pn.Size = new System.Drawing.Size(423, 23);
+            this.TB_cred_pn.Size = new System.Drawing.Size(423, 27);
             this.TB_cred_pn.TabIndex = 61;
             // 
             // label148
@@ -8323,7 +8616,7 @@
             this.TB_psw_usrout.Location = new System.Drawing.Point(229, 34);
             this.TB_psw_usrout.Name = "TB_psw_usrout";
             this.TB_psw_usrout.PasswordChar = '*';
-            this.TB_psw_usrout.Size = new System.Drawing.Size(256, 23);
+            this.TB_psw_usrout.Size = new System.Drawing.Size(256, 27);
             this.TB_psw_usrout.TabIndex = 49;
             // 
             // B_save_usrout
@@ -8342,7 +8635,7 @@
             this.label143.BackColor = System.Drawing.Color.Gainsboro;
             this.label143.Location = new System.Drawing.Point(170, 41);
             this.label143.Name = "label143";
-            this.label143.Size = new System.Drawing.Size(62, 14);
+            this.label143.Size = new System.Drawing.Size(74, 18);
             this.label143.TabIndex = 52;
             this.label143.Text = "პაროლი - ";
             // 
@@ -8351,7 +8644,7 @@
             this.TB_usrout.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TB_usrout.Location = new System.Drawing.Point(229, 8);
             this.TB_usrout.Name = "TB_usrout";
-            this.TB_usrout.Size = new System.Drawing.Size(256, 23);
+            this.TB_usrout.Size = new System.Drawing.Size(256, 27);
             this.TB_usrout.TabIndex = 48;
             // 
             // label144
@@ -8360,7 +8653,7 @@
             this.label144.BackColor = System.Drawing.Color.Gainsboro;
             this.label144.Location = new System.Drawing.Point(190, 13);
             this.label144.Name = "label144";
-            this.label144.Size = new System.Drawing.Size(38, 14);
+            this.label144.Size = new System.Drawing.Size(49, 18);
             this.label144.TabIndex = 38;
             this.label144.Text = "User - ";
             // 
@@ -8404,7 +8697,7 @@
             this.Pa_kur.Controls.Add(this.B_kurdam);
             this.Pa_kur.Controls.Add(this.DGV_kur);
             this.Pa_kur.Controls.Add(this.B_cl_kur);
-            this.Pa_kur.Location = new System.Drawing.Point(446, 40);
+            this.Pa_kur.Location = new System.Drawing.Point(444, 193);
             this.Pa_kur.Name = "Pa_kur";
             this.Pa_kur.Size = new System.Drawing.Size(350, 346);
             this.Pa_kur.TabIndex = 161;
@@ -8434,7 +8727,7 @@
             this.TB_tarval.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.TB_tarval.Location = new System.Drawing.Point(81, 14);
             this.TB_tarval.Name = "TB_tarval";
-            this.TB_tarval.Size = new System.Drawing.Size(95, 25);
+            this.TB_tarval.Size = new System.Drawing.Size(95, 29);
             this.TB_tarval.TabIndex = 157;
             this.TB_tarval.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
             // 
@@ -8444,7 +8737,7 @@
             this.label155.BackColor = System.Drawing.Color.Gainsboro;
             this.label155.Location = new System.Drawing.Point(16, 19);
             this.label155.Name = "label155";
-            this.label155.Size = new System.Drawing.Size(58, 14);
+            this.label155.Size = new System.Drawing.Size(69, 18);
             this.label155.TabIndex = 53;
             this.label155.Text = "თარიღი -";
             // 
@@ -8454,7 +8747,7 @@
             this.label156.BackColor = System.Drawing.Color.Gainsboro;
             this.label156.Location = new System.Drawing.Point(39, 71);
             this.label156.Name = "label156";
-            this.label156.Size = new System.Drawing.Size(35, 14);
+            this.label156.Size = new System.Drawing.Size(45, 18);
             this.label156.TabIndex = 52;
             this.label156.Text = "EUR -";
             // 
@@ -8462,7 +8755,7 @@
             // 
             this.TB_eurval.Location = new System.Drawing.Point(81, 71);
             this.TB_eurval.Name = "TB_eurval";
-            this.TB_eurval.Size = new System.Drawing.Size(93, 22);
+            this.TB_eurval.Size = new System.Drawing.Size(93, 26);
             this.TB_eurval.TabIndex = 49;
             this.TB_eurval.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -8470,7 +8763,7 @@
             // 
             this.TB_usdval.Location = new System.Drawing.Point(81, 44);
             this.TB_usdval.Name = "TB_usdval";
-            this.TB_usdval.Size = new System.Drawing.Size(93, 22);
+            this.TB_usdval.Size = new System.Drawing.Size(93, 26);
             this.TB_usdval.TabIndex = 48;
             this.TB_usdval.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -8480,7 +8773,7 @@
             this.label157.BackColor = System.Drawing.Color.Gainsboro;
             this.label157.Location = new System.Drawing.Point(39, 48);
             this.label157.Name = "label157";
-            this.label157.Size = new System.Drawing.Size(35, 14);
+            this.label157.Size = new System.Drawing.Size(45, 18);
             this.label157.TabIndex = 38;
             this.label157.Text = "USD -";
             // 
@@ -8566,30 +8859,38 @@
             // 
             this.isodate.DataPropertyName = "isodate";
             this.isodate.HeaderText = "თარიღი";
+            this.isodate.MinimumWidth = 6;
             this.isodate.Name = "isodate";
             this.isodate.ReadOnly = true;
+            this.isodate.Width = 125;
             // 
             // usd
             // 
             this.usd.DataPropertyName = "usd";
             this.usd.HeaderText = "USD";
+            this.usd.MinimumWidth = 6;
             this.usd.Name = "usd";
             this.usd.ReadOnly = true;
+            this.usd.Width = 125;
             // 
             // eur
             // 
             this.eur.DataPropertyName = "eur";
             this.eur.HeaderText = "EUR";
+            this.eur.MinimumWidth = 6;
             this.eur.Name = "eur";
             this.eur.ReadOnly = true;
+            this.eur.Width = 125;
             // 
             // iis
             // 
             this.iis.DataPropertyName = "iis";
             this.iis.HeaderText = "iis";
+            this.iis.MinimumWidth = 6;
             this.iis.Name = "iis";
             this.iis.ReadOnly = true;
             this.iis.Visible = false;
+            this.iis.Width = 125;
             // 
             // BS_kur
             // 
@@ -8617,80 +8918,11 @@
             // 
             this.TA_kur.ClearBeforeFill = true;
             // 
-            // Pa_prc
-            // 
-            this.Pa_prc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.Pa_prc.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Pa_prc.Controls.Add(this.label158);
-            this.Pa_prc.Controls.Add(this.TB_prc);
-            this.Pa_prc.Controls.Add(this.B_save_prc);
-            this.Pa_prc.Controls.Add(this.textBox1);
-            this.Pa_prc.Controls.Add(this.B_cl_prc);
-            this.Pa_prc.Location = new System.Drawing.Point(502, 147);
-            this.Pa_prc.Name = "Pa_prc";
-            this.Pa_prc.Size = new System.Drawing.Size(170, 121);
-            this.Pa_prc.TabIndex = 167;
-            this.Pa_prc.Visible = false;
-            // 
-            // B_save_prc
-            // 
-            this.B_save_prc.BackColor = System.Drawing.Color.Transparent;
-            this.B_save_prc.Location = new System.Drawing.Point(36, 84);
-            this.B_save_prc.Name = "B_save_prc";
-            this.B_save_prc.Size = new System.Drawing.Size(100, 25);
-            this.B_save_prc.TabIndex = 149;
-            this.B_save_prc.Text = "დამახსოვრება";
-            this.B_save_prc.UseVisualStyleBackColor = false;
-            this.B_save_prc.Click += new System.EventHandler(this.pr_save_prc);
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Sylfaen", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(19, 251);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(696, 20);
-            this.textBox1.TabIndex = 146;
-            // 
-            // B_cl_prc
-            // 
-            this.B_cl_prc.BackColor = System.Drawing.Color.White;
-            this.B_cl_prc.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_prc.Image")));
-            this.B_cl_prc.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.B_cl_prc.Location = new System.Drawing.Point(146, -1);
-            this.B_cl_prc.Name = "B_cl_prc";
-            this.B_cl_prc.Size = new System.Drawing.Size(22, 22);
-            this.B_cl_prc.TabIndex = 147;
-            this.B_cl_prc.UseVisualStyleBackColor = false;
-            this.B_cl_prc.Click += new System.EventHandler(this.pr_cl_prc);
-            // 
-            // TB_prc
-            // 
-            this.TB_prc.Location = new System.Drawing.Point(41, 46);
-            this.TB_prc.Name = "TB_prc";
-            this.TB_prc.Size = new System.Drawing.Size(88, 22);
-            this.TB_prc.TabIndex = 150;
-            this.TB_prc.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // label158
-            // 
-            this.label158.AutoSize = true;
-            this.label158.BackColor = System.Drawing.Color.Gainsboro;
-            this.label158.Location = new System.Drawing.Point(64, 24);
-            this.label158.Name = "label158";
-            this.label158.Size = new System.Drawing.Size(43, 14);
-            this.label158.TabIndex = 151;
-            this.label158.Text = "SPEC %";
-            // 
             // Form_Spec
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1242, 883);
-            this.Controls.Add(this.Pa_rep);
-            this.Controls.Add(this.Pa_kur);
             this.Controls.Add(this.Pa_info);
             this.Controls.Add(this.Pa_bru);
             this.Controls.Add(this.Pa_userout);
@@ -8796,6 +9028,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.BS_bru)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_bru)).EndInit();
             this.Pa_rep.ResumeLayout(false);
+            this.Pa_prc.ResumeLayout(false);
+            this.Pa_prc.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_rep)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_rep)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_rep)).EndInit();
@@ -8809,8 +9043,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGV_kur)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_kur)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_kur)).EndInit();
-            this.Pa_prc.ResumeLayout(false);
-            this.Pa_prc.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
