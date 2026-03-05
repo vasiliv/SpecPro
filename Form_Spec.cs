@@ -1155,8 +1155,8 @@ namespace SpecPro
                     }
 
                     frm.unda = 0;
-
-                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590))
+                    //Task6
+                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590) || (Convert.ToDecimal(frm.av) == 690))
                     {
                         frm.unda = 1;
 
@@ -1252,8 +1252,8 @@ namespace SpecPro
                     }
 
                     frm.unda = 0;
-
-                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590))
+                    //Task 6
+                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590) || (Convert.ToDecimal(frm.av) == 690))
                     {
                         frm.unda = 1;
 
@@ -1343,8 +1343,8 @@ namespace SpecPro
                     }
 
                     frm.unda = 0;
-
-                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590))
+                    //Task6
+                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590) || (Convert.ToDecimal(frm.av) == 690))
                     {
                         frm.unda = 1;
 
@@ -1438,8 +1438,8 @@ namespace SpecPro
                     }
 
                     frm.unda = 0;
-
-                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590))
+                    //Task6
+                    if (((auqt == "eauction") || (auqt == "Auction.livo.ge")) && (Convert.ToDecimal(frm.av) == 590) || (Convert.ToDecimal(frm.av) == 690))
                     {
                         frm.unda = 1;
 

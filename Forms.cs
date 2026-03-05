@@ -289,9 +289,9 @@ namespace SpecPro
 
             if ((moqme != 5) && (moqme != 6) && (moqme != 7) && (moqme != 8) && (moqme != 10))
             {
-                    TC1.AppendText("                                                           ");
-                    Clipboard.SetImage(Image.FromFile("CGlogo.bmp"));
-                    TC1.Paste();
+                TC1.AppendText("                                                           ");
+                Clipboard.SetImage(Image.FromFile("CGlogo.bmp"));
+                TC1.Paste();
             }
 
             if (moqme == 1)
@@ -353,6 +353,20 @@ namespace SpecPro
 
                     TC1.AppendText("მოთხოვნის ოდენობა: " + ahgn + " ლარი" + (char)(13));
                     TC1.AppendText("დღგ: " + vat + " ლარი" + (char)(13));
+
+                    //Task6
+                    if (Convert.ToDecimal(av) == 690)
+                    {
+                        if (unda == 0)
+                        {
+                            TC1.AppendText("სპეციალისტის საზღაური : " + spr + " %, არანაკლებ 690 ლარი, რაც თანხობრივად შეადგენს " + pro + " ლარი" + (char)(10) + (char)(13));
+                        }
+
+                        if (unda == 1)
+                        {
+                            TC1.AppendText("სპეციალისტის საზღაური : " + spr + " %, არანაკლებ 690 ლარი, რაც თანხობრივად შეადგენს " + pro + " ლარი და მოიცავს " + auqt + " - ს მომსახურების საფასურს - " + auqc + " ლარს;" + (char)(10) + (char)(13));
+                        }
+                    }
 
                     if (Convert.ToDecimal(av) == 590)
                     {
@@ -1487,7 +1501,7 @@ namespace SpecPro
         {
             System.Net.Mail.MailMessage tserili = new System.Net.Mail.MailMessage();
             System.Net.Mail.SmtpClient smtp = new System.Net.Mail.SmtpClient();
-            smtp.Host = "smtp.gmail.com";            
+            smtp.Host = "smtp.gmail.com";
 
             tserili.Subject = TB_sub.Text;
 
