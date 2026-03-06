@@ -3923,6 +3923,11 @@ namespace SpecPro
                         TB_specpr.Text = "3.20";
                         av = 0;
                     }
+                    //Task7
+                    if (cc == 690) 
+                    {                        
+                        av = 0;                   
+                    }
 
                     double aqp = Convert.ToDouble(TB_auqpr.Text);
 
