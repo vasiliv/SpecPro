@@ -838,6 +838,9 @@ namespace SpecPro
                 frm.mw = DGV_info.Rows[rowwgi].Cells["property_addr"].Value.ToString();
                 frm.nw = DGV_info.Rows[rowwgi].Cells["property_code"].Value.ToString();
                 frm.gw = DGV_info.Rows[rowwgi].Cells["n_mortgage"].Value.ToString();
+                //Task9
+                frm.spec = DGV_info.Rows[rowwgi].Cells["spec"].Value.ToString();
+
                 try
                 {
                     d0 = Convert.ToDateTime(DGV_info.Rows[rowwgi].Cells["dt_mortgage"].Value.ToString());

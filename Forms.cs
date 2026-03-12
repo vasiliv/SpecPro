@@ -160,6 +160,9 @@ namespace SpecPro
         public string auqt = "";
 
         public string mimg = "";
+        //Task9
+        //spec - სპეციალისტის სახელი და გვარი
+        public string spec = "";
 
         public Forms()
         {
@@ -400,7 +403,10 @@ namespace SpecPro
                     TC1.AppendText("აუქციონატორი:" + (char)(13));
                     TC1.AppendText("შპს „კონსალტინგ გრუპს“" + (char)(13));
                     //TC1.AppendText("ნინო არაბიძე" + (char)(10) + (char)(13));
-                    TC1.AppendText("თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                    //TC1.AppendText("თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                    //Task9
+                    //spec - სპეციალისტის სახელი და გვარი
+                    TC1.AppendText(spec + (char)(10) + (char)(13));
                 }
             }
 
@@ -419,7 +425,9 @@ namespace SpecPro
                 TC1.AppendText("                                                                       " + dd + (char)(10) + (char)(13));
                 TC1.AppendText("სპეციალისტი:     შპს ”კონსალტინგ გრუპს”	ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი:        ნინო არაბიძე" + (char)(13));
-                TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(10) + (char)(13));
                 TC1.AppendText("მესაკუთრე:       " + qw + (char)(13));
@@ -605,7 +613,9 @@ namespace SpecPro
 
                     TC1.AppendText("სპეციალისტი:   შპს ”კონსალტინგ გრუპს”, ს/კ 404483536  " + (char)(13));
                     //TC1.AppendText("დირექტორი       ნინო არაბიძე" + (char)(10) + (char)(13));
-                    TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                    //TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                    //Task9
+                    TC1.AppendText("დირექტორი       "+ spec  + (char)(10) + (char)(13));
                 }
             }
 
@@ -625,7 +635,9 @@ namespace SpecPro
 
                 TC1.AppendText("სპეციალისტი:     შპს ”კონსალტინგ გრუპს”	ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი:        ნინო არაბიძე" + (char)(13));
-                TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(10) + (char)(13));
                 TC1.AppendText("მსესხებელი:      " + ww + (char)(13));
@@ -792,7 +804,9 @@ namespace SpecPro
 
                 TC1.AppendText("სპეციალისტი:   შპს ”კონსალტინგ გრუპს”, ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი       ნინო არაბიძე" + (char)(10) + (char)(13));
-                TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი       " + spec + (char)(10) + (char)(13));
             }
 
             if (moqme == 4)
@@ -811,7 +825,9 @@ namespace SpecPro
 
                 TC1.AppendText("სპეციალისტი:     შპს ”კონსალტინგ გრუპს”	ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი:        ნინო არაბიძე" + (char)(13));
-                TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(10) + (char)(13));
                 TC1.AppendText("მესაკუთრე:      " + zw + (char)(13));
@@ -976,7 +992,9 @@ namespace SpecPro
                 TC1.AppendText("აუქციონის შეწყვეტის შემთხვევაში შეწყვეტის საკომისიო შეადგენს აუქციონის საწყისის ფასის  0.59 პროცენტს;" + (char)(10) + (char)(13));*/
                 TC1.AppendText("სპეციალისტი:   შპს ”კონსალტინგ გრუპს”, ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი       ნინო არაბიძე" + (char)(10) + (char)(13));
-                TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი       " + spec + (char)(10) + (char)(13));
             }
 
             if (moqme == 5)
@@ -1012,7 +1030,9 @@ namespace SpecPro
                 TC1.AppendText("                                       საჯარო აუქციონის საიდენტიფიკაციო ნომერი: " + am + (char)(10) + (char)(13));
                 TC1.AppendText("სპეციალისტი:     შპს ”კონსალტინგ გრუპს”	ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი:        ნინო არაბიძე" + (char)(13));
-                TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(13));
                 TC1.AppendText("საბანკო ანგარიში:     GE44TB7747836020100004" + (char)(10) + (char)(13));
@@ -1125,8 +1145,9 @@ namespace SpecPro
                 TC1.AppendText("ყველა პირი, რომელსაც აქვს რაიმე სახის უფლებები უძრავ ქონებაზე, ვალდებულია ამ უფლებათა დამადასტურებელი მტკიცებულებანი წარმოადგინოს აუქციონის დაწყებამდე წერილობითი ფორმით სპეციალისტთან." + (char)(10) + (char)(13));
                 TC1.AppendText("სპეციალისტი:   შპს ”კონსალტინგ გრუპს”, ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი       ნინო არაბიძე" + (char)(10) + (char)(13));
-                TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
-
+                //TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი       " + spec + (char)(10) + (char)(13));
             }
 
             if (moqme == 7)
@@ -1140,7 +1161,9 @@ namespace SpecPro
                 TC1.AppendText("                                            საჯარო აუქციონის საიდენტიფიკაციო ნომერი: " + am + (char)(10) + (char)(13));
                 TC1.AppendText("სპეციალისტი:     შპს „კონსალტინგ გრუპს”	ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი:        ნინო არაბიძე" + (char)(13));
-                TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //TC1.AppendText("დირექტორი:        თამარ მაღალაშვილი" + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(13));
                 TC1.AppendText("საბანკო ანგარიში:     GE44TB7747836020100004" + (char)(10) + (char)(13));
@@ -1254,7 +1277,9 @@ namespace SpecPro
                 TC1.AppendText("ყველა პირი, რომელსაც აქვს რაიმე სახის უფლებები უძრავ ქონებაზე, ვალდებულია ამ უფლებათა დამადასტურებელი მტკიცებულებანი წარმოადგინოს აუქციონის დაწყებამდე წერილობითი ფორმით სპეციალისტთან." + (char)(10) + (char)(13));
                 TC1.AppendText("სპეციალისტი:   შპს „კონსალტინგ გრუპს”, ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი       ნინო არაბიძე" + (char)(10) + (char)(13));
-                TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი       " + spec + (char)(10) + (char)(13));
             }
 
             if (moqme == 8)
@@ -1437,7 +1462,9 @@ namespace SpecPro
 
                 TC1.AppendText("სპეციალისტი:   შპს ”კონსალტინგ გრუპს”, ს/კ 404483536  " + (char)(13));
                 //TC1.AppendText("დირექტორი       ნინო არაბიძე" + (char)(10) + (char)(13));
-                TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //TC1.AppendText("დირექტორი       თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //Task9
+                TC1.AppendText("დირექტორი       " + spec + (char)(10) + (char)(13));
             }
 
             if (moqme == 10)
@@ -1474,9 +1501,22 @@ namespace SpecPro
 
             if ((moqme != 5) && (moqme != 6) && (moqme != 7) && (moqme != 9) && (moqme != 10))
             {
-
+                //Task9
                 //Clipboard.SetImage(Image.FromFile("Pej.bmp"));
-                Clipboard.SetImage(Image.FromFile("Pej_Magalashvili.bmp"));
+                //Clipboard.SetImage(Image.FromFile("Pej_Magalashvili.bmp"));
+                switch (spec)
+                {
+                    case "ნინო არაბიძე":
+                        Clipboard.SetImage(Image.FromFile("Pej.bmp"));
+                        break;
+                    case "თამარ მაღალაშვილი":
+                        Clipboard.SetImage(Image.FromFile("Pej_Magalashvili.bmp"));
+                        break;
+                    case "ია ადეიშვილი":
+                        Clipboard.SetImage(Image.FromFile("Pej_Adeishvili.bmp"));
+                        break;
+                }
+                    
                 TC1.Paste();
             }
 
