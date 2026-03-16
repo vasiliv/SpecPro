@@ -830,6 +830,8 @@ namespace SpecPro
                 frm.dgg = DGV_info.Rows[rowwgi].Cells["dgg"].Value.ToString();
                 frm.am = DGV_info.Rows[rowwgi].Cells["nom"].Value.ToString();
                 frm.qw = DGV_info.Rows[rowwgi].Cells["owner"].Value.ToString();
+                //Task11
+                frm.addr = DGV_info.Rows[rowwgi].Cells["owner_addr1"].Value.ToString();
                 frm.rw = DGV_info.Rows[rowwgi].Cells["owner_num"].Value.ToString();
                 frm.dw = DGV_info.Rows[rowwgi].Cells["cust"].Value.ToString();
                 frm.ww = DGV_info.Rows[rowwgi].Cells["debtor"].Value.ToString();
@@ -7084,6 +7086,11 @@ namespace SpecPro
 
                 frm.rekv = Sql.ExecuteScalar().ToString();
 
+                //Task11
+                //Get owner address 
+                Sql.CommandText = "select isnull(owner_addr1,'') from info where nom = N'" + nom + "'";
+                frm.addr = Sql.ExecuteScalar().ToString();
+                
                 frm.Show();
             }
             else
