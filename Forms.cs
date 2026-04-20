@@ -115,7 +115,7 @@ namespace SpecPro
 
         public string ddn = "";
         public string nn = "";
-        public string cc = "";
+        public string cc = "";        
         public string ce = "";
         public string ce0 = "";
         public string cd = "";
@@ -166,10 +166,12 @@ namespace SpecPro
         //Task11
         //Get the owner address
         public string addr = "";
+        //Task13
+        public string kreditorisTanxa = "";
         public Forms()
-        {
+        {            
             InitializeComponent();
-        }
+        }       
 
         private void pr_save(object sender, EventArgs e)
         {
@@ -1521,12 +1523,17 @@ namespace SpecPro
                 TC1.AppendText("აუქციონის თანხა                           " + buw + " ლარი" + (char)(10) + (char)(13));
                 TC1.AppendText("მიმღები : " + mimg + (char)(13));
                 TC1.AppendText("რეკვიზიტები : ა/ა 707027022 სახელმწიფო ხაზინა ბანკის კოდი TRESGE22 სახაზინო კოდი 707027022" + (char)(13));
-                TC1.AppendText("დანიშნულება : გ.ნ " + nn + " NWK " + an + "/18 ელ. აუქციონზე რეალიზებული ქონების ღირებულების 1 პროც მომსახურების საფასური. შემძენი " + btw + " განმკარგავი 404483536  ს.ნ " + nn + (char)(13));
+                TC1.AppendText("დანიშნულება : გ.ნ " + nn + " NWK " + an + "/18 ელ. აუქციონზე რეალიზებული ქონების ღირებულების 1 პროც მომსახურების საფასური. შემძენი " + btw + " განმკარგავი 404483536  ს.ნ " + nn + (char)(13));                
                 TC1.AppendText("თანხა : " + cc + " ლარი" + (char)(10) + (char)(13));
+                
+
                 TC1.AppendText("კრედიტორი " + (char)(13));
                 TC1.AppendText("რეკვიზიტები : " + rekv + (char)(13));
                 TC1.AppendText("დანიშნულება : აუქციონზე ამონაგები თანხის გადარიცხვა კრედიტორისთვის. აუქციონი " + nn + " მოვალე " + ww + " , " + xw + (char)(13));
-                TC1.AppendText("თანხა : " + ce0 + " ლარი" + (char)(10) + (char)(13));
+                //Task13
+                //TC1.AppendText("თანხა : " + ce0 + " ლარი" + (char)(10) + (char)(13));                
+                TC1.AppendText("თანხა : " + kreditorisTanxa + " ლარი" + (char)(10) + (char)(13));
+
                 TC1.AppendText("სახელმწიფო ხაზინა " + (char)(13));
                 TC1.AppendText("რეკვიზიტები : 101001000 " + (char)(13));
                 TC1.AppendText("დანიშნულება : დღგ მესაკუთრე " + qw + " პ.ნ " + rw + (char)(13));

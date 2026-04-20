@@ -1,29 +1,30 @@
-﻿using System;
+using Microsoft.Office.Interop.Excel;
+using Microsoft.SqlServer.Server;
+using Microsoft.Win32;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Windows.Forms;
-using System.Data.SqlTypes;
-using Microsoft.SqlServer.Server;
-using System.Data.SqlClient;
-using System.Data.Sql;
-using System.IO;
-using System.Runtime.InteropServices;
-using System.Runtime;
-using Microsoft.Win32;
-using System.Collections;
 using System.Configuration;
+using System.Data;
+using System.Data.Sql;
+using System.Data.SqlClient;
+using System.Data.SqlTypes;
+using System.Drawing;
 using System.Globalization;
-using Microsoft.Office.Interop.Excel;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Security.Cryptography;
-using System.Web;
+using System.IO;
+using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Runtime;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Web;
+using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace SpecPro
 {
@@ -73,7 +74,10 @@ namespace SpecPro
         public string filter_base = "";
         public string filter_bru = "";
         public byte[] bytes;
+        //ავანსის თანხა, prepaid - in sql
         public int av = 0;
+        //START GEL, fee - in sql
+        public int aj = 0;
         public int krfi = 0;
         public string auqt0;
         public int valmoqme = 0;
@@ -84,6 +88,10 @@ namespace SpecPro
         public int mx;
         public int my;
 
+        //Task13
+        public string kreditorisTanxa = "";
+        
+
         /*public struct useridliq
         {
             public string user;
@@ -93,6 +101,15 @@ namespace SpecPro
         public Form_Spec()
         {
             InitializeComponent();
+        }
+        /// <summary>Parses fee (frm.aj) for VAT; empty or invalid values become 0.</summary>
+        private static decimal ParseFeeForVat(string s)
+        {
+            if (string.IsNullOrWhiteSpace(s)) return 0m;
+            s = s.Trim();
+            if (decimal.TryParse(s, NumberStyles.Number, CultureInfo.CurrentCulture, out decimal v)) return v;
+            if (decimal.TryParse(s, NumberStyles.Number, CultureInfo.InvariantCulture, out v)) return v;
+            return 0m;
         }
 
         private void pr_step1(object sender, EventArgs e)
@@ -1203,7 +1220,7 @@ namespace SpecPro
 
                     if (dg == "YES")
                     {
-                        frm.vat = (Convert.ToDecimal(frm.aj) / Convert.ToDecimal(1.18) * Convert.ToDecimal(0.18)).ToString("##########.00");
+                        frm.vat = (ParseFeeForVat(frm.aj) / 1.18m * 0.18m).ToString("##########.00");
                     }
 
                     if (dg == "NO")
@@ -1300,7 +1317,7 @@ namespace SpecPro
 
                     if (dg == "YES")
                     {
-                        frm.vat = (Convert.ToDecimal(frm.aj) / Convert.ToDecimal(1.18) * Convert.ToDecimal(0.18)).ToString("##########.00");
+                        frm.vat = (ParseFeeForVat(frm.aj) / 1.18m * 0.18m).ToString("##########.00");
                     }
 
                     if (dg == "NO")
@@ -1391,7 +1408,7 @@ namespace SpecPro
 
                     if (dg == "YES")
                     {
-                        frm.vat = (Convert.ToDecimal(frm.aj) / Convert.ToDecimal(1.18) * Convert.ToDecimal(0.18)).ToString("##########.00");
+                        frm.vat = (ParseFeeForVat(frm.aj) / 1.18m * 0.18m).ToString("##########.00");
                     }
 
                     if (dg == "NO")
@@ -1486,7 +1503,7 @@ namespace SpecPro
 
                     if (dg == "YES")
                     {
-                        frm.vat = (Convert.ToDecimal(frm.aj) / Convert.ToDecimal(1.18) * Convert.ToDecimal(0.18)).ToString("##########.00");
+                        frm.vat = (ParseFeeForVat(frm.aj) / 1.18m * 0.18m).ToString("##########.00");
                     }
 
                     if (dg == "NO")
@@ -1767,9 +1784,9 @@ namespace SpecPro
                     {
                         frm.an = "3";
                     }
-
-                    frm.cc = DGV_info.Rows[rowwgi].Cells["eacution1"].Value.ToString();
-
+                    
+                    frm.cc = DGV_info.Rows[rowwgi].Cells["eacution1"].Value.ToString();                    
+                    
                     string accp = DGV_info.Rows[rowwgi].Cells["nom"].Value.ToString();
 
                     Sql.CommandText = "exec dbo.proc_acc1 '" + accp + "'";
@@ -2904,6 +2921,42 @@ namespace SpecPro
             string fee;
 
             DateTime d0;
+
+            //Task12            
+            //if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
+            //{
+            //    if (!int.TryParse(TB_fee.Text, out int feeValue))
+            //    {
+            //        TB_specpr.Text = "0";
+            //    }
+            //    else
+            //    {
+            //        string prepaid = CB_prepaid.Text.Trim();
+
+            //        if (prepaid == "590.00")
+            //        {
+            //            if (feeValue < 50000m)
+            //                TB_specpr.Text = "3.2";
+            //            else if (feeValue < 200000m)
+            //                TB_specpr.Text = "3.1";
+            //            else
+            //                TB_specpr.Text = "3.0";
+            //        }
+            //        else if (prepaid == "690.00")
+            //        {
+            //            if (feeValue < 50000m)
+            //                TB_specpr.Text = "3.1";
+            //            else if (feeValue < 200000m)
+            //                TB_specpr.Text = "3.0";
+            //            else
+            //                TB_specpr.Text = "2.9";
+            //        }
+            //        else
+            //        {
+            //            TB_specpr.Text = "0";
+            //        }
+            //    }
+            //}
 
             if (TB_nom.Text.Trim() != "")
             {
@@ -6894,14 +6947,15 @@ namespace SpecPro
             string inf;
             string auqt;
 
-            string nom = DGV_rep.Rows[rowwgi].Cells["nom_a"].Value.ToString();
-
+            string nom = DGV_rep.Rows[rowwgi].Cells["nom_a"].Value.ToString();                    
+            
             Forms frm = new Forms();
             frm.conn = conn;
             frm.sss = sss;
             moqme = 10;
             frm.moqme = moqme;
-
+            //Task13
+            frm.kreditorisTanxa = DGV_rep.Rows[rowwgi].Cells["deb_prc"].Value.ToString(); 
             Sql.CommandText = "select auqt from info where nom = N'" + nom + "'";
 
             auqt = Sql.ExecuteScalar().ToString();
@@ -7030,9 +7084,17 @@ namespace SpecPro
                     frm.an = "3";
                 }
 
-                Sql.CommandText = "select dbo.eacut(" + inf + ") from info where nom = N'" + nom + "'";
-
-                frm.cc = Sql.ExecuteScalar().ToString();
+                object debPrcValue = DGV_rep.Rows[rowwgi].Cells["deb_prc"].Value;
+                if ((debPrcValue != null) && (debPrcValue != DBNull.Value) && (debPrcValue.ToString().Trim() != ""))
+                {
+                    frm.cc = debPrcValue.ToString().Trim();
+                }
+                else
+                {
+                    // Fallback to DB computation when report cell is empty/null.
+                    Sql.CommandText = "select dbo.eacut(" + inf + ") from info where nom = N'" + nom + "'";
+                    frm.cc = Sql.ExecuteScalar().ToString();
+                }
 
                 Sql.CommandText = "exec dbo.proc_acc1 '" + nom + "'";
 
@@ -7377,7 +7439,7 @@ namespace SpecPro
 
                 DGV_kur.Refresh();
 
-                /*Sql.CommandText = "select top 1 convert(char(10),isodate,103),usd,eur from turnover.dbo.iso order by isodate desc";
+                /*Sql.CommandText = "this.eacution1.HeaderText top 1 convert(char(10),isodate,103),usd,eur from turnover.dbo.iso order by isodate desc";
                 SqlDataReader Q03;
 
                 Q03 = Sql.ExecuteReader();
@@ -7781,6 +7843,11 @@ namespace SpecPro
                 TB_specpr.Text = "3.98";
                 TB_auqpr.Text = "1.00";
             }
-        }
+            //Task12
+            if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
+            {
+                TB_auqt.SelectedValue = "Auction.livo.ge";                   
+            }
+        }        
     }
 }

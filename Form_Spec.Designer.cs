@@ -30,6 +30,31 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_Spec));
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle25 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle26 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle27 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle28 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -146,31 +171,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle139 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle140 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle141 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle13 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle14 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle15 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle25 = new System.Windows.Forms.DataGridViewCellStyle();
             this.Menu1 = new System.Windows.Forms.MenuStrip();
             this.Mitem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.Mitem2 = new System.Windows.Forms.ToolStripMenuItem();
@@ -226,6 +226,27 @@
             this.label113 = new System.Windows.Forms.Label();
             this.B_saveauqt = new System.Windows.Forms.Button();
             this.B_cl_newauqt = new System.Windows.Forms.Button();
+            this.Pa_kur = new System.Windows.Forms.Panel();
+            this.Pa_valu = new System.Windows.Forms.Panel();
+            this.TB_tarval = new System.Windows.Forms.DateTimePicker();
+            this.label155 = new System.Windows.Forms.Label();
+            this.label156 = new System.Windows.Forms.Label();
+            this.TB_eurval = new System.Windows.Forms.TextBox();
+            this.TB_usdval = new System.Windows.Forms.TextBox();
+            this.label157 = new System.Windows.Forms.Label();
+            this.B_senval = new System.Windows.Forms.Button();
+            this.B_cl_val = new System.Windows.Forms.Button();
+            this.B_kurdel = new System.Windows.Forms.Button();
+            this.B_kursec = new System.Windows.Forms.Button();
+            this.B_kurdam = new System.Windows.Forms.Button();
+            this.DGV_kur = new System.Windows.Forms.DataGridView();
+            this.isodate = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.usd = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.eur = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.iis = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.BS_kur = new System.Windows.Forms.BindingSource(this.components);
+            this.dS_kur = new SpecPro.turnoverDataSet();
+            this.B_cl_kur = new System.Windows.Forms.Button();
             this.TB_auqt = new System.Windows.Forms.ComboBox();
             this.BS_auqt = new System.Windows.Forms.BindingSource(this.components);
             this.DS_auqt = new SpecPro.sproDataSet();
@@ -515,6 +536,51 @@
             this.TB_newbuy = new System.Windows.Forms.TextBox();
             this.label119 = new System.Windows.Forms.Label();
             this.B_savebuy = new System.Windows.Forms.Button();
+            this.Pa_rep = new System.Windows.Forms.Panel();
+            this.Pa_prc = new System.Windows.Forms.Panel();
+            this.label158 = new System.Windows.Forms.Label();
+            this.TB_prc = new System.Windows.Forms.TextBox();
+            this.B_save_prc = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.B_cl_prc = new System.Windows.Forms.Button();
+            this.DGV_rep = new System.Windows.Forms.DataGridView();
+            this.nom_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.stdt = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.enddt = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.stat_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.owner_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.debtor_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.iur = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.buyer_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.auc_gel1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.auc_gel0 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.sum_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.prc_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.auc_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.vat_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.vat_dr = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.op_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.deb_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.deb_dt = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.prep_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.spec_sum = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.spec_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.auq_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.kor_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.amd = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.form = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.BS_rep = new System.Windows.Forms.BindingSource(this.components);
+            this.dS_rep = new SpecPro.DS_rep();
+            this.B_cl_rep = new System.Windows.Forms.Button();
+            this.Pa_w2 = new System.Windows.Forms.Panel();
+            this.B_d16 = new System.Windows.Forms.Button();
+            this.label136 = new System.Windows.Forms.Label();
+            this.TP_rep_do = new System.Windows.Forms.DateTimePicker();
+            this.label135 = new System.Windows.Forms.Label();
+            this.TP_rep_ot = new System.Windows.Forms.DateTimePicker();
+            this.label139 = new System.Windows.Forms.Label();
+            this.B_exprep = new System.Windows.Forms.Button();
+            this.B_refrep = new System.Windows.Forms.Button();
             this.Pa_pdf = new System.Windows.Forms.Panel();
             this.DGV_pdf = new System.Windows.Forms.DataGridView();
             this.files1_name = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -773,51 +839,6 @@
             this.dS_bru = new SpecPro.DS_bru();
             this.TA_bru = new SpecPro.DS_bruTableAdapters.receiptsTableAdapter();
             this.OFD = new System.Windows.Forms.OpenFileDialog();
-            this.Pa_rep = new System.Windows.Forms.Panel();
-            this.Pa_prc = new System.Windows.Forms.Panel();
-            this.label158 = new System.Windows.Forms.Label();
-            this.TB_prc = new System.Windows.Forms.TextBox();
-            this.B_save_prc = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.B_cl_prc = new System.Windows.Forms.Button();
-            this.DGV_rep = new System.Windows.Forms.DataGridView();
-            this.nom_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.stdt = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.enddt = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.stat_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.owner_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.debtor_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.iur = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.buyer_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.auc_gel1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.auc_gel0 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.sum_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.prc_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.auc_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.vat_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.vat_dr = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.op_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.deb_prc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.deb_dt = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.prep_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.spec_sum = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.spec_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.auq_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.kor_a = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.amd = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.form = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.BS_rep = new System.Windows.Forms.BindingSource(this.components);
-            this.dS_rep = new SpecPro.DS_rep();
-            this.B_cl_rep = new System.Windows.Forms.Button();
-            this.Pa_w2 = new System.Windows.Forms.Panel();
-            this.B_d16 = new System.Windows.Forms.Button();
-            this.label136 = new System.Windows.Forms.Label();
-            this.TP_rep_do = new System.Windows.Forms.DateTimePicker();
-            this.label135 = new System.Windows.Forms.Label();
-            this.TP_rep_ot = new System.Windows.Forms.DateTimePicker();
-            this.label139 = new System.Windows.Forms.Label();
-            this.B_exprep = new System.Windows.Forms.Button();
-            this.B_refrep = new System.Windows.Forms.Button();
             this.TA_rep = new SpecPro.DS_repTableAdapters.accTableAdapter();
             this.Pa_userout = new System.Windows.Forms.Panel();
             this.TB_cred = new System.Windows.Forms.ComboBox();
@@ -844,27 +865,6 @@
             this.SFD_pdf = new System.Windows.Forms.SaveFileDialog();
             this.Ti = new System.Windows.Forms.Timer(this.components);
             this.TA_auqt = new SpecPro.sproDataSetTableAdapters.auqtipeTableAdapter();
-            this.Pa_kur = new System.Windows.Forms.Panel();
-            this.Pa_valu = new System.Windows.Forms.Panel();
-            this.TB_tarval = new System.Windows.Forms.DateTimePicker();
-            this.label155 = new System.Windows.Forms.Label();
-            this.label156 = new System.Windows.Forms.Label();
-            this.TB_eurval = new System.Windows.Forms.TextBox();
-            this.TB_usdval = new System.Windows.Forms.TextBox();
-            this.label157 = new System.Windows.Forms.Label();
-            this.B_senval = new System.Windows.Forms.Button();
-            this.B_cl_val = new System.Windows.Forms.Button();
-            this.B_kurdel = new System.Windows.Forms.Button();
-            this.B_kursec = new System.Windows.Forms.Button();
-            this.B_kurdam = new System.Windows.Forms.Button();
-            this.DGV_kur = new System.Windows.Forms.DataGridView();
-            this.isodate = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.usd = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.eur = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.iis = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.BS_kur = new System.Windows.Forms.BindingSource(this.components);
-            this.dS_kur = new SpecPro.turnoverDataSet();
-            this.B_cl_kur = new System.Windows.Forms.Button();
             this.TA_kur = new SpecPro.turnoverDataSetTableAdapters.isoTableAdapter();
             this.Menu1.SuspendLayout();
             this.Pa_psw.SuspendLayout();
@@ -879,6 +879,11 @@
             this.TC_inf.SuspendLayout();
             this.TP_inf1.SuspendLayout();
             this.Pa_newauqt.SuspendLayout();
+            this.Pa_kur.SuspendLayout();
+            this.Pa_valu.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DGV_kur)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BS_kur)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dS_kur)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_auqt)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DS_auqt)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_repr)).BeginInit();
@@ -901,6 +906,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.BS_buy)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_buy)).BeginInit();
             this.Pa_newbuy.SuspendLayout();
+            this.Pa_rep.SuspendLayout();
+            this.Pa_prc.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DGV_rep)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BS_rep)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dS_rep)).BeginInit();
+            this.Pa_w2.SuspendLayout();
             this.Pa_pdf.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_pdf)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_pdf)).BeginInit();
@@ -930,18 +941,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGV_bru)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_bru)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_bru)).BeginInit();
-            this.Pa_rep.SuspendLayout();
-            this.Pa_prc.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.DGV_rep)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BS_rep)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dS_rep)).BeginInit();
-            this.Pa_w2.SuspendLayout();
             this.Pa_userout.SuspendLayout();
-            this.Pa_kur.SuspendLayout();
-            this.Pa_valu.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.DGV_kur)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BS_kur)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dS_kur)).BeginInit();
             this.SuspendLayout();
             // 
             // Menu1
@@ -1589,6 +1589,233 @@
             this.B_cl_newauqt.TabIndex = 7;
             this.B_cl_newauqt.UseVisualStyleBackColor = false;
             this.B_cl_newauqt.Click += new System.EventHandler(this.pr_cl_newauqt);
+            // 
+            // Pa_kur
+            // 
+            this.Pa_kur.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Pa_kur.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pa_kur.Controls.Add(this.Pa_valu);
+            this.Pa_kur.Controls.Add(this.B_kurdel);
+            this.Pa_kur.Controls.Add(this.B_kursec);
+            this.Pa_kur.Controls.Add(this.B_kurdam);
+            this.Pa_kur.Controls.Add(this.DGV_kur);
+            this.Pa_kur.Controls.Add(this.B_cl_kur);
+            this.Pa_kur.Location = new System.Drawing.Point(444, 193);
+            this.Pa_kur.Name = "Pa_kur";
+            this.Pa_kur.Size = new System.Drawing.Size(350, 346);
+            this.Pa_kur.TabIndex = 161;
+            this.Pa_kur.Visible = false;
+            // 
+            // Pa_valu
+            // 
+            this.Pa_valu.BackColor = System.Drawing.Color.Silver;
+            this.Pa_valu.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pa_valu.Controls.Add(this.TB_tarval);
+            this.Pa_valu.Controls.Add(this.label155);
+            this.Pa_valu.Controls.Add(this.label156);
+            this.Pa_valu.Controls.Add(this.TB_eurval);
+            this.Pa_valu.Controls.Add(this.TB_usdval);
+            this.Pa_valu.Controls.Add(this.label157);
+            this.Pa_valu.Controls.Add(this.B_senval);
+            this.Pa_valu.Controls.Add(this.B_cl_val);
+            this.Pa_valu.Location = new System.Drawing.Point(61, 79);
+            this.Pa_valu.Name = "Pa_valu";
+            this.Pa_valu.Size = new System.Drawing.Size(217, 182);
+            this.Pa_valu.TabIndex = 153;
+            this.Pa_valu.Visible = false;
+            // 
+            // TB_tarval
+            // 
+            this.TB_tarval.Font = new System.Drawing.Font("Sylfaen", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TB_tarval.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.TB_tarval.Location = new System.Drawing.Point(81, 14);
+            this.TB_tarval.Name = "TB_tarval";
+            this.TB_tarval.Size = new System.Drawing.Size(95, 29);
+            this.TB_tarval.TabIndex = 157;
+            this.TB_tarval.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
+            // 
+            // label155
+            // 
+            this.label155.AutoSize = true;
+            this.label155.BackColor = System.Drawing.Color.Gainsboro;
+            this.label155.Location = new System.Drawing.Point(16, 19);
+            this.label155.Name = "label155";
+            this.label155.Size = new System.Drawing.Size(69, 18);
+            this.label155.TabIndex = 53;
+            this.label155.Text = "თარიღი -";
+            // 
+            // label156
+            // 
+            this.label156.AutoSize = true;
+            this.label156.BackColor = System.Drawing.Color.Gainsboro;
+            this.label156.Location = new System.Drawing.Point(39, 71);
+            this.label156.Name = "label156";
+            this.label156.Size = new System.Drawing.Size(45, 18);
+            this.label156.TabIndex = 52;
+            this.label156.Text = "EUR -";
+            // 
+            // TB_eurval
+            // 
+            this.TB_eurval.Location = new System.Drawing.Point(81, 71);
+            this.TB_eurval.Name = "TB_eurval";
+            this.TB_eurval.Size = new System.Drawing.Size(93, 26);
+            this.TB_eurval.TabIndex = 49;
+            this.TB_eurval.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // TB_usdval
+            // 
+            this.TB_usdval.Location = new System.Drawing.Point(81, 44);
+            this.TB_usdval.Name = "TB_usdval";
+            this.TB_usdval.Size = new System.Drawing.Size(93, 26);
+            this.TB_usdval.TabIndex = 48;
+            this.TB_usdval.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // label157
+            // 
+            this.label157.AutoSize = true;
+            this.label157.BackColor = System.Drawing.Color.Gainsboro;
+            this.label157.Location = new System.Drawing.Point(39, 48);
+            this.label157.Name = "label157";
+            this.label157.Size = new System.Drawing.Size(45, 18);
+            this.label157.TabIndex = 38;
+            this.label157.Text = "USD -";
+            // 
+            // B_senval
+            // 
+            this.B_senval.Location = new System.Drawing.Point(61, 124);
+            this.B_senval.Name = "B_senval";
+            this.B_senval.Size = new System.Drawing.Size(96, 25);
+            this.B_senval.TabIndex = 37;
+            this.B_senval.Text = "დამახსოვრება";
+            this.B_senval.UseVisualStyleBackColor = true;
+            this.B_senval.Click += new System.EventHandler(this.pr_senval);
+            // 
+            // B_cl_val
+            // 
+            this.B_cl_val.BackColor = System.Drawing.Color.White;
+            this.B_cl_val.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_val.Image")));
+            this.B_cl_val.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.B_cl_val.Location = new System.Drawing.Point(194, -2);
+            this.B_cl_val.Name = "B_cl_val";
+            this.B_cl_val.Size = new System.Drawing.Size(22, 24);
+            this.B_cl_val.TabIndex = 7;
+            this.B_cl_val.UseVisualStyleBackColor = false;
+            this.B_cl_val.Click += new System.EventHandler(this.pr_cl_val);
+            // 
+            // B_kurdel
+            // 
+            this.B_kurdel.BackColor = System.Drawing.Color.Transparent;
+            this.B_kurdel.Location = new System.Drawing.Point(140, 4);
+            this.B_kurdel.Name = "B_kurdel";
+            this.B_kurdel.Size = new System.Drawing.Size(53, 22);
+            this.B_kurdel.TabIndex = 152;
+            this.B_kurdel.Text = "წაშლა";
+            this.B_kurdel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.B_kurdel.UseVisualStyleBackColor = false;
+            this.B_kurdel.Click += new System.EventHandler(this.pr_delval);
+            // 
+            // B_kursec
+            // 
+            this.B_kursec.BackColor = System.Drawing.Color.Transparent;
+            this.B_kursec.Location = new System.Drawing.Point(83, 4);
+            this.B_kursec.Name = "B_kursec";
+            this.B_kursec.Size = new System.Drawing.Size(57, 22);
+            this.B_kursec.TabIndex = 151;
+            this.B_kursec.Text = "შეცვლა";
+            this.B_kursec.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.B_kursec.UseVisualStyleBackColor = false;
+            this.B_kursec.Click += new System.EventHandler(this.pr_edval);
+            // 
+            // B_kurdam
+            // 
+            this.B_kurdam.BackColor = System.Drawing.Color.Transparent;
+            this.B_kurdam.Location = new System.Drawing.Point(13, 4);
+            this.B_kurdam.Name = "B_kurdam";
+            this.B_kurdam.Size = new System.Drawing.Size(69, 22);
+            this.B_kurdam.TabIndex = 150;
+            this.B_kurdam.Text = "დამატება";
+            this.B_kurdam.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.B_kurdam.UseVisualStyleBackColor = false;
+            this.B_kurdam.Click += new System.EventHandler(this.pr_addval);
+            // 
+            // DGV_kur
+            // 
+            this.DGV_kur.AllowUserToAddRows = false;
+            this.DGV_kur.AllowUserToDeleteRows = false;
+            this.DGV_kur.AllowUserToOrderColumns = true;
+            this.DGV_kur.AutoGenerateColumns = false;
+            this.DGV_kur.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DGV_kur.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.isodate,
+            this.usd,
+            this.eur,
+            this.iis});
+            this.DGV_kur.DataSource = this.BS_kur;
+            this.DGV_kur.Location = new System.Drawing.Point(13, 37);
+            this.DGV_kur.Name = "DGV_kur";
+            this.DGV_kur.ReadOnly = true;
+            this.DGV_kur.RowHeadersWidth = 25;
+            this.DGV_kur.Size = new System.Drawing.Size(317, 290);
+            this.DGV_kur.TabIndex = 148;
+            // 
+            // isodate
+            // 
+            this.isodate.DataPropertyName = "isodate";
+            this.isodate.HeaderText = "თარიღი";
+            this.isodate.MinimumWidth = 6;
+            this.isodate.Name = "isodate";
+            this.isodate.ReadOnly = true;
+            this.isodate.Width = 125;
+            // 
+            // usd
+            // 
+            this.usd.DataPropertyName = "usd";
+            this.usd.HeaderText = "USD";
+            this.usd.MinimumWidth = 6;
+            this.usd.Name = "usd";
+            this.usd.ReadOnly = true;
+            this.usd.Width = 125;
+            // 
+            // eur
+            // 
+            this.eur.DataPropertyName = "eur";
+            this.eur.HeaderText = "EUR";
+            this.eur.MinimumWidth = 6;
+            this.eur.Name = "eur";
+            this.eur.ReadOnly = true;
+            this.eur.Width = 125;
+            // 
+            // iis
+            // 
+            this.iis.DataPropertyName = "iis";
+            this.iis.HeaderText = "iis";
+            this.iis.MinimumWidth = 6;
+            this.iis.Name = "iis";
+            this.iis.ReadOnly = true;
+            this.iis.Visible = false;
+            this.iis.Width = 125;
+            // 
+            // BS_kur
+            // 
+            this.BS_kur.DataMember = "iso";
+            this.BS_kur.DataSource = this.dS_kur;
+            // 
+            // dS_kur
+            // 
+            this.dS_kur.DataSetName = "DS_kur";
+            this.dS_kur.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // B_cl_kur
+            // 
+            this.B_cl_kur.BackColor = System.Drawing.Color.White;
+            this.B_cl_kur.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_kur.Image")));
+            this.B_cl_kur.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.B_cl_kur.Location = new System.Drawing.Point(327, 0);
+            this.B_cl_kur.Name = "B_cl_kur";
+            this.B_cl_kur.Size = new System.Drawing.Size(22, 22);
+            this.B_cl_kur.TabIndex = 147;
+            this.B_cl_kur.UseVisualStyleBackColor = false;
+            this.B_cl_kur.Click += new System.EventHandler(this.pr_cl_kur);
             // 
             // TB_auqt
             // 
@@ -3419,7 +3646,7 @@
             this.CB_prepaid.Name = "CB_prepaid";
             this.CB_prepaid.Size = new System.Drawing.Size(144, 26);
             this.CB_prepaid.TabIndex = 358;
-            this.CB_prepaid.ValueMember = "prep_val";
+            this.CB_prepaid.ValueMember = "prep_val";            
             this.CB_prepaid.TextChanged += new System.EventHandler(this.pr_chno28);
             this.CB_prepaid.Leave += new System.EventHandler(this.pr_sem1);
             // 
@@ -4895,6 +5122,552 @@
             this.B_savebuy.Text = "შენახვა";
             this.B_savebuy.UseVisualStyleBackColor = true;
             this.B_savebuy.Click += new System.EventHandler(this.pr_savebuy);
+            // 
+            // Pa_rep
+            // 
+            this.Pa_rep.AutoScroll = true;
+            this.Pa_rep.BackColor = System.Drawing.Color.Silver;
+            this.Pa_rep.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pa_rep.Controls.Add(this.Pa_prc);
+            this.Pa_rep.Controls.Add(this.DGV_rep);
+            this.Pa_rep.Controls.Add(this.B_cl_rep);
+            this.Pa_rep.Controls.Add(this.Pa_w2);
+            this.Pa_rep.Location = new System.Drawing.Point(42, 253);
+            this.Pa_rep.Name = "Pa_rep";
+            this.Pa_rep.Size = new System.Drawing.Size(1209, 847);
+            this.Pa_rep.TabIndex = 159;
+            this.Pa_rep.Visible = false;
+            // 
+            // Pa_prc
+            // 
+            this.Pa_prc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Pa_prc.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pa_prc.Controls.Add(this.label158);
+            this.Pa_prc.Controls.Add(this.TB_prc);
+            this.Pa_prc.Controls.Add(this.B_save_prc);
+            this.Pa_prc.Controls.Add(this.textBox1);
+            this.Pa_prc.Controls.Add(this.B_cl_prc);
+            this.Pa_prc.Location = new System.Drawing.Point(502, 147);
+            this.Pa_prc.Name = "Pa_prc";
+            this.Pa_prc.Size = new System.Drawing.Size(170, 121);
+            this.Pa_prc.TabIndex = 167;
+            this.Pa_prc.Visible = false;
+            // 
+            // label158
+            // 
+            this.label158.AutoSize = true;
+            this.label158.BackColor = System.Drawing.Color.Gainsboro;
+            this.label158.Location = new System.Drawing.Point(64, 24);
+            this.label158.Name = "label158";
+            this.label158.Size = new System.Drawing.Size(56, 18);
+            this.label158.TabIndex = 151;
+            this.label158.Text = "SPEC %";
+            // 
+            // TB_prc
+            // 
+            this.TB_prc.Location = new System.Drawing.Point(41, 46);
+            this.TB_prc.Name = "TB_prc";
+            this.TB_prc.Size = new System.Drawing.Size(88, 26);
+            this.TB_prc.TabIndex = 150;
+            this.TB_prc.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // B_save_prc
+            // 
+            this.B_save_prc.BackColor = System.Drawing.Color.Transparent;
+            this.B_save_prc.Location = new System.Drawing.Point(36, 84);
+            this.B_save_prc.Name = "B_save_prc";
+            this.B_save_prc.Size = new System.Drawing.Size(100, 25);
+            this.B_save_prc.TabIndex = 149;
+            this.B_save_prc.Text = "დამახსოვრება";
+            this.B_save_prc.UseVisualStyleBackColor = false;
+            this.B_save_prc.Click += new System.EventHandler(this.pr_save_prc);
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Font = new System.Drawing.Font("Sylfaen", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(19, 251);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(696, 25);
+            this.textBox1.TabIndex = 146;
+            // 
+            // B_cl_prc
+            // 
+            this.B_cl_prc.BackColor = System.Drawing.Color.White;
+            this.B_cl_prc.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_prc.Image")));
+            this.B_cl_prc.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.B_cl_prc.Location = new System.Drawing.Point(146, -1);
+            this.B_cl_prc.Name = "B_cl_prc";
+            this.B_cl_prc.Size = new System.Drawing.Size(22, 22);
+            this.B_cl_prc.TabIndex = 147;
+            this.B_cl_prc.UseVisualStyleBackColor = false;
+            this.B_cl_prc.Click += new System.EventHandler(this.pr_cl_prc);
+            // 
+            // DGV_rep
+            // 
+            this.DGV_rep.AllowUserToAddRows = false;
+            this.DGV_rep.AllowUserToDeleteRows = false;
+            this.DGV_rep.AllowUserToOrderColumns = true;
+            this.DGV_rep.AutoGenerateColumns = false;
+            this.DGV_rep.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DGV_rep.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.nom_a,
+            this.stdt,
+            this.enddt,
+            this.stat_a,
+            this.owner_a,
+            this.debtor_a,
+            this.iur,
+            this.buyer_a,
+            this.auc_gel1,
+            this.auc_gel0,
+            this.sum_a,
+            this.prc_a,
+            this.auc_prc,
+            this.vat_prc,
+            this.vat_dr,
+            this.op_prc,
+            this.deb_prc,
+            this.deb_dt,
+            this.prep_a,
+            this.spec_sum,
+            this.spec_a,
+            this.auq_a,
+            this.kor_a,
+            this.amd,
+            this.form});
+            this.DGV_rep.DataSource = this.BS_rep;
+            this.DGV_rep.Location = new System.Drawing.Point(12, 42);
+            this.DGV_rep.Name = "DGV_rep";
+            this.DGV_rep.ReadOnly = true;
+            this.DGV_rep.RowHeadersWidth = 25;
+            this.DGV_rep.Size = new System.Drawing.Size(1180, 582);
+            this.DGV_rep.TabIndex = 40;
+            this.DGV_rep.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.pr_prc);
+            this.DGV_rep.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.pr_prc0);
+            this.DGV_rep.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pr_prc1);
+            // 
+            // nom_a
+            // 
+            this.nom_a.DataPropertyName = "nom_a";
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.nom_a.DefaultCellStyle = dataGridViewCellStyle1;
+            this.nom_a.Frozen = true;
+            this.nom_a.HeaderText = "Auction N";
+            this.nom_a.MinimumWidth = 6;
+            this.nom_a.Name = "nom_a";
+            this.nom_a.ReadOnly = true;
+            this.nom_a.Width = 80;
+            // 
+            // stdt
+            // 
+            this.stdt.DataPropertyName = "stdt";
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.stdt.DefaultCellStyle = dataGridViewCellStyle2;
+            this.stdt.Frozen = true;
+            this.stdt.HeaderText = "Start Date";
+            this.stdt.MinimumWidth = 6;
+            this.stdt.Name = "stdt";
+            this.stdt.ReadOnly = true;
+            this.stdt.Width = 80;
+            // 
+            // enddt
+            // 
+            this.enddt.DataPropertyName = "enddt";
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.enddt.DefaultCellStyle = dataGridViewCellStyle3;
+            this.enddt.Frozen = true;
+            this.enddt.HeaderText = "END Date";
+            this.enddt.MinimumWidth = 6;
+            this.enddt.Name = "enddt";
+            this.enddt.ReadOnly = true;
+            this.enddt.Width = 80;
+            // 
+            // stat_a
+            // 
+            this.stat_a.DataPropertyName = "stat_a";
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.stat_a.DefaultCellStyle = dataGridViewCellStyle4;
+            this.stat_a.Frozen = true;
+            this.stat_a.HeaderText = "Status";
+            this.stat_a.MinimumWidth = 6;
+            this.stat_a.Name = "stat_a";
+            this.stat_a.ReadOnly = true;
+            this.stat_a.Width = 125;
+            // 
+            // owner_a
+            // 
+            this.owner_a.DataPropertyName = "owner_a";
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.owner_a.DefaultCellStyle = dataGridViewCellStyle5;
+            this.owner_a.HeaderText = "მსესხებელი";
+            this.owner_a.MinimumWidth = 6;
+            this.owner_a.Name = "owner_a";
+            this.owner_a.ReadOnly = true;
+            this.owner_a.Width = 200;
+            // 
+            // debtor_a
+            // 
+            this.debtor_a.DataPropertyName = "debtor_a";
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.debtor_a.DefaultCellStyle = dataGridViewCellStyle6;
+            this.debtor_a.HeaderText = "კრედიტორი";
+            this.debtor_a.MinimumWidth = 6;
+            this.debtor_a.Name = "debtor_a";
+            this.debtor_a.ReadOnly = true;
+            this.debtor_a.Width = 200;
+            // 
+            // iur
+            // 
+            this.iur.DataPropertyName = "iur";
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.iur.DefaultCellStyle = dataGridViewCellStyle7;
+            this.iur.HeaderText = "იურისტი";
+            this.iur.MinimumWidth = 6;
+            this.iur.Name = "iur";
+            this.iur.ReadOnly = true;
+            this.iur.Width = 200;
+            // 
+            // buyer_a
+            // 
+            this.buyer_a.DataPropertyName = "buyer_a";
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.buyer_a.DefaultCellStyle = dataGridViewCellStyle8;
+            this.buyer_a.HeaderText = "შემძენი";
+            this.buyer_a.MinimumWidth = 6;
+            this.buyer_a.Name = "buyer_a";
+            this.buyer_a.ReadOnly = true;
+            this.buyer_a.Width = 200;
+            // 
+            // auc_gel1
+            // 
+            this.auc_gel1.DataPropertyName = "auc_gel1";
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle9.Format = "N2";
+            dataGridViewCellStyle9.NullValue = null;
+            this.auc_gel1.DefaultCellStyle = dataGridViewCellStyle9;
+            this.auc_gel1.HeaderText = "აუქციონის თანხა GEL";
+            this.auc_gel1.MinimumWidth = 6;
+            this.auc_gel1.Name = "auc_gel1";
+            this.auc_gel1.ReadOnly = true;
+            this.auc_gel1.Width = 125;
+            // 
+            // auc_gel0
+            // 
+            this.auc_gel0.DataPropertyName = "auc_gel0";
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle10.Format = "N2";
+            this.auc_gel0.DefaultCellStyle = dataGridViewCellStyle10;
+            this.auc_gel0.HeaderText = "აუქც. საწყისი ფასი";
+            this.auc_gel0.MinimumWidth = 6;
+            this.auc_gel0.Name = "auc_gel0";
+            this.auc_gel0.ReadOnly = true;
+            this.auc_gel0.Width = 125;
+            // 
+            // sum_a
+            // 
+            this.sum_a.DataPropertyName = "sum_a";
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle11.Format = "N2";
+            this.sum_a.DefaultCellStyle = dataGridViewCellStyle11;
+            this.sum_a.HeaderText = "თანხა მესაკუთრეს";
+            this.sum_a.MinimumWidth = 6;
+            this.sum_a.Name = "sum_a";
+            this.sum_a.ReadOnly = true;
+            this.sum_a.Width = 125;
+            // 
+            // prc_a
+            // 
+            this.prc_a.DataPropertyName = "prc_a";
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle12.Format = "N2";
+            this.prc_a.DefaultCellStyle = dataGridViewCellStyle12;
+            this.prc_a.HeaderText = "სპეციალისტის საზღაური";
+            this.prc_a.MinimumWidth = 6;
+            this.prc_a.Name = "prc_a";
+            this.prc_a.ReadOnly = true;
+            this.prc_a.Width = 125;
+            // 
+            // auc_prc
+            // 
+            this.auc_prc.DataPropertyName = "auc_prc";
+            dataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle13.Format = "N2";
+            this.auc_prc.DefaultCellStyle = dataGridViewCellStyle13;
+            this.auc_prc.HeaderText = "eAuction თანხა";
+            this.auc_prc.MinimumWidth = 6;
+            this.auc_prc.Name = "auc_prc";
+            this.auc_prc.ReadOnly = true;
+            this.auc_prc.Width = 125;
+            // 
+            // vat_prc
+            // 
+            this.vat_prc.DataPropertyName = "vat_prc";
+            dataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle14.Format = "N2";
+            this.vat_prc.DefaultCellStyle = dataGridViewCellStyle14;
+            this.vat_prc.HeaderText = "VAT თანხა";
+            this.vat_prc.MinimumWidth = 6;
+            this.vat_prc.Name = "vat_prc";
+            this.vat_prc.ReadOnly = true;
+            this.vat_prc.Width = 125;
+            // 
+            // vat_dr
+            // 
+            this.vat_dr.DataPropertyName = "vat_dr";
+            dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.vat_dr.DefaultCellStyle = dataGridViewCellStyle15;
+            this.vat_dr.HeaderText = "VAT თარიღი";
+            this.vat_dr.MinimumWidth = 6;
+            this.vat_dr.Name = "vat_dr";
+            this.vat_dr.ReadOnly = true;
+            this.vat_dr.Width = 80;
+            // 
+            // op_prc
+            // 
+            this.op_prc.DataPropertyName = "op_prc";
+            dataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle16.Format = "N2";
+            this.op_prc.DefaultCellStyle = dataGridViewCellStyle16;
+            this.op_prc.HeaderText = "ღია საზღაური";
+            this.op_prc.MinimumWidth = 6;
+            this.op_prc.Name = "op_prc";
+            this.op_prc.ReadOnly = true;
+            this.op_prc.Width = 125;
+            // 
+            // deb_prc
+            // 
+            this.deb_prc.DataPropertyName = "deb_prc";
+            dataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle17.Format = "N2";
+            this.deb_prc.DefaultCellStyle = dataGridViewCellStyle17;
+            this.deb_prc.HeaderText = "კრედიტორის თანხა";
+            this.deb_prc.MinimumWidth = 6;
+            this.deb_prc.Name = "deb_prc";
+            this.deb_prc.ReadOnly = true;
+            this.deb_prc.Width = 125;
+            // 
+            // deb_dt
+            // 
+            this.deb_dt.DataPropertyName = "deb_dt";
+            dataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
+            this.deb_dt.DefaultCellStyle = dataGridViewCellStyle18;
+            this.deb_dt.HeaderText = "კრედიტორის თარიღი";
+            this.deb_dt.MinimumWidth = 6;
+            this.deb_dt.Name = "deb_dt";
+            this.deb_dt.ReadOnly = true;
+            this.deb_dt.Width = 80;
+            // 
+            // prep_a
+            // 
+            this.prep_a.DataPropertyName = "prep_a";
+            dataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle19.Format = "N2";
+            this.prep_a.DefaultCellStyle = dataGridViewCellStyle19;
+            this.prep_a.HeaderText = "ავანსი";
+            this.prep_a.MinimumWidth = 6;
+            this.prep_a.Name = "prep_a";
+            this.prep_a.ReadOnly = true;
+            this.prep_a.Width = 125;
+            // 
+            // spec_sum
+            // 
+            this.spec_sum.DataPropertyName = "spec_sum";
+            dataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle20.Format = "N2";
+            this.spec_sum.DefaultCellStyle = dataGridViewCellStyle20;
+            this.spec_sum.HeaderText = "სპეციალისტის შემოსავალი";
+            this.spec_sum.MinimumWidth = 6;
+            this.spec_sum.Name = "spec_sum";
+            this.spec_sum.ReadOnly = true;
+            this.spec_sum.Width = 125;
+            // 
+            // spec_a
+            // 
+            this.spec_a.DataPropertyName = "spec_a";
+            dataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle21.Format = "N2";
+            this.spec_a.DefaultCellStyle = dataGridViewCellStyle21;
+            this.spec_a.HeaderText = "SPEC %";
+            this.spec_a.MinimumWidth = 6;
+            this.spec_a.Name = "spec_a";
+            this.spec_a.ReadOnly = true;
+            this.spec_a.Width = 125;
+            // 
+            // auq_a
+            // 
+            this.auq_a.DataPropertyName = "auq_a";
+            dataGridViewCellStyle22.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            this.auq_a.DefaultCellStyle = dataGridViewCellStyle22;
+            this.auq_a.HeaderText = "Auction %";
+            this.auq_a.MinimumWidth = 6;
+            this.auq_a.Name = "auq_a";
+            this.auq_a.ReadOnly = true;
+            this.auq_a.Width = 80;
+            // 
+            // kor_a
+            // 
+            this.kor_a.DataPropertyName = "kor_a";
+            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle23.Format = "N2";
+            this.kor_a.DefaultCellStyle = dataGridViewCellStyle23;
+            this.kor_a.HeaderText = "KORECTOR";
+            this.kor_a.MinimumWidth = 6;
+            this.kor_a.Name = "kor_a";
+            this.kor_a.ReadOnly = true;
+            this.kor_a.Width = 125;
+            // 
+            // amd
+            // 
+            this.amd.DataPropertyName = "amd";
+            dataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle24.Format = "N2";
+            this.amd.DefaultCellStyle = dataGridViewCellStyle24;
+            this.amd.HeaderText = "AMD";
+            this.amd.MinimumWidth = 6;
+            this.amd.Name = "amd";
+            this.amd.ReadOnly = true;
+            this.amd.Width = 125;
+            // 
+            // form
+            // 
+            this.form.DataPropertyName = "form";
+            dataGridViewCellStyle25.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
+            dataGridViewCellStyle25.Format = "N2";
+            this.form.DefaultCellStyle = dataGridViewCellStyle25;
+            this.form.HeaderText = "თანხა ფორმ. მიხ.";
+            this.form.MinimumWidth = 6;
+            this.form.Name = "form";
+            this.form.ReadOnly = true;
+            this.form.Width = 125;
+            // 
+            // BS_rep
+            // 
+            this.BS_rep.DataMember = "acc";
+            this.BS_rep.DataSource = this.dS_rep;
+            // 
+            // dS_rep
+            // 
+            this.dS_rep.DataSetName = "DS_rep";
+            this.dS_rep.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // B_cl_rep
+            // 
+            this.B_cl_rep.BackColor = System.Drawing.Color.White;
+            this.B_cl_rep.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_rep.Image")));
+            this.B_cl_rep.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.B_cl_rep.Location = new System.Drawing.Point(1180, -1);
+            this.B_cl_rep.Name = "B_cl_rep";
+            this.B_cl_rep.Size = new System.Drawing.Size(22, 24);
+            this.B_cl_rep.TabIndex = 7;
+            this.B_cl_rep.UseVisualStyleBackColor = false;
+            this.B_cl_rep.Click += new System.EventHandler(this.pr_cl_rep);
+            // 
+            // Pa_w2
+            // 
+            this.Pa_w2.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.Pa_w2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pa_w2.Controls.Add(this.B_d16);
+            this.Pa_w2.Controls.Add(this.label136);
+            this.Pa_w2.Controls.Add(this.TP_rep_do);
+            this.Pa_w2.Controls.Add(this.label135);
+            this.Pa_w2.Controls.Add(this.TP_rep_ot);
+            this.Pa_w2.Controls.Add(this.label139);
+            this.Pa_w2.Controls.Add(this.B_exprep);
+            this.Pa_w2.Controls.Add(this.B_refrep);
+            this.Pa_w2.Location = new System.Drawing.Point(12, 9);
+            this.Pa_w2.Name = "Pa_w2";
+            this.Pa_w2.Size = new System.Drawing.Size(1168, 33);
+            this.Pa_w2.TabIndex = 39;
+            // 
+            // B_d16
+            // 
+            this.B_d16.Location = new System.Drawing.Point(565, 4);
+            this.B_d16.Name = "B_d16";
+            this.B_d16.Size = new System.Drawing.Size(37, 25);
+            this.B_d16.TabIndex = 218;
+            this.B_d16.Text = "D16";
+            this.B_d16.UseVisualStyleBackColor = true;
+            this.B_d16.Click += new System.EventHandler(this.pr_d16);
+            // 
+            // label136
+            // 
+            this.label136.AutoSize = true;
+            this.label136.Location = new System.Drawing.Point(500, 9);
+            this.label136.Name = "label136";
+            this.label136.Size = new System.Drawing.Size(43, 18);
+            this.label136.TabIndex = 166;
+            this.label136.Text = "- მდე";
+            // 
+            // TP_rep_do
+            // 
+            this.TP_rep_do.Font = new System.Drawing.Font("Sylfaen", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TP_rep_do.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.TP_rep_do.Location = new System.Drawing.Point(403, 3);
+            this.TP_rep_do.Name = "TP_rep_do";
+            this.TP_rep_do.Size = new System.Drawing.Size(95, 29);
+            this.TP_rep_do.TabIndex = 165;
+            this.TP_rep_do.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
+            // 
+            // label135
+            // 
+            this.label135.AutoSize = true;
+            this.label135.Location = new System.Drawing.Point(353, 9);
+            this.label135.Name = "label135";
+            this.label135.Size = new System.Drawing.Size(42, 18);
+            this.label135.TabIndex = 164;
+            this.label135.Text = "- დან";
+            // 
+            // TP_rep_ot
+            // 
+            this.TP_rep_ot.Font = new System.Drawing.Font("Sylfaen", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TP_rep_ot.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.TP_rep_ot.Location = new System.Drawing.Point(257, 3);
+            this.TP_rep_ot.Name = "TP_rep_ot";
+            this.TP_rep_ot.Size = new System.Drawing.Size(95, 29);
+            this.TP_rep_ot.TabIndex = 163;
+            this.TP_rep_ot.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
+            // 
+            // label139
+            // 
+            this.label139.AutoSize = true;
+            this.label139.Location = new System.Drawing.Point(185, 9);
+            this.label139.Name = "label139";
+            this.label139.Size = new System.Drawing.Size(73, 18);
+            this.label139.TabIndex = 162;
+            this.label139.Text = "თარიღი - ";
+            // 
+            // B_exprep
+            // 
+            this.B_exprep.BackColor = System.Drawing.SystemColors.Control;
+            this.B_exprep.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.B_exprep.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.B_exprep.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.B_exprep.Image = ((System.Drawing.Image)(resources.GetObject("B_exprep.Image")));
+            this.B_exprep.Location = new System.Drawing.Point(5, 1);
+            this.B_exprep.Name = "B_exprep";
+            this.B_exprep.Size = new System.Drawing.Size(28, 28);
+            this.B_exprep.TabIndex = 7;
+            this.B_exprep.UseVisualStyleBackColor = false;
+            this.B_exprep.Click += new System.EventHandler(this.pr_exprep);
+            this.B_exprep.MouseHover += new System.EventHandler(this.pr_hexprep);
+            // 
+            // B_refrep
+            // 
+            this.B_refrep.BackColor = System.Drawing.SystemColors.Control;
+            this.B_refrep.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.B_refrep.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.B_refrep.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.B_refrep.Image = ((System.Drawing.Image)(resources.GetObject("B_refrep.Image")));
+            this.B_refrep.Location = new System.Drawing.Point(33, 1);
+            this.B_refrep.Name = "B_refrep";
+            this.B_refrep.Size = new System.Drawing.Size(28, 28);
+            this.B_refrep.TabIndex = 22;
+            this.B_refrep.UseVisualStyleBackColor = false;
+            this.B_refrep.Click += new System.EventHandler(this.pr_refrep);
+            this.B_refrep.MouseHover += new System.EventHandler(this.pr_hrefrep);
             // 
             // Pa_pdf
             // 
@@ -7901,552 +8674,6 @@
             this.OFD.Filter = "Excel files|*.xls;*.xlsx";
             this.OFD.FileOk += new System.ComponentModel.CancelEventHandler(this.pr_file);
             // 
-            // Pa_rep
-            // 
-            this.Pa_rep.AutoScroll = true;
-            this.Pa_rep.BackColor = System.Drawing.Color.Silver;
-            this.Pa_rep.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Pa_rep.Controls.Add(this.Pa_prc);
-            this.Pa_rep.Controls.Add(this.DGV_rep);
-            this.Pa_rep.Controls.Add(this.B_cl_rep);
-            this.Pa_rep.Controls.Add(this.Pa_w2);
-            this.Pa_rep.Location = new System.Drawing.Point(42, 253);
-            this.Pa_rep.Name = "Pa_rep";
-            this.Pa_rep.Size = new System.Drawing.Size(1209, 847);
-            this.Pa_rep.TabIndex = 159;
-            this.Pa_rep.Visible = false;
-            // 
-            // Pa_prc
-            // 
-            this.Pa_prc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.Pa_prc.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Pa_prc.Controls.Add(this.label158);
-            this.Pa_prc.Controls.Add(this.TB_prc);
-            this.Pa_prc.Controls.Add(this.B_save_prc);
-            this.Pa_prc.Controls.Add(this.textBox1);
-            this.Pa_prc.Controls.Add(this.B_cl_prc);
-            this.Pa_prc.Location = new System.Drawing.Point(502, 147);
-            this.Pa_prc.Name = "Pa_prc";
-            this.Pa_prc.Size = new System.Drawing.Size(170, 121);
-            this.Pa_prc.TabIndex = 167;
-            this.Pa_prc.Visible = false;
-            // 
-            // label158
-            // 
-            this.label158.AutoSize = true;
-            this.label158.BackColor = System.Drawing.Color.Gainsboro;
-            this.label158.Location = new System.Drawing.Point(64, 24);
-            this.label158.Name = "label158";
-            this.label158.Size = new System.Drawing.Size(56, 18);
-            this.label158.TabIndex = 151;
-            this.label158.Text = "SPEC %";
-            // 
-            // TB_prc
-            // 
-            this.TB_prc.Location = new System.Drawing.Point(41, 46);
-            this.TB_prc.Name = "TB_prc";
-            this.TB_prc.Size = new System.Drawing.Size(88, 26);
-            this.TB_prc.TabIndex = 150;
-            this.TB_prc.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // B_save_prc
-            // 
-            this.B_save_prc.BackColor = System.Drawing.Color.Transparent;
-            this.B_save_prc.Location = new System.Drawing.Point(36, 84);
-            this.B_save_prc.Name = "B_save_prc";
-            this.B_save_prc.Size = new System.Drawing.Size(100, 25);
-            this.B_save_prc.TabIndex = 149;
-            this.B_save_prc.Text = "დამახსოვრება";
-            this.B_save_prc.UseVisualStyleBackColor = false;
-            this.B_save_prc.Click += new System.EventHandler(this.pr_save_prc);
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Sylfaen", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(19, 251);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(696, 25);
-            this.textBox1.TabIndex = 146;
-            // 
-            // B_cl_prc
-            // 
-            this.B_cl_prc.BackColor = System.Drawing.Color.White;
-            this.B_cl_prc.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_prc.Image")));
-            this.B_cl_prc.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.B_cl_prc.Location = new System.Drawing.Point(146, -1);
-            this.B_cl_prc.Name = "B_cl_prc";
-            this.B_cl_prc.Size = new System.Drawing.Size(22, 22);
-            this.B_cl_prc.TabIndex = 147;
-            this.B_cl_prc.UseVisualStyleBackColor = false;
-            this.B_cl_prc.Click += new System.EventHandler(this.pr_cl_prc);
-            // 
-            // DGV_rep
-            // 
-            this.DGV_rep.AllowUserToAddRows = false;
-            this.DGV_rep.AllowUserToDeleteRows = false;
-            this.DGV_rep.AllowUserToOrderColumns = true;
-            this.DGV_rep.AutoGenerateColumns = false;
-            this.DGV_rep.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_rep.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.nom_a,
-            this.stdt,
-            this.enddt,
-            this.stat_a,
-            this.owner_a,
-            this.debtor_a,
-            this.iur,
-            this.buyer_a,
-            this.auc_gel1,
-            this.auc_gel0,
-            this.sum_a,
-            this.prc_a,
-            this.auc_prc,
-            this.vat_prc,
-            this.vat_dr,
-            this.op_prc,
-            this.deb_prc,
-            this.deb_dt,
-            this.prep_a,
-            this.spec_sum,
-            this.spec_a,
-            this.auq_a,
-            this.kor_a,
-            this.amd,
-            this.form});
-            this.DGV_rep.DataSource = this.BS_rep;
-            this.DGV_rep.Location = new System.Drawing.Point(12, 42);
-            this.DGV_rep.Name = "DGV_rep";
-            this.DGV_rep.ReadOnly = true;
-            this.DGV_rep.RowHeadersWidth = 25;
-            this.DGV_rep.Size = new System.Drawing.Size(1180, 582);
-            this.DGV_rep.TabIndex = 40;
-            this.DGV_rep.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.pr_prc);
-            this.DGV_rep.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.pr_prc0);
-            this.DGV_rep.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pr_prc1);
-            // 
-            // nom_a
-            // 
-            this.nom_a.DataPropertyName = "nom_a";
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.nom_a.DefaultCellStyle = dataGridViewCellStyle1;
-            this.nom_a.Frozen = true;
-            this.nom_a.HeaderText = "Auction N";
-            this.nom_a.MinimumWidth = 6;
-            this.nom_a.Name = "nom_a";
-            this.nom_a.ReadOnly = true;
-            this.nom_a.Width = 80;
-            // 
-            // stdt
-            // 
-            this.stdt.DataPropertyName = "stdt";
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.stdt.DefaultCellStyle = dataGridViewCellStyle2;
-            this.stdt.Frozen = true;
-            this.stdt.HeaderText = "Start Date";
-            this.stdt.MinimumWidth = 6;
-            this.stdt.Name = "stdt";
-            this.stdt.ReadOnly = true;
-            this.stdt.Width = 80;
-            // 
-            // enddt
-            // 
-            this.enddt.DataPropertyName = "enddt";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.enddt.DefaultCellStyle = dataGridViewCellStyle3;
-            this.enddt.Frozen = true;
-            this.enddt.HeaderText = "END Date";
-            this.enddt.MinimumWidth = 6;
-            this.enddt.Name = "enddt";
-            this.enddt.ReadOnly = true;
-            this.enddt.Width = 80;
-            // 
-            // stat_a
-            // 
-            this.stat_a.DataPropertyName = "stat_a";
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.stat_a.DefaultCellStyle = dataGridViewCellStyle4;
-            this.stat_a.Frozen = true;
-            this.stat_a.HeaderText = "Status";
-            this.stat_a.MinimumWidth = 6;
-            this.stat_a.Name = "stat_a";
-            this.stat_a.ReadOnly = true;
-            this.stat_a.Width = 125;
-            // 
-            // owner_a
-            // 
-            this.owner_a.DataPropertyName = "owner_a";
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.owner_a.DefaultCellStyle = dataGridViewCellStyle5;
-            this.owner_a.HeaderText = "მსესხებელი";
-            this.owner_a.MinimumWidth = 6;
-            this.owner_a.Name = "owner_a";
-            this.owner_a.ReadOnly = true;
-            this.owner_a.Width = 200;
-            // 
-            // debtor_a
-            // 
-            this.debtor_a.DataPropertyName = "debtor_a";
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.debtor_a.DefaultCellStyle = dataGridViewCellStyle6;
-            this.debtor_a.HeaderText = "კრედიტორი";
-            this.debtor_a.MinimumWidth = 6;
-            this.debtor_a.Name = "debtor_a";
-            this.debtor_a.ReadOnly = true;
-            this.debtor_a.Width = 200;
-            // 
-            // iur
-            // 
-            this.iur.DataPropertyName = "iur";
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.iur.DefaultCellStyle = dataGridViewCellStyle7;
-            this.iur.HeaderText = "იურისტი";
-            this.iur.MinimumWidth = 6;
-            this.iur.Name = "iur";
-            this.iur.ReadOnly = true;
-            this.iur.Width = 200;
-            // 
-            // buyer_a
-            // 
-            this.buyer_a.DataPropertyName = "buyer_a";
-            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.buyer_a.DefaultCellStyle = dataGridViewCellStyle8;
-            this.buyer_a.HeaderText = "შემძენი";
-            this.buyer_a.MinimumWidth = 6;
-            this.buyer_a.Name = "buyer_a";
-            this.buyer_a.ReadOnly = true;
-            this.buyer_a.Width = 200;
-            // 
-            // auc_gel1
-            // 
-            this.auc_gel1.DataPropertyName = "auc_gel1";
-            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle9.Format = "N2";
-            dataGridViewCellStyle9.NullValue = null;
-            this.auc_gel1.DefaultCellStyle = dataGridViewCellStyle9;
-            this.auc_gel1.HeaderText = "აუქციონის თანხა GEL";
-            this.auc_gel1.MinimumWidth = 6;
-            this.auc_gel1.Name = "auc_gel1";
-            this.auc_gel1.ReadOnly = true;
-            this.auc_gel1.Width = 125;
-            // 
-            // auc_gel0
-            // 
-            this.auc_gel0.DataPropertyName = "auc_gel0";
-            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle10.Format = "N2";
-            this.auc_gel0.DefaultCellStyle = dataGridViewCellStyle10;
-            this.auc_gel0.HeaderText = "აუქც. საწყისი ფასი";
-            this.auc_gel0.MinimumWidth = 6;
-            this.auc_gel0.Name = "auc_gel0";
-            this.auc_gel0.ReadOnly = true;
-            this.auc_gel0.Width = 125;
-            // 
-            // sum_a
-            // 
-            this.sum_a.DataPropertyName = "sum_a";
-            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle11.Format = "N2";
-            this.sum_a.DefaultCellStyle = dataGridViewCellStyle11;
-            this.sum_a.HeaderText = "თანხა მესაკუთრეს";
-            this.sum_a.MinimumWidth = 6;
-            this.sum_a.Name = "sum_a";
-            this.sum_a.ReadOnly = true;
-            this.sum_a.Width = 125;
-            // 
-            // prc_a
-            // 
-            this.prc_a.DataPropertyName = "prc_a";
-            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle12.Format = "N2";
-            this.prc_a.DefaultCellStyle = dataGridViewCellStyle12;
-            this.prc_a.HeaderText = "სპეციალისტის საზღაური";
-            this.prc_a.MinimumWidth = 6;
-            this.prc_a.Name = "prc_a";
-            this.prc_a.ReadOnly = true;
-            this.prc_a.Width = 125;
-            // 
-            // auc_prc
-            // 
-            this.auc_prc.DataPropertyName = "auc_prc";
-            dataGridViewCellStyle13.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle13.Format = "N2";
-            this.auc_prc.DefaultCellStyle = dataGridViewCellStyle13;
-            this.auc_prc.HeaderText = "eAuction თანხა";
-            this.auc_prc.MinimumWidth = 6;
-            this.auc_prc.Name = "auc_prc";
-            this.auc_prc.ReadOnly = true;
-            this.auc_prc.Width = 125;
-            // 
-            // vat_prc
-            // 
-            this.vat_prc.DataPropertyName = "vat_prc";
-            dataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle14.Format = "N2";
-            this.vat_prc.DefaultCellStyle = dataGridViewCellStyle14;
-            this.vat_prc.HeaderText = "VAT თანხა";
-            this.vat_prc.MinimumWidth = 6;
-            this.vat_prc.Name = "vat_prc";
-            this.vat_prc.ReadOnly = true;
-            this.vat_prc.Width = 125;
-            // 
-            // vat_dr
-            // 
-            this.vat_dr.DataPropertyName = "vat_dr";
-            dataGridViewCellStyle15.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.vat_dr.DefaultCellStyle = dataGridViewCellStyle15;
-            this.vat_dr.HeaderText = "VAT თარიღი";
-            this.vat_dr.MinimumWidth = 6;
-            this.vat_dr.Name = "vat_dr";
-            this.vat_dr.ReadOnly = true;
-            this.vat_dr.Width = 80;
-            // 
-            // op_prc
-            // 
-            this.op_prc.DataPropertyName = "op_prc";
-            dataGridViewCellStyle16.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle16.Format = "N2";
-            this.op_prc.DefaultCellStyle = dataGridViewCellStyle16;
-            this.op_prc.HeaderText = "ღია საზღაური";
-            this.op_prc.MinimumWidth = 6;
-            this.op_prc.Name = "op_prc";
-            this.op_prc.ReadOnly = true;
-            this.op_prc.Width = 125;
-            // 
-            // deb_prc
-            // 
-            this.deb_prc.DataPropertyName = "deb_prc";
-            dataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle17.Format = "N2";
-            this.deb_prc.DefaultCellStyle = dataGridViewCellStyle17;
-            this.deb_prc.HeaderText = "კრედიტორის თანხა";
-            this.deb_prc.MinimumWidth = 6;
-            this.deb_prc.Name = "deb_prc";
-            this.deb_prc.ReadOnly = true;
-            this.deb_prc.Width = 125;
-            // 
-            // deb_dt
-            // 
-            this.deb_dt.DataPropertyName = "deb_dt";
-            dataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopCenter;
-            this.deb_dt.DefaultCellStyle = dataGridViewCellStyle18;
-            this.deb_dt.HeaderText = "კრედიტორის თარიღი";
-            this.deb_dt.MinimumWidth = 6;
-            this.deb_dt.Name = "deb_dt";
-            this.deb_dt.ReadOnly = true;
-            this.deb_dt.Width = 80;
-            // 
-            // prep_a
-            // 
-            this.prep_a.DataPropertyName = "prep_a";
-            dataGridViewCellStyle19.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle19.Format = "N2";
-            this.prep_a.DefaultCellStyle = dataGridViewCellStyle19;
-            this.prep_a.HeaderText = "ავანსი";
-            this.prep_a.MinimumWidth = 6;
-            this.prep_a.Name = "prep_a";
-            this.prep_a.ReadOnly = true;
-            this.prep_a.Width = 125;
-            // 
-            // spec_sum
-            // 
-            this.spec_sum.DataPropertyName = "spec_sum";
-            dataGridViewCellStyle20.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle20.Format = "N2";
-            this.spec_sum.DefaultCellStyle = dataGridViewCellStyle20;
-            this.spec_sum.HeaderText = "სპეციალისტის შემოსავალი";
-            this.spec_sum.MinimumWidth = 6;
-            this.spec_sum.Name = "spec_sum";
-            this.spec_sum.ReadOnly = true;
-            this.spec_sum.Width = 125;
-            // 
-            // spec_a
-            // 
-            this.spec_a.DataPropertyName = "spec_a";
-            dataGridViewCellStyle21.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle21.Format = "N2";
-            this.spec_a.DefaultCellStyle = dataGridViewCellStyle21;
-            this.spec_a.HeaderText = "SPEC %";
-            this.spec_a.MinimumWidth = 6;
-            this.spec_a.Name = "spec_a";
-            this.spec_a.ReadOnly = true;
-            this.spec_a.Width = 125;
-            // 
-            // auq_a
-            // 
-            this.auq_a.DataPropertyName = "auq_a";
-            dataGridViewCellStyle22.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            this.auq_a.DefaultCellStyle = dataGridViewCellStyle22;
-            this.auq_a.HeaderText = "Auction %";
-            this.auq_a.MinimumWidth = 6;
-            this.auq_a.Name = "auq_a";
-            this.auq_a.ReadOnly = true;
-            this.auq_a.Width = 80;
-            // 
-            // kor_a
-            // 
-            this.kor_a.DataPropertyName = "kor_a";
-            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle23.Format = "N2";
-            this.kor_a.DefaultCellStyle = dataGridViewCellStyle23;
-            this.kor_a.HeaderText = "KORECTOR";
-            this.kor_a.MinimumWidth = 6;
-            this.kor_a.Name = "kor_a";
-            this.kor_a.ReadOnly = true;
-            this.kor_a.Width = 125;
-            // 
-            // amd
-            // 
-            this.amd.DataPropertyName = "amd";
-            dataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle24.Format = "N2";
-            this.amd.DefaultCellStyle = dataGridViewCellStyle24;
-            this.amd.HeaderText = "AMD";
-            this.amd.MinimumWidth = 6;
-            this.amd.Name = "amd";
-            this.amd.ReadOnly = true;
-            this.amd.Width = 125;
-            // 
-            // form
-            // 
-            this.form.DataPropertyName = "form";
-            dataGridViewCellStyle25.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopRight;
-            dataGridViewCellStyle25.Format = "N2";
-            this.form.DefaultCellStyle = dataGridViewCellStyle25;
-            this.form.HeaderText = "თანხა ფორმ. მიხ.";
-            this.form.MinimumWidth = 6;
-            this.form.Name = "form";
-            this.form.ReadOnly = true;
-            this.form.Width = 125;
-            // 
-            // BS_rep
-            // 
-            this.BS_rep.DataMember = "acc";
-            this.BS_rep.DataSource = this.dS_rep;
-            // 
-            // dS_rep
-            // 
-            this.dS_rep.DataSetName = "DS_rep";
-            this.dS_rep.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // B_cl_rep
-            // 
-            this.B_cl_rep.BackColor = System.Drawing.Color.White;
-            this.B_cl_rep.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_rep.Image")));
-            this.B_cl_rep.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.B_cl_rep.Location = new System.Drawing.Point(1180, -1);
-            this.B_cl_rep.Name = "B_cl_rep";
-            this.B_cl_rep.Size = new System.Drawing.Size(22, 24);
-            this.B_cl_rep.TabIndex = 7;
-            this.B_cl_rep.UseVisualStyleBackColor = false;
-            this.B_cl_rep.Click += new System.EventHandler(this.pr_cl_rep);
-            // 
-            // Pa_w2
-            // 
-            this.Pa_w2.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            this.Pa_w2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Pa_w2.Controls.Add(this.B_d16);
-            this.Pa_w2.Controls.Add(this.label136);
-            this.Pa_w2.Controls.Add(this.TP_rep_do);
-            this.Pa_w2.Controls.Add(this.label135);
-            this.Pa_w2.Controls.Add(this.TP_rep_ot);
-            this.Pa_w2.Controls.Add(this.label139);
-            this.Pa_w2.Controls.Add(this.B_exprep);
-            this.Pa_w2.Controls.Add(this.B_refrep);
-            this.Pa_w2.Location = new System.Drawing.Point(12, 9);
-            this.Pa_w2.Name = "Pa_w2";
-            this.Pa_w2.Size = new System.Drawing.Size(1168, 33);
-            this.Pa_w2.TabIndex = 39;
-            // 
-            // B_d16
-            // 
-            this.B_d16.Location = new System.Drawing.Point(565, 4);
-            this.B_d16.Name = "B_d16";
-            this.B_d16.Size = new System.Drawing.Size(37, 25);
-            this.B_d16.TabIndex = 218;
-            this.B_d16.Text = "D16";
-            this.B_d16.UseVisualStyleBackColor = true;
-            this.B_d16.Click += new System.EventHandler(this.pr_d16);
-            // 
-            // label136
-            // 
-            this.label136.AutoSize = true;
-            this.label136.Location = new System.Drawing.Point(500, 9);
-            this.label136.Name = "label136";
-            this.label136.Size = new System.Drawing.Size(43, 18);
-            this.label136.TabIndex = 166;
-            this.label136.Text = "- მდე";
-            // 
-            // TP_rep_do
-            // 
-            this.TP_rep_do.Font = new System.Drawing.Font("Sylfaen", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TP_rep_do.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.TP_rep_do.Location = new System.Drawing.Point(403, 3);
-            this.TP_rep_do.Name = "TP_rep_do";
-            this.TP_rep_do.Size = new System.Drawing.Size(95, 29);
-            this.TP_rep_do.TabIndex = 165;
-            this.TP_rep_do.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
-            // 
-            // label135
-            // 
-            this.label135.AutoSize = true;
-            this.label135.Location = new System.Drawing.Point(353, 9);
-            this.label135.Name = "label135";
-            this.label135.Size = new System.Drawing.Size(42, 18);
-            this.label135.TabIndex = 164;
-            this.label135.Text = "- დან";
-            // 
-            // TP_rep_ot
-            // 
-            this.TP_rep_ot.Font = new System.Drawing.Font("Sylfaen", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TP_rep_ot.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.TP_rep_ot.Location = new System.Drawing.Point(257, 3);
-            this.TP_rep_ot.Name = "TP_rep_ot";
-            this.TP_rep_ot.Size = new System.Drawing.Size(95, 29);
-            this.TP_rep_ot.TabIndex = 163;
-            this.TP_rep_ot.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
-            // 
-            // label139
-            // 
-            this.label139.AutoSize = true;
-            this.label139.Location = new System.Drawing.Point(185, 9);
-            this.label139.Name = "label139";
-            this.label139.Size = new System.Drawing.Size(73, 18);
-            this.label139.TabIndex = 162;
-            this.label139.Text = "თარიღი - ";
-            // 
-            // B_exprep
-            // 
-            this.B_exprep.BackColor = System.Drawing.SystemColors.Control;
-            this.B_exprep.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.B_exprep.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.B_exprep.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B_exprep.Image = ((System.Drawing.Image)(resources.GetObject("B_exprep.Image")));
-            this.B_exprep.Location = new System.Drawing.Point(5, 1);
-            this.B_exprep.Name = "B_exprep";
-            this.B_exprep.Size = new System.Drawing.Size(28, 28);
-            this.B_exprep.TabIndex = 7;
-            this.B_exprep.UseVisualStyleBackColor = false;
-            this.B_exprep.Click += new System.EventHandler(this.pr_exprep);
-            this.B_exprep.MouseHover += new System.EventHandler(this.pr_hexprep);
-            // 
-            // B_refrep
-            // 
-            this.B_refrep.BackColor = System.Drawing.SystemColors.Control;
-            this.B_refrep.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.B_refrep.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
-            this.B_refrep.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.B_refrep.Image = ((System.Drawing.Image)(resources.GetObject("B_refrep.Image")));
-            this.B_refrep.Location = new System.Drawing.Point(33, 1);
-            this.B_refrep.Name = "B_refrep";
-            this.B_refrep.Size = new System.Drawing.Size(28, 28);
-            this.B_refrep.TabIndex = 22;
-            this.B_refrep.UseVisualStyleBackColor = false;
-            this.B_refrep.Click += new System.EventHandler(this.pr_refrep);
-            this.B_refrep.MouseHover += new System.EventHandler(this.pr_hrefrep);
-            // 
             // TA_rep
             // 
             this.TA_rep.ClearBeforeFill = true;
@@ -8687,233 +8914,6 @@
             // 
             this.TA_auqt.ClearBeforeFill = true;
             // 
-            // Pa_kur
-            // 
-            this.Pa_kur.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.Pa_kur.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Pa_kur.Controls.Add(this.Pa_valu);
-            this.Pa_kur.Controls.Add(this.B_kurdel);
-            this.Pa_kur.Controls.Add(this.B_kursec);
-            this.Pa_kur.Controls.Add(this.B_kurdam);
-            this.Pa_kur.Controls.Add(this.DGV_kur);
-            this.Pa_kur.Controls.Add(this.B_cl_kur);
-            this.Pa_kur.Location = new System.Drawing.Point(444, 193);
-            this.Pa_kur.Name = "Pa_kur";
-            this.Pa_kur.Size = new System.Drawing.Size(350, 346);
-            this.Pa_kur.TabIndex = 161;
-            this.Pa_kur.Visible = false;
-            // 
-            // Pa_valu
-            // 
-            this.Pa_valu.BackColor = System.Drawing.Color.Silver;
-            this.Pa_valu.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Pa_valu.Controls.Add(this.TB_tarval);
-            this.Pa_valu.Controls.Add(this.label155);
-            this.Pa_valu.Controls.Add(this.label156);
-            this.Pa_valu.Controls.Add(this.TB_eurval);
-            this.Pa_valu.Controls.Add(this.TB_usdval);
-            this.Pa_valu.Controls.Add(this.label157);
-            this.Pa_valu.Controls.Add(this.B_senval);
-            this.Pa_valu.Controls.Add(this.B_cl_val);
-            this.Pa_valu.Location = new System.Drawing.Point(61, 79);
-            this.Pa_valu.Name = "Pa_valu";
-            this.Pa_valu.Size = new System.Drawing.Size(217, 182);
-            this.Pa_valu.TabIndex = 153;
-            this.Pa_valu.Visible = false;
-            // 
-            // TB_tarval
-            // 
-            this.TB_tarval.Font = new System.Drawing.Font("Sylfaen", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TB_tarval.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.TB_tarval.Location = new System.Drawing.Point(81, 14);
-            this.TB_tarval.Name = "TB_tarval";
-            this.TB_tarval.Size = new System.Drawing.Size(95, 29);
-            this.TB_tarval.TabIndex = 157;
-            this.TB_tarval.Value = new System.DateTime(2017, 3, 3, 0, 0, 0, 0);
-            // 
-            // label155
-            // 
-            this.label155.AutoSize = true;
-            this.label155.BackColor = System.Drawing.Color.Gainsboro;
-            this.label155.Location = new System.Drawing.Point(16, 19);
-            this.label155.Name = "label155";
-            this.label155.Size = new System.Drawing.Size(69, 18);
-            this.label155.TabIndex = 53;
-            this.label155.Text = "თარიღი -";
-            // 
-            // label156
-            // 
-            this.label156.AutoSize = true;
-            this.label156.BackColor = System.Drawing.Color.Gainsboro;
-            this.label156.Location = new System.Drawing.Point(39, 71);
-            this.label156.Name = "label156";
-            this.label156.Size = new System.Drawing.Size(45, 18);
-            this.label156.TabIndex = 52;
-            this.label156.Text = "EUR -";
-            // 
-            // TB_eurval
-            // 
-            this.TB_eurval.Location = new System.Drawing.Point(81, 71);
-            this.TB_eurval.Name = "TB_eurval";
-            this.TB_eurval.Size = new System.Drawing.Size(93, 26);
-            this.TB_eurval.TabIndex = 49;
-            this.TB_eurval.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // TB_usdval
-            // 
-            this.TB_usdval.Location = new System.Drawing.Point(81, 44);
-            this.TB_usdval.Name = "TB_usdval";
-            this.TB_usdval.Size = new System.Drawing.Size(93, 26);
-            this.TB_usdval.TabIndex = 48;
-            this.TB_usdval.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // label157
-            // 
-            this.label157.AutoSize = true;
-            this.label157.BackColor = System.Drawing.Color.Gainsboro;
-            this.label157.Location = new System.Drawing.Point(39, 48);
-            this.label157.Name = "label157";
-            this.label157.Size = new System.Drawing.Size(45, 18);
-            this.label157.TabIndex = 38;
-            this.label157.Text = "USD -";
-            // 
-            // B_senval
-            // 
-            this.B_senval.Location = new System.Drawing.Point(61, 124);
-            this.B_senval.Name = "B_senval";
-            this.B_senval.Size = new System.Drawing.Size(96, 25);
-            this.B_senval.TabIndex = 37;
-            this.B_senval.Text = "დამახსოვრება";
-            this.B_senval.UseVisualStyleBackColor = true;
-            this.B_senval.Click += new System.EventHandler(this.pr_senval);
-            // 
-            // B_cl_val
-            // 
-            this.B_cl_val.BackColor = System.Drawing.Color.White;
-            this.B_cl_val.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_val.Image")));
-            this.B_cl_val.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.B_cl_val.Location = new System.Drawing.Point(194, -2);
-            this.B_cl_val.Name = "B_cl_val";
-            this.B_cl_val.Size = new System.Drawing.Size(22, 24);
-            this.B_cl_val.TabIndex = 7;
-            this.B_cl_val.UseVisualStyleBackColor = false;
-            this.B_cl_val.Click += new System.EventHandler(this.pr_cl_val);
-            // 
-            // B_kurdel
-            // 
-            this.B_kurdel.BackColor = System.Drawing.Color.Transparent;
-            this.B_kurdel.Location = new System.Drawing.Point(140, 4);
-            this.B_kurdel.Name = "B_kurdel";
-            this.B_kurdel.Size = new System.Drawing.Size(53, 22);
-            this.B_kurdel.TabIndex = 152;
-            this.B_kurdel.Text = "წაშლა";
-            this.B_kurdel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.B_kurdel.UseVisualStyleBackColor = false;
-            this.B_kurdel.Click += new System.EventHandler(this.pr_delval);
-            // 
-            // B_kursec
-            // 
-            this.B_kursec.BackColor = System.Drawing.Color.Transparent;
-            this.B_kursec.Location = new System.Drawing.Point(83, 4);
-            this.B_kursec.Name = "B_kursec";
-            this.B_kursec.Size = new System.Drawing.Size(57, 22);
-            this.B_kursec.TabIndex = 151;
-            this.B_kursec.Text = "შეცვლა";
-            this.B_kursec.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.B_kursec.UseVisualStyleBackColor = false;
-            this.B_kursec.Click += new System.EventHandler(this.pr_edval);
-            // 
-            // B_kurdam
-            // 
-            this.B_kurdam.BackColor = System.Drawing.Color.Transparent;
-            this.B_kurdam.Location = new System.Drawing.Point(13, 4);
-            this.B_kurdam.Name = "B_kurdam";
-            this.B_kurdam.Size = new System.Drawing.Size(69, 22);
-            this.B_kurdam.TabIndex = 150;
-            this.B_kurdam.Text = "დამატება";
-            this.B_kurdam.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.B_kurdam.UseVisualStyleBackColor = false;
-            this.B_kurdam.Click += new System.EventHandler(this.pr_addval);
-            // 
-            // DGV_kur
-            // 
-            this.DGV_kur.AllowUserToAddRows = false;
-            this.DGV_kur.AllowUserToDeleteRows = false;
-            this.DGV_kur.AllowUserToOrderColumns = true;
-            this.DGV_kur.AutoGenerateColumns = false;
-            this.DGV_kur.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_kur.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.isodate,
-            this.usd,
-            this.eur,
-            this.iis});
-            this.DGV_kur.DataSource = this.BS_kur;
-            this.DGV_kur.Location = new System.Drawing.Point(13, 37);
-            this.DGV_kur.Name = "DGV_kur";
-            this.DGV_kur.ReadOnly = true;
-            this.DGV_kur.RowHeadersWidth = 25;
-            this.DGV_kur.Size = new System.Drawing.Size(317, 290);
-            this.DGV_kur.TabIndex = 148;
-            // 
-            // isodate
-            // 
-            this.isodate.DataPropertyName = "isodate";
-            this.isodate.HeaderText = "თარიღი";
-            this.isodate.MinimumWidth = 6;
-            this.isodate.Name = "isodate";
-            this.isodate.ReadOnly = true;
-            this.isodate.Width = 125;
-            // 
-            // usd
-            // 
-            this.usd.DataPropertyName = "usd";
-            this.usd.HeaderText = "USD";
-            this.usd.MinimumWidth = 6;
-            this.usd.Name = "usd";
-            this.usd.ReadOnly = true;
-            this.usd.Width = 125;
-            // 
-            // eur
-            // 
-            this.eur.DataPropertyName = "eur";
-            this.eur.HeaderText = "EUR";
-            this.eur.MinimumWidth = 6;
-            this.eur.Name = "eur";
-            this.eur.ReadOnly = true;
-            this.eur.Width = 125;
-            // 
-            // iis
-            // 
-            this.iis.DataPropertyName = "iis";
-            this.iis.HeaderText = "iis";
-            this.iis.MinimumWidth = 6;
-            this.iis.Name = "iis";
-            this.iis.ReadOnly = true;
-            this.iis.Visible = false;
-            this.iis.Width = 125;
-            // 
-            // BS_kur
-            // 
-            this.BS_kur.DataMember = "iso";
-            this.BS_kur.DataSource = this.dS_kur;
-            // 
-            // dS_kur
-            // 
-            this.dS_kur.DataSetName = "DS_kur";
-            this.dS_kur.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // B_cl_kur
-            // 
-            this.B_cl_kur.BackColor = System.Drawing.Color.White;
-            this.B_cl_kur.Image = ((System.Drawing.Image)(resources.GetObject("B_cl_kur.Image")));
-            this.B_cl_kur.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.B_cl_kur.Location = new System.Drawing.Point(327, 0);
-            this.B_cl_kur.Name = "B_cl_kur";
-            this.B_cl_kur.Size = new System.Drawing.Size(22, 22);
-            this.B_cl_kur.TabIndex = 147;
-            this.B_cl_kur.UseVisualStyleBackColor = false;
-            this.B_cl_kur.Click += new System.EventHandler(this.pr_cl_kur);
-            // 
             // TA_kur
             // 
             this.TA_kur.ClearBeforeFill = true;
@@ -8960,6 +8960,12 @@
             this.TP_inf1.PerformLayout();
             this.Pa_newauqt.ResumeLayout(false);
             this.Pa_newauqt.PerformLayout();
+            this.Pa_kur.ResumeLayout(false);
+            this.Pa_valu.ResumeLayout(false);
+            this.Pa_valu.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DGV_kur)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BS_kur)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dS_kur)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_auqt)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DS_auqt)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_repr)).EndInit();
@@ -8990,6 +8996,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.dS_buy)).EndInit();
             this.Pa_newbuy.ResumeLayout(false);
             this.Pa_newbuy.PerformLayout();
+            this.Pa_rep.ResumeLayout(false);
+            this.Pa_prc.ResumeLayout(false);
+            this.Pa_prc.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DGV_rep)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.BS_rep)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dS_rep)).EndInit();
+            this.Pa_w2.ResumeLayout(false);
+            this.Pa_w2.PerformLayout();
             this.Pa_pdf.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.DGV_pdf)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_pdf)).EndInit();
@@ -9027,22 +9041,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGV_bru)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BS_bru)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dS_bru)).EndInit();
-            this.Pa_rep.ResumeLayout(false);
-            this.Pa_prc.ResumeLayout(false);
-            this.Pa_prc.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.DGV_rep)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BS_rep)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dS_rep)).EndInit();
-            this.Pa_w2.ResumeLayout(false);
-            this.Pa_w2.PerformLayout();
             this.Pa_userout.ResumeLayout(false);
             this.Pa_userout.PerformLayout();
-            this.Pa_kur.ResumeLayout(false);
-            this.Pa_valu.ResumeLayout(false);
-            this.Pa_valu.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.DGV_kur)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.BS_kur)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dS_kur)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
