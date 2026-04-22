@@ -90,7 +90,7 @@ namespace SpecPro
 
         //Task13
         public string kreditorisTanxa = "";
-        
+
 
         /*public struct useridliq
         {
@@ -1784,9 +1784,9 @@ namespace SpecPro
                     {
                         frm.an = "3";
                     }
-                    
-                    frm.cc = DGV_info.Rows[rowwgi].Cells["eacution1"].Value.ToString();                    
-                    
+
+                    frm.cc = DGV_info.Rows[rowwgi].Cells["eacution1"].Value.ToString();
+
                     string accp = DGV_info.Rows[rowwgi].Cells["nom"].Value.ToString();
 
                     Sql.CommandText = "exec dbo.proc_acc1 '" + accp + "'";
@@ -3982,9 +3982,9 @@ namespace SpecPro
                         av = 0;
                     }
                     //Task7
-                    if (cc == 690) 
-                    {                        
-                        av = 0;                   
+                    if (cc == 690)
+                    {
+                        av = 0;
                     }
 
                     double aqp = Convert.ToDouble(TB_auqpr.Text);
@@ -6947,15 +6947,15 @@ namespace SpecPro
             string inf;
             string auqt;
 
-            string nom = DGV_rep.Rows[rowwgi].Cells["nom_a"].Value.ToString();                    
-            
+            string nom = DGV_rep.Rows[rowwgi].Cells["nom_a"].Value.ToString();
+
             Forms frm = new Forms();
             frm.conn = conn;
             frm.sss = sss;
             moqme = 10;
             frm.moqme = moqme;
             //Task13
-            frm.kreditorisTanxa = DGV_rep.Rows[rowwgi].Cells["deb_prc"].Value.ToString(); 
+            frm.kreditorisTanxa = DGV_rep.Rows[rowwgi].Cells["deb_prc"].Value.ToString();
             Sql.CommandText = "select auqt from info where nom = N'" + nom + "'";
 
             auqt = Sql.ExecuteScalar().ToString();
@@ -7084,17 +7084,9 @@ namespace SpecPro
                     frm.an = "3";
                 }
 
-                object debPrcValue = DGV_rep.Rows[rowwgi].Cells["deb_prc"].Value;
-                if ((debPrcValue != null) && (debPrcValue != DBNull.Value) && (debPrcValue.ToString().Trim() != ""))
-                {
-                    frm.cc = debPrcValue.ToString().Trim();
-                }
-                else
-                {
-                    // Fallback to DB computation when report cell is empty/null.
-                    Sql.CommandText = "select dbo.eacut(" + inf + ") from info where nom = N'" + nom + "'";
-                    frm.cc = Sql.ExecuteScalar().ToString();
-                }
+                Sql.CommandText = "select dbo.eacut(" + inf + ") from info where nom = N'" + nom + "'";
+
+                frm.cc = Sql.ExecuteScalar().ToString();
 
                 Sql.CommandText = "exec dbo.proc_acc1 '" + nom + "'";
 
@@ -7152,7 +7144,7 @@ namespace SpecPro
                 //Get owner address 
                 Sql.CommandText = "select isnull(owner_addr1,'') from info where nom = N'" + nom + "'";
                 frm.addr = Sql.ExecuteScalar().ToString();
-                
+
                 frm.Show();
             }
             else
@@ -7846,8 +7838,8 @@ namespace SpecPro
             //Task12
             if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
             {
-                TB_auqt.SelectedValue = "Auction.livo.ge";                   
+                TB_auqt.SelectedValue = "Auction.livo.ge";
             }
-        }        
+        }
     }
 }
