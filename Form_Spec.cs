@@ -185,6 +185,8 @@ namespace SpecPro
             TP_work.Value = DateTime.Today;
 
             TB_ad_date.CustomFormat = "dd/MM/yyyy";
+            //Task14
+            CreditDate.CustomFormat = "dd/MM/yyyy";
             TB_dt_mort.CustomFormat = "dd/MM/yyyy";
 
             TB_post_send.CustomFormat = "dd/MM/yyyy";
@@ -227,6 +229,9 @@ namespace SpecPro
             TB_tarval.CustomFormat = "dd/MM/yyyy";
 
             TB_ad_date.Value = DateTime.Today.AddDays(1);
+            //Task14
+            CreditDate.Value = DateTime.Today.AddDays(1);
+
             TB_dt_mort.Value = DateTime.Today.AddDays(1);
 
             TB_post_send.Value = DateTime.Today.AddDays(1);
@@ -1922,6 +1927,10 @@ namespace SpecPro
             BS_repr.MoveFirst();
 
             TB_ad_date.CustomFormat = " ";
+
+            //Task14
+            CreditDate.CustomFormat = " ";
+
             TB_dt_mort.CustomFormat = " ";
 
             TB_post_send.CustomFormat = " ";
@@ -1973,7 +1982,8 @@ namespace SpecPro
             TB_repr.Text = "";
             TB_n_mort.Text = "";
             TB_credit_tr.Text = "";
-            TB_credit_id.Text = "";
+            //Task14
+            //TB_credit_id.Text = "";
             TB_debt_gel.Text = "";
             TB_prop_addr.Text = "";
             TB_prop_code.Text = "";
@@ -2075,7 +2085,12 @@ namespace SpecPro
 
             rezhim = 2;
 
+            
             TB_ad_date.CustomFormat = " ";
+            
+            //Task14
+            CreditDate.CustomFormat = " ";
+
             TB_dt_mort.CustomFormat = " ";
 
             TB_post_send.CustomFormat = " ";
@@ -2182,6 +2197,15 @@ namespace SpecPro
                 TB_ad_date.Value = d0;
             }
 
+            //Task14
+            if (DGV_info.Rows[rowwgi].Cells["credit_date"].Value != DBNull.Value)
+            {
+                d0 = Convert.ToDateTime(DGV_info.Rows[rowwgi].Cells["credit_date"].Value);
+                TB_ad_date.Text = d0.ToString("dd/MM/yyyy");
+                TB_ad_date.CustomFormat = "";
+                TB_ad_date.Value = d0;
+            }
+
             if (DGV_info.Rows[rowwgi].Cells["end_date"].Value != DBNull.Value)
             {
                 d0 = Convert.ToDateTime(DGV_info.Rows[rowwgi].Cells["end_date"].Value);
@@ -2233,7 +2257,8 @@ namespace SpecPro
             }
 
             TB_credit_tr.Text = DGV_info.Rows[rowwgi].Cells["credit_treaty"].Value.ToString();
-            TB_credit_id.Text = DGV_info.Rows[rowwgi].Cells["credit_id"].Value.ToString();
+            //Task14
+            //TB_credit_id.Text = DGV_info.Rows[rowwgi].Cells["credit_id"].Value.ToString();
             TB_debt_gel.Text = DGV_info.Rows[rowwgi].Cells["debt_gel"].Value.ToString();
             TB_prop_addr.Text = DGV_info.Rows[rowwgi].Cells["property_addr"].Value.ToString();
             TB_prop_code.Text = DGV_info.Rows[rowwgi].Cells["property_code"].Value.ToString();
@@ -2723,8 +2748,7 @@ namespace SpecPro
             izm = 1;
             TB_ad_date.CustomFormat = "dd/MM/yyyy";
             note = note + "განაცხადის თარიღი; ";
-        }
-
+        }        
         private void pr_1(object sender, KeyEventArgs e)
         {
             if (e.KeyData == Keys.Delete)
@@ -2739,6 +2763,12 @@ namespace SpecPro
             izm = 1;
             TB_dt_mort.CustomFormat = "dd/MM/yyyy";
             note = note + "იპოთეკის თარიღი; ";
+        }
+        //Task14
+        private void pr_ch_CreditDate(object sender, EventArgs e)
+        {
+            izm = 1;
+            CreditDate.CustomFormat = "dd/MM/yyyy";
         }
 
         private void pr_sem3(object sender, EventArgs e)
@@ -2877,9 +2907,11 @@ namespace SpecPro
             string dg;
             string chs;
 
-            string cre;
+            //string cre;
 
             string dt01;
+            //Task14
+            string dtCreditDate;
             string dt02;
             string dt03;
             string dt04;
@@ -2997,6 +3029,18 @@ namespace SpecPro
                     else
                     {
                         dt1 = "null";
+                    }
+
+                    //Task14
+                    if (CreditDate.Text.Trim() != "")
+                    {
+                        d0 = CreditDate.Value.Date;
+                        dtCreditDate = d0.ToString("dd/MM/yyyy");
+                        dtCreditDate = "'" + dtCreditDate.Substring(6, 4) + dtCreditDate.Substring(3, 2) + dtCreditDate.Substring(0, 2) + "'";
+                    }
+                    else
+                    {
+                        dtCreditDate = "null";
                     }
 
                     if (TP_end.Text.Trim() != "")
@@ -3119,15 +3163,15 @@ namespace SpecPro
                     {
                         frz1 = "0";
                     }
-
-                    if (TB_credit_id.Text.Trim().Length != 0)
-                    {
-                        cre = TB_credit_id.Text;
-                    }
-                    else
-                    {
-                        cre = "0";
-                    }
+                    //Task14
+                    //if (TB_credit_id.Text.Trim().Length != 0)
+                    //{
+                    //    cre = TB_credit_id.Text;
+                    //}
+                    //else
+                    //{
+                    //    cre = "0";
+                    //}
 
                     if (TB_post_send.Text.Trim() != "")
                     {
@@ -3418,8 +3462,12 @@ namespace SpecPro
                     }
 
                     Sql.CommandText = "update info";
-                    Sql.CommandText = Sql.CommandText + " set kor = " + TB_kor.Text.Trim() + ",specpr = " + TB_specpr.Text.Trim() + ",auqpr = " + TB_auqpr.Text.Trim() + ",nom = N'" + TB_nom.Text.Trim() + "',spec = " + spec0.ToString() + ",stat = " + stat0.ToString() + ",cust = " + cust0.ToString() + ",representative = N'" + TB_repr.Text.Replace("'", "`").Trim() + "',ad_date = " + dt1 + ",n_mortgage = N'" + TB_n_mort.Text.Replace("'", "`").Trim() + "',dt_mortgage = " + dt2 + ",credit_treaty = N'" + TB_credit_tr.Text.Replace("'", "`").Trim() + "',credit_id";
-                    Sql.CommandText = Sql.CommandText + " = " + cre + ",debt_gel = N'" + TB_debt_gel.Text + "',property_addr = N'" + TB_prop_addr.Text.Replace("'", "`").Trim() + "',property_code = N'" + TB_prop_code.Text.Replace("'", "`").Trim() + "',property = N'" + TB_property.Text.Replace("'", "`").Trim() + "',comment = N'" + TB_com.Text.Replace("'", "`").Trim() + "',rights = N'" + TB_rights.Text.Replace("'", "`").Trim() + "'";
+                    Sql.CommandText = Sql.CommandText + " set kor = " + TB_kor.Text.Trim() + ",specpr = " + TB_specpr.Text.Trim() + ",auqpr = " + TB_auqpr.Text.Trim() + ",nom = N'" + TB_nom.Text.Trim() + "',spec = " + spec0.ToString() + ",stat = " + stat0.ToString() + ",cust = " + cust0.ToString() + ",representative = N'" + TB_repr.Text.Replace("'", "`").Trim() + "',ad_date = " + dt1 + ",n_mortgage = N'" + TB_n_mort.Text.Replace("'", "`").Trim() + "',dt_mortgage = " + dt2 + ",credit_treaty = N'" + TB_credit_tr.Text.Replace("'", "`").Trim() + "',credit_date = " + dtCreditDate ;
+                    Sql.CommandText = Sql.CommandText + ",property_addr = N'" + TB_prop_addr.Text.Replace("'", "`").Trim() + "',property_code = N'" + TB_prop_code.Text.Replace("'", "`").Trim() + "',property = N'" + TB_property.Text.Replace("'", "`").Trim() + "',comment = N'" + TB_com.Text.Replace("'", "`").Trim() + "',rights = N'" + TB_rights.Text.Replace("'", "`").Trim() + "'";
+                    //Task14
+                    //Sql.CommandText = Sql.CommandText + " = " + cre + ",debt_gel = N'" + TB_debt_gel.Text + "',property_addr = N'" + TB_prop_addr.Text.Replace("'", "`").Trim() + "',property_code = N'" + TB_prop_code.Text.Replace("'", "`").Trim() + "',property = N'" + TB_property.Text.Replace("'", "`").Trim() + "',comment = N'" + TB_com.Text.Replace("'", "`").Trim() + "',rights = N'" + TB_rights.Text.Replace("'", "`").Trim() + "'";
+                    //Sql.CommandText = Sql.CommandText + " = " + "',property_addr = N'" + TB_prop_addr.Text.Replace("'", "`").Trim() + "',property_code = N'" + TB_prop_code.Text.Replace("'", "`").Trim() + "',property = N'" + TB_property.Text.Replace("'", "`").Trim() + "',comment = N'" + TB_com.Text.Replace("'", "`").Trim() + "',rights = N'" + TB_rights.Text.Replace("'", "`").Trim() + "'";
+
                     Sql.CommandText = Sql.CommandText + ",owner = N'" + TB_owner.Text.Replace("'", "`").Trim() + "',owner_num = N'" + TB_ow_num.Text.Replace("'", "`").Trim() + "',owner_tel = N'" + TB_ow_tel.Text.Replace("'", "`").Trim() + "',owner_addr1 = N'" + TB_ow_addr1.Text.Replace("'", "`").Trim() + "',owner_addr2 = N'" + TB_ow_addr2.Text.Replace("'", "`").Trim() + "',owner_addr3 = N'" + TB_ow_addr3.Text.Replace("'", "`").Trim() + "',owner_addr4 = N'" + TB_ow_addr4.Text.Replace("'", "`").Trim() + "',";
                     Sql.CommandText = Sql.CommandText + " debtor = N'" + TB_debtor.Text.Replace("'", "`").Trim() + "',debtor_num = N'" + TB_deb_num.Text.Replace("'", "`").Trim() + "',debtor_addr = N'" + TB_deb_addr.Text.Replace("'", "`").Trim() + "',debtor1 = N'" + TB_debtor1.Text.Replace("'", "`").Trim() + "',debtor1_num = N'" + TB_deb1_num.Text.Replace("'", "`").Trim() + "',debtor1_addr = N'" + TB_deb1_addr.Text.Replace("'", "`").Trim() + "',";
                     Sql.CommandText = Sql.CommandText + " foto = " + fot + ",prepaid = 0" + CB_prepaid.Text + ",prepaid_dt = " + dt3 + ",sales_usd = 0" + TB_sales_usd.Text + ",liquid_price = 0" + TB_liq_usd.Text + ",sales_eur = 0" + TB_sales_eur.Text + ",price_usd = 0" + TB_price_usd.Text + ",price_gel = 0" + TB_price_gel.Text + ",post_reg = N'" + CB_post_reg.Text.Replace("'", "`").Trim() + "',tnt_reg = N'" + CB_tnt_reg.Text.Replace("'", "`").Trim() + "',post1_reg = N'" + CB_post1_reg.Text.Replace("'", "`").Trim() + "',tnt1_reg = N'" + CB_tnt1_reg.Text.Replace("'", "`").Trim() + "',";
@@ -3864,22 +3912,21 @@ namespace SpecPro
             }
         }
 
-        private void pr_sem0(object sender, EventArgs e)
-        {
-            if (TB_credit_id.Text.Trim() != "")
-            {
-                try
-                {
-                    Int32 cc = Convert.ToInt32(TB_credit_id.Text);
-                }
-                catch
-                {
-                    MessageBox.Show("შეტანა არასწორია");
-                    TB_credit_id.Focus();
-                }
-            }
-
-        }
+        //private void pr_sem0(object sender, EventArgs e)
+        //{
+        //    if (TB_credit_id.Text.Trim() != "")
+        //    {
+        //        try
+        //        {
+        //            Int32 cc = Convert.ToInt32(TB_credit_id.Text);
+        //        }
+        //        catch
+        //        {
+        //            MessageBox.Show("შეტანა არასწორია");
+        //            TB_credit_id.Focus();
+        //        }
+        //    }
+        //}
 
         private void pr_infdel(object sender, EventArgs e)
         {
@@ -7840,6 +7887,6 @@ namespace SpecPro
             {
                 TB_auqt.SelectedValue = "Auction.livo.ge";
             }
-        }
+        }        
     }
 }

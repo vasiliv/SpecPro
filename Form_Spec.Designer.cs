@@ -317,7 +317,7 @@
             this.label21 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.label20 = new System.Windows.Forms.Label();
-            this.TB_credit_id = new System.Windows.Forms.TextBox();
+            this.CreditDate = new System.Windows.Forms.DateTimePicker();
             this.label18 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
@@ -603,6 +603,10 @@
             this.dt_mortgage = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.credit_treaty = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.credit_id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            
+            //Task14
+            this.credit_date = new System.Windows.Forms.DataGridViewTextBoxColumn();
+
             this.debt_gel = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.property_addr = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.property_code = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -954,21 +958,21 @@
             this.Mitem4});
             this.Menu1.Location = new System.Drawing.Point(0, 0);
             this.Menu1.Name = "Menu1";
-            this.Menu1.Size = new System.Drawing.Size(1242, 29);
+            this.Menu1.Size = new System.Drawing.Size(1242, 30);
             this.Menu1.TabIndex = 1;
             this.Menu1.Text = "menuStrip1";
             // 
             // Mitem1
             // 
             this.Mitem1.Name = "Mitem1";
-            this.Mitem1.Size = new System.Drawing.Size(168, 25);
+            this.Mitem1.Size = new System.Drawing.Size(168, 26);
             this.Mitem1.Text = "პაროლის შეცვლა";
             this.Mitem1.Click += new System.EventHandler(this.pr_step1);
             // 
             // Mitem2
             // 
             this.Mitem2.Name = "Mitem2";
-            this.Mitem2.Size = new System.Drawing.Size(346, 25);
+            this.Mitem2.Size = new System.Drawing.Size(346, 26);
             this.Mitem2.Text = "მომხმარებლის დამატემა/რედაქტირება";
             this.Mitem2.Click += new System.EventHandler(this.pr_step2);
             // 
@@ -982,7 +986,7 @@
             this.Mitem10,
             this.Mitem11});
             this.Mitem3.Name = "Mitem3";
-            this.Mitem3.Size = new System.Drawing.Size(239, 25);
+            this.Mitem3.Size = new System.Drawing.Size(239, 26);
             this.Mitem3.Text = "მუშაობა ინფორმაციასთან";
             // 
             // Mitem5
@@ -1030,7 +1034,7 @@
             // Mitem4
             // 
             this.Mitem4.Name = "Mitem4";
-            this.Mitem4.Size = new System.Drawing.Size(177, 25);
+            this.Mitem4.Size = new System.Drawing.Size(177, 26);
             this.Mitem4.Text = "ვალუტის კურსები";
             this.Mitem4.Click += new System.EventHandler(this.pr_kur);
             // 
@@ -1509,7 +1513,7 @@
             this.TP_inf1.Controls.Add(this.label21);
             this.TP_inf1.Controls.Add(this.panel3);
             this.TP_inf1.Controls.Add(this.label20);
-            this.TP_inf1.Controls.Add(this.TB_credit_id);
+            this.TP_inf1.Controls.Add(this.CreditDate);
             this.TP_inf1.Controls.Add(this.label18);
             this.TP_inf1.Controls.Add(this.label17);
             this.TP_inf1.Controls.Add(this.label16);
@@ -1545,7 +1549,7 @@
             this.Pa_newauqt.Controls.Add(this.label113);
             this.Pa_newauqt.Controls.Add(this.B_saveauqt);
             this.Pa_newauqt.Controls.Add(this.B_cl_newauqt);
-            this.Pa_newauqt.Location = new System.Drawing.Point(396, 80);
+            this.Pa_newauqt.Location = new System.Drawing.Point(312, 315);
             this.Pa_newauqt.Name = "Pa_newauqt";
             this.Pa_newauqt.Size = new System.Drawing.Size(307, 108);
             this.Pa_newauqt.TabIndex = 287;
@@ -2515,17 +2519,15 @@
             this.label20.TabIndex = 177;
             this.label20.Text = "სესხის დავალიანება ";
             // 
-            // TB_credit_id
+            // CreditDate
             // 
-            this.TB_credit_id.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.TB_credit_id.Font = new System.Drawing.Font("Sylfaen", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TB_credit_id.Location = new System.Drawing.Point(655, 150);
-            this.TB_credit_id.Name = "TB_credit_id";
-            this.TB_credit_id.Size = new System.Drawing.Size(114, 26);
-            this.TB_credit_id.TabIndex = 174;
-            this.TB_credit_id.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.TB_credit_id.TextChanged += new System.EventHandler(this.pr_chno09);
-            this.TB_credit_id.Leave += new System.EventHandler(this.pr_sem0);
+            this.CreditDate.CustomFormat = "dd/MM/yyyy";
+            this.CreditDate.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.CreditDate.Location = new System.Drawing.Point(655, 150);
+            this.CreditDate.Name = "CreditDate";
+            this.CreditDate.Size = new System.Drawing.Size(114, 26);
+            this.CreditDate.TabIndex = 174;
+            this.CreditDate.ValueChanged += new System.EventHandler(this.pr_ch_CreditDate);
             // 
             // label18
             // 
@@ -2534,9 +2536,9 @@
             this.label18.Font = new System.Drawing.Font("Sylfaen", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.Location = new System.Drawing.Point(678, 128);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(85, 19);
+            this.label18.Size = new System.Drawing.Size(130, 19);
             this.label18.TabIndex = 173;
-            this.label18.Text = "სესხის ID";
+            this.label18.Text = "სესხის თარიღი";
             // 
             // label17
             // 
@@ -3646,7 +3648,7 @@
             this.CB_prepaid.Name = "CB_prepaid";
             this.CB_prepaid.Size = new System.Drawing.Size(144, 26);
             this.CB_prepaid.TabIndex = 358;
-            this.CB_prepaid.ValueMember = "prep_val";            
+            this.CB_prepaid.ValueMember = "prep_val";
             this.CB_prepaid.TextChanged += new System.EventHandler(this.pr_chno28);
             this.CB_prepaid.Leave += new System.EventHandler(this.pr_sem1);
             // 
@@ -5786,6 +5788,8 @@
             this.dt_mortgage,
             this.credit_treaty,
             this.credit_id,
+            //Task14
+            this.credit_date,
             this.debt_gel,
             this.property_addr,
             this.property_code,
@@ -6023,6 +6027,15 @@
             this.credit_id.Name = "credit_id";
             this.credit_id.ReadOnly = true;
             this.credit_id.Width = 80;
+
+            //Task14
+            // credit_date_col
+            this.credit_date.DataPropertyName = "credit_date";
+            this.credit_date.HeaderText = "სესხის თარიღი";
+            this.credit_date.Name = "credit_date";
+            this.credit_date.ReadOnly = true;
+            this.credit_date.Width = 90;
+
             // 
             // debt_gel
             // 
@@ -9117,7 +9130,10 @@
         private System.Windows.Forms.Button B_save_inf;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.TextBox TB_credit_id;
+        //Task14
+        //private System.Windows.Forms.TextBox TB_credit_id;
+        private System.Windows.Forms.DateTimePicker CreditDate;
+
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label16;
@@ -9628,6 +9644,10 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dt_mortgage;
         private System.Windows.Forms.DataGridViewTextBoxColumn credit_treaty;
         private System.Windows.Forms.DataGridViewTextBoxColumn credit_id;
+        
+        //Task14
+        private System.Windows.Forms.DataGridViewTextBoxColumn credit_date;
+
         private System.Windows.Forms.DataGridViewTextBoxColumn debt_gel;
         private System.Windows.Forms.DataGridViewTextBoxColumn property_addr;
         private System.Windows.Forms.DataGridViewTextBoxColumn property_code;

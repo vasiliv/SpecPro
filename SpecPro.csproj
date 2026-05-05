@@ -101,6 +101,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DS_cust.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DS_info.cs">
+      <DependentUpon>DS_info.xsd</DependentUpon>
+    </Compile>
     <Compile Include="DS_info.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
