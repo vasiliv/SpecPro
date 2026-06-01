@@ -1840,7 +1840,7 @@ namespace SpecPro
             {
                 /*filter_base = "((stat <> 'SOLD') and (stat <> 'Canceld') and (stat <> 'SOLD (2)') and (stat <> 'SOLD (3)') and (stat <> 'SOLD (Stationar)') and (stat <> 'BROCKED'))";*/
 
-                Sql.CommandText = "SELECT nom, dbo.spec_info(inf_i) AS spec, dbo.stat_info(inf_i) AS stat, dbo.cust_info(inf_i) AS cust, representative, ad_date, n_mortgage, dt_mortgage, credit_treaty, credit_id, debt_usd, debt_gel, property_addr, property_code, property, rights, owner, owner_num, owner_addr1, owner_addr2, owner_addr3, owner_addr4, debtor, debtor_num, debtor_addr, debtor1, debtor1_num, debtor1_addr, dbo.doc_info(inf_i) AS doc_orig, dbo.foto_info(inf_i) AS foto, prepaid, sales_usd, price_usd, price_gel, dbo.post_send(inf_i) AS post_send, post_reg, dbo.tnt_send(inf_i) AS tnt_send, tnt_reg, dbo.cur_send(inf_i) AS courier, dbo.tel_send(inf_i) AS tel, dbo.rez_send(inf_i) AS rez, dbo.mac_send(inf_i) AS macne, dbo.start1(inf_i) AS auc_start, dbo.end1(inf_i) AS auc_end, lot_num, price1_usd, price1_gel, dbo.post1_send(inf_i) AS post1_send, post1_reg, dbo.tnt1_send(inf_i) AS tnt1_send, tnt1_reg, dbo.cur1_send(inf_i) AS courier1, dbo.tel1_send(inf_i) AS tel1, dbo.rez1_send(inf_i) AS rez1, dbo.mac1_send(inf_i) AS macne1, dbo.start2(inf_i) AS auc1_start, dbo.end2(inf_i) AS auc1_end, lot1_num, price2_usd, price2_gel, dbo.post2_send(inf_i) AS post2_send, post2_reg, dbo.tnt2_send(inf_i) AS tnt2_send, tnt2_reg, dbo.cur2_send(inf_i) AS courier2, dbo.tel2_send(inf_i) AS tel2, dbo.rez2_send(inf_i) AS rez2, dbo.mac2_send(inf_i) AS macne2, dbo.start3(inf_i) AS auc2_start, dbo.end3(inf_i) AS auc2_end, lot2_num, buyer, sum_gel, dbo.dgg_info(inf_i) AS dgg, inf_i, dbo.prep(ltrim(rtrim(nom))) AS prepaid_dt, repres_mail, owner_tel, gazrez, harmacne, dbo.spec(inf_i) as harspec, dbo.dgg_dat(inf_i) AS dgg0, dbo.eacut(inf_i) as eacution,dbo.eacut(inf_i) as eacution1,dbo.dgg_dat(inf_i) AS dgg1,dbo.bank_info(inf_i) AS bank,dbo.fee(inf_i) AS fee,isnull(freeze,0) as freeze,isnull(freeze_1,0) as freeze_1,end_date,auc2,auc2_dt,auc3,auc3_dt,gaz,gaz_dt,mac,mac_dt,specpr,kor,isnull(pdfo,0) as  pdfo,isnull(sales_eur,0) as sales_eur,dbo.fee(inf_i) * 0.0059 -  dbo.prep(ltrim(rtrim(nom)))  AS coms,auqpr,auqt,liquid_price,comment,dbo.chstg(inf_i) as chsg  FROM info where end_date is null ORDER BY dbo.nom(inf_i)";
+                Sql.CommandText = "SELECT nom, dbo.spec_info(inf_i) AS spec, dbo.stat_info(inf_i) AS stat, dbo.cust_info(inf_i) AS cust, representative, ad_date, n_mortgage, dt_mortgage, credit_treaty, credit_id, credit_date, debt_usd, debt_gel, property_addr, property_code, property, rights, owner, owner_num, owner_addr1, owner_addr2, owner_addr3, owner_addr4, debtor, debtor_num, debtor_addr, debtor1, debtor1_num, debtor1_addr, dbo.doc_info(inf_i) AS doc_orig, dbo.foto_info(inf_i) AS foto, prepaid, sales_usd, price_usd, price_gel, dbo.post_send(inf_i) AS post_send, post_reg, dbo.tnt_send(inf_i) AS tnt_send, tnt_reg, dbo.cur_send(inf_i) AS courier, dbo.tel_send(inf_i) AS tel, dbo.rez_send(inf_i) AS rez, dbo.mac_send(inf_i) AS macne, dbo.start1(inf_i) AS auc_start, dbo.end1(inf_i) AS auc_end, lot_num, price1_usd, price1_gel, dbo.post1_send(inf_i) AS post1_send, post1_reg, dbo.tnt1_send(inf_i) AS tnt1_send, tnt1_reg, dbo.cur1_send(inf_i) AS courier1, dbo.tel1_send(inf_i) AS tel1, dbo.rez1_send(inf_i) AS rez1, dbo.mac1_send(inf_i) AS macne1, dbo.start2(inf_i) AS auc1_start, dbo.end2(inf_i) AS auc1_end, lot1_num, price2_usd, price2_gel, dbo.post2_send(inf_i) AS post2_send, post2_reg, dbo.tnt2_send(inf_i) AS tnt2_send, tnt2_reg, dbo.cur2_send(inf_i) AS courier2, dbo.tel2_send(inf_i) AS tel2, dbo.rez2_send(inf_i) AS rez2, dbo.mac2_send(inf_i) AS macne2, dbo.start3(inf_i) AS auc2_start, dbo.end3(inf_i) AS auc2_end, lot2_num, buyer, sum_gel, dbo.dgg_info(inf_i) AS dgg, inf_i, dbo.prep(ltrim(rtrim(nom))) AS prepaid_dt, repres_mail, owner_tel, gazrez, harmacne, dbo.spec(inf_i) as harspec, dbo.dgg_dat(inf_i) AS dgg0, dbo.eacut(inf_i) as eacution,dbo.eacut(inf_i) as eacution1,dbo.dgg_dat(inf_i) AS dgg1,dbo.bank_info(inf_i) AS bank,dbo.fee(inf_i) AS fee,isnull(freeze,0) as freeze,isnull(freeze_1,0) as freeze_1,end_date,auc2,auc2_dt,auc3,auc3_dt,gaz,gaz_dt,mac,mac_dt,specpr,kor,isnull(pdfo,0) as  pdfo,isnull(sales_eur,0) as sales_eur,dbo.fee(inf_i) * 0.0059 -  dbo.prep(ltrim(rtrim(nom)))  AS coms,auqpr,auqt,liquid_price,comment,dbo.chstg(inf_i) as chsg  FROM info where end_date is null ORDER BY dbo.nom(inf_i)";
 
                 filter_base = "end_date is null";
                 B_clon.Enabled = false;
@@ -2912,6 +2912,8 @@ namespace SpecPro
             string dt01;
             //Task14
             string dtCreditDate;
+            //Task15
+            string dtMortgage;
             string dt02;
             string dt03;
             string dt04;
@@ -3042,7 +3044,17 @@ namespace SpecPro
                     {
                         dtCreditDate = "null";
                     }
-
+                    //Task15
+                    if (TB_dt_mort.Text.Trim() != "")
+                    {
+                        d0 = TB_dt_mort.Value.Date;
+                        dtMortgage = d0.ToString("dd/MM/yyyy");
+                        dtMortgage = "'" + dtMortgage.Substring(6, 4) + dtMortgage.Substring(3, 2) + dtMortgage.Substring(0, 2) + "'";
+                    }
+                    else
+                    {
+                        dtMortgage = "null";
+                    }
                     if (TP_end.Text.Trim() != "")
                     {
                         d0 = TP_end.Value.Date;
@@ -3449,6 +3461,40 @@ namespace SpecPro
                     else
                     {
                         dt24 = "null";
+                    }
+
+                    //Task15
+                    if (TB_dt_mort.Text.Trim() != "")
+                    {
+                        d0 = TB_dt_mort.Value.Date;
+                        dtMortgage = d0.ToString("dd/MM/yyyy");
+                        dtMortgage = "'" + dtMortgage.Substring(6, 4) + dtMortgage.Substring(3, 2) + dtMortgage.Substring(0, 2) + "'";
+
+                        // Check if date is less than 5 September 2024
+                        DateTime threshold = new DateTime(2024, 9, 5);
+                        if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
+                        {
+                            if (d0 < threshold)
+                            {
+                                // ipotekis tanxa anu TB_dt_mort is before 5 Sep 2024
+                                // avansis tanxa = 590
+                                CB_prepaid.Text = "590.00";
+                            }
+                            else
+                            {
+                                // avansis tanxa = 690
+                                CB_prepaid.Text = "690.00";
+                            }
+                        }
+                        else
+                        {
+                            CB_prepaid.Text = "590.00";
+                        }
+                    }
+                
+                    else
+                    {
+                        dtMortgage = "null";
                     }
 
                     try
