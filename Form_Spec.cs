@@ -2042,9 +2042,14 @@ namespace SpecPro
             TB_gaz.Text = "";
             TB_mac.Text = "";
 
-            TB_specpr.Text = "3.20";
+            //Task17
+            //TB_specpr.Text = "3.20";
+            //TB_kor.Text = "0.00";
+            //TB_auqpr.Text = "1.00";
+            TB_specpr.Text = "0.00";
             TB_kor.Text = "0.00";
-            TB_auqpr.Text = "1.00";
+            TB_auqpr.Text = "0.00";
+
 
             TB_com.Text = "";
 
@@ -2127,9 +2132,10 @@ namespace SpecPro
             TP_gaz.CustomFormat = " ";
             TP_mac.CustomFormat = " ";
 
-            TB_specpr.Text = "3.20";
+            //Task17
+            TB_specpr.Text = "0.00";
             TB_kor.Text = "0.00";
-            TB_auqpr.Text = "1.00";
+            TB_auqpr.Text = "0.00";
 
             B_delspec.Enabled = false;
             B_delstat.Enabled = false;
@@ -3472,24 +3478,26 @@ namespace SpecPro
 
                         // Check if date is less than 5 September 2024
                         DateTime threshold = new DateTime(2024, 9, 5);
-                        if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
-                        {
-                            if (d0 < threshold)
-                            {
-                                // ipotekis tanxa anu TB_dt_mort is before 5 Sep 2024
-                                // avansis tanxa = 590
-                                CB_prepaid.Text = "590.00";
-                            }
-                            else
-                            {
-                                // avansis tanxa = 690
-                                CB_prepaid.Text = "690.00";
-                            }
-                        }
-                        else
-                        {
-                            CB_prepaid.Text = "590.00";
-                        }
+
+                        //Task17
+                        //if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
+                        //{
+                        //    if (d0 < threshold)
+                        //    {
+                        //        // ipotekis tanxa anu TB_dt_mort is before 5 Sep 2024
+                        //        // avansis tanxa = 590
+                        //        CB_prepaid.Text = "590.00";
+                        //    }
+                        //    else
+                        //    {
+                        //        // avansis tanxa = 690
+                        //        CB_prepaid.Text = "690.00";
+                        //    }
+                        //}
+                        //else
+                        //{
+                        //    CB_prepaid.Text = "590.00";
+                        //}
                     }
                 
                     else
@@ -6439,7 +6447,8 @@ namespace SpecPro
 
             Sql.CommandTimeout = 3000;
 
-            Microsoft.Office.Interop.Excel.ApplicationClass ExcelObj = new Microsoft.Office.Interop.Excel.ApplicationClass();
+            //Microsoft.Office.Interop.Excel.ApplicationClass ExcelObj = new Microsoft.Office.Interop.Excel.ApplicationClass();
+            Microsoft.Office.Interop.Excel.Application ExcelObj = new Microsoft.Office.Interop.Excel.Application();
 
             Microsoft.Office.Interop.Excel.Workbook wb = ExcelObj.Workbooks.Open(TB_exc.Text, 0, false, 5, "", "", true, Microsoft.Office.Interop.Excel.XlPlatform.xlWindows,
                 "\t", true, true, 0, false, false, false);
@@ -7906,33 +7915,33 @@ namespace SpecPro
 
             pr_refrep(sender, e);
         }
-        private void TB_cust_SelectedIndexChanged(object sender, EventArgs e)
-        {
+        //private void TB_cust_SelectedIndexChanged(object sender, EventArgs e)
+        //{
             //Task 5.1
             //If customer is მიკრობანკი "ემბისი" 404967078            
             //if (TB_cust.SelectedValue.ToString() == "სს მიკრობანკი „ემბისი“ 404967078")
-            if (TB_cust.Text == "სს მიკრობანკი „ემბისი“ 404967078")
-            {
-                TB_auqt.SelectedValue = "RS.ge";
-                CB_prepaid.Text = "590.00";
-                TB_specpr.Text = "4.38";
-                TB_auqpr.Text = "1.00";
-            }
+            //if (TB_cust.Text == "სს მიკრობანკი „ემბისი“ 404967078")
+            //{
+            //    TB_auqt.SelectedValue = "RS.ge";
+            //    CB_prepaid.Text = "590.00";
+            //    TB_specpr.Text = "4.38";
+            //    TB_auqpr.Text = "1.00";
+            //}
             //Task 5.2
             //If customer is "კრედო ბანკი"            
             //if (TB_cust.SelectedValue.ToString() == "სს კრედო ბანკი")
-            if (TB_cust.Text == "სს კრედო ბანკი")
-            {
-                TB_auqt.SelectedValue = "RS.ge";
-                CB_prepaid.Text = "590.00";
-                TB_specpr.Text = "3.98";
-                TB_auqpr.Text = "1.00";
-            }
+            //if (TB_cust.Text == "სს კრედო ბანკი")
+            //{
+            //    TB_auqt.SelectedValue = "RS.ge";
+            //    CB_prepaid.Text = "590.00";
+            //    TB_specpr.Text = "3.98";
+            //    TB_auqpr.Text = "1.00";
+            //}
             //Task12
-            if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
-            {
-                TB_auqt.SelectedValue = "Auction.livo.ge";
-            }
-        }        
+            //if (TB_cust.Text == "სს თიბისი ბანკი (ს/კ 204854595)")
+            //{
+            //    TB_auqt.SelectedValue = "Auction.livo.ge";
+            //}
+        //}        
     }
 }

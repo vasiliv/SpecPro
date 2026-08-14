@@ -2119,7 +2119,7 @@
             this.TB_cust.Size = new System.Drawing.Size(219, 26);
             this.TB_cust.TabIndex = 224;
             this.TB_cust.ValueMember = "customer";
-            this.TB_cust.SelectedIndexChanged += new System.EventHandler(this.TB_cust_SelectedIndexChanged);
+            //this.TB_cust.SelectedIndexChanged += new System.EventHandler(this.TB_cust_SelectedIndexChanged);
             this.TB_cust.TextChanged += new System.EventHandler(this.pr_chno04);
             // 
             // BS_cust
