@@ -433,6 +433,8 @@ namespace SpecPro
                 //Task9
                 TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
+                //Task18
+                TC1.AppendText("ტელ: 511 310 915 " + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(10) + (char)(13));
                 TC1.AppendText("მესაკუთრე:       " + qw + (char)(13));
                 TC1.AppendText("პირადი N          " + rw + (char)(13));
@@ -649,6 +651,8 @@ namespace SpecPro
                 //Task9
                 TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
+                //Task18
+                TC1.AppendText("ტელ: 511 310 915 " + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(10) + (char)(13));
                 TC1.AppendText("მსესხებელი:      " + ww + (char)(13));
                 TC1.AppendText("პირადი N          " + xw + (char)(13));
@@ -844,6 +848,8 @@ namespace SpecPro
                 //Task9
                 TC1.AppendText("დირექტორი:        " + spec + (char)(13));
                 TC1.AppendText("მისამართი:          ქ. თბილისი, ვ. პეტრიაშვილის N 10" + (char)(13));
+                //Task18
+                TC1.AppendText("ტელ: 511 310 915 " + (char)(13));
                 TC1.AppendText("ელ ფოსტა:           auction@cgg.ge" + (char)(10) + (char)(13));
                 TC1.AppendText("მესაკუთრე:      " + zw + (char)(13));
                 TC1.AppendText("პირადი N         " + aaw + (char)(13));
