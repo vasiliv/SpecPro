@@ -859,9 +859,11 @@ namespace SpecPro
 
                 TC1.AppendText("კრედიტორი: " + dw + (char)(13));
                 TC1.AppendText("მესაკუთრე: " + qw + " , პირადი N: " + rw + (char)(13));
-                TC1.AppendText("მოვალე (მსესხებელი): " + ww + " , პირადი N: " + xw + (char)(13));
+                //Task18
+                //TC1.AppendText("მოვალე (მსესხებელი): " + ww + " , პირადი N: " + xw + (char)(13));
                 TC1.AppendText("იპოთეკის ხელშეკრულება: " + gw + " , თარიღი: " + hw + (char)(13));
-                TC1.AppendText("ვალდებულების წარმოშობა: " + iw + (char)(13));
+                //Task18
+                //TC1.AppendText("ვალდებულების წარმოშობა: " + iw + (char)(13));
                 TC1.AppendText("იპოთეკის რეკვიზიტები: მისამართი: " + mw + " , საკადასტრო კოდი: " + nw + (char)(13));
                 //Task10
                 //TC1.AppendText("სასესხო დავალიანების ჯამური ოდენობა: " + kw + (char)(10) + (char)(13));
