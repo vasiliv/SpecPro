@@ -1078,7 +1078,8 @@ namespace SpecPro
                 TC1.AppendText("მესაკუთრის მისამართი: " + addr + (char)(13));
                 //TC1.AppendText("მოვალე (მსესხებელი): " + ww + " , პირადი N " + xw + (char)(13));
                 TC1.AppendText("იპოთეკის ხელშეკრულება: " + gw + " , თარიღი " + hw + (char)(13));
-                TC1.AppendText("ვალდებულების წარმოშობა: " + iw + (char)(13));
+                //Task18
+                //TC1.AppendText("ვალდებულების წარმოშობა: " + iw + (char)(13));
                 TC1.AppendText("იპოთეკის რეკვიზიტები: მისამართი " + mw + " , საკადასტრო კოდი: " + nw + (char)(13));
                 //TC1.AppendText("სასესხო დავალიანების ჯამური ოდენობა: " + kw + (char)(13));
                 TC1.AppendText("აუქციონის ჩატარების დრო:  " + aucs + " " + aucts + " საათიდან  " + auce + " " + aucte + " საათამდე" + (char)(13));
@@ -1222,7 +1223,8 @@ namespace SpecPro
                 TC1.AppendText("მესაკუთრის მისამართი: " + addr + (char)(13));                
                 //TC1.AppendText("მოვალე (მსესხებელი): " + ww + " , პირადი N " + xw + (char)(13));
                 TC1.AppendText("იპოთეკის ხელშეკრულება: " + gw + " , თარიღი " + hw + (char)(13));
-                TC1.AppendText("ვალდებულების წარმოშობა: " + iw + (char)(13));
+                //Task18
+                //TC1.AppendText("ვალდებულების წარმოშობა: " + iw + (char)(13));
                 TC1.AppendText("იპოთეკის რეკვიზიტები: " + mw + " , საკადასტრო კოდი: " + nw + (char)(13));
                 //TC1.AppendText("სასესხო დავალიანების ჯამური ოდენობა: " + kw + (char)(13));
                 TC1.AppendText("აუქციონის ჩატარების დრო:  " + aucs + " წლის " + aucts + " საათიდან  " + auce + " წლის " + aucte + " საათამდე" + (char)(13));
