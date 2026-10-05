@@ -1575,6 +1575,13 @@ namespace SpecPro
                     case "ია ადეიშვილი":
                         Clipboard.SetImage(Image.FromFile("Pej_Adeishvili.bmp"));
                         break;
+                    //Task 20 - ჩოჩნიძის და იასამნიძის ხელმოწერების დამატება
+                    case "თეა ჩოჩნიძე":
+                        Clipboard.SetImage(Image.FromFile("Pej_Chochnidze.png"));
+                        break;
+                    case "თეონა იასამნიძე":
+                        Clipboard.SetImage(Image.FromFile("Pej_Iasamnidze.png"));
+                        break;
                 }
                     
                 TC1.Paste();
