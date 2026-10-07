@@ -1351,7 +1351,9 @@ namespace SpecPro
                 TC1.AppendText("შპს „კონსალტინგ გრუპს“" + (char)(13));
                 TC1.AppendText("დირექტორი " + (char)(13));
                 //TC1.AppendText("ნინო არაბიძე" + (char)(10) + (char)(13));
-                TC1.AppendText("თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //TC1.AppendText("თამარ მაღალაშვილი" + (char)(10) + (char)(13));
+                //Task21 - დინამიურად წამოიღოს სპეციალისტის გვარი 
+                TC1.AppendText(spec + (char)(10) + (char)(13));
             }
             //D11 განკარგულება
             if (moqme == 9)
